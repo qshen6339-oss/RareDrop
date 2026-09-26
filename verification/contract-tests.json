@@ -1,0 +1,78 @@
+{
+  "passed": 18,
+  "total": 18,
+  "checks": [
+    {
+      "name": "Register three independent users; reject duplicate and unknown fields",
+      "passed": true
+    },
+    {
+      "name": "Authenticate and preserve a session token across concurrent logins",
+      "passed": true
+    },
+    {
+      "name": "Account response never exposes password, salt or session token",
+      "passed": true
+    },
+    {
+      "name": "Authentication and item input validation",
+      "passed": true
+    },
+    {
+      "name": "Create an auction with multiple categories",
+      "passed": true
+    },
+    {
+      "name": "Reject unknown categories without leaving a partial listing",
+      "passed": true
+    },
+    {
+      "name": "Filter by category and name; validate pagination and status",
+      "passed": true
+    },
+    {
+      "name": "Reject seller bids and bids at or below the starting price",
+      "passed": true
+    },
+    {
+      "name": "Concurrent equal bids accept only one winner",
+      "passed": true
+    },
+    {
+      "name": "Higher bids update the holder and descending bid history",
+      "passed": true
+    },
+    {
+      "name": "Questions require a buyer; only the seller can answer",
+      "passed": true
+    },
+    {
+      "name": "Profanity is blocked without matching innocent substrings",
+      "passed": true
+    },
+    {
+      "name": "Category updates enforce ownership and validate all IDs atomically",
+      "passed": true
+    },
+    {
+      "name": "Search treats wildcard and SQL-looking input as literal text",
+      "passed": true
+    },
+    {
+      "name": "Closed auctions reject bids and appear in the seller archive",
+      "passed": true
+    },
+    {
+      "name": "Teaching wipe compatibility: deleting an item cleans extension records",
+      "passed": true
+    },
+    {
+      "name": "Malformed JSON gives the API error response",
+      "passed": true
+    },
+    {
+      "name": "Logout revokes the token and issues a fresh token on next login",
+      "passed": true
+    }
+  ]
+}

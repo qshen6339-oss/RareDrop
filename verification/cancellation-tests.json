@@ -1,0 +1,47 @@
+{
+  "date": "2026-09-16T00:44:57.225Z",
+  "passed": 10,
+  "total": 10,
+  "checks": [
+    {
+      "name": "Only the authenticated seller can cancel an existing listing",
+      "passed": true
+    },
+    {
+      "name": "Normal auctions and existing item response fields stay compatible",
+      "passed": true
+    },
+    {
+      "name": "Cancellation retains the listing, deadline, bids, questions, categories and photo",
+      "passed": true
+    },
+    {
+      "name": "Repeated cancellation is idempotent and non-owners remain forbidden",
+      "passed": true
+    },
+    {
+      "name": "Cancelled auctions reject new bids and questions while answers remain available",
+      "passed": true
+    },
+    {
+      "name": "Cancelled listings leave discovery and selling, but remain in archive and bidder history",
+      "passed": true
+    },
+    {
+      "name": "Naturally ended auctions cannot be cancelled or accept bids",
+      "passed": true
+    },
+    {
+      "name": "Storage failure rolls back cancellation and leaves the auction open",
+      "passed": true
+    },
+    {
+      "name": "Concurrent cancellation and bidding never accept a bid after cancellation",
+      "passed": true
+    },
+    {
+      "name": "Teaching-style database cleanup also removes cancellation metadata",
+      "passed": true
+    }
+  ]
+}

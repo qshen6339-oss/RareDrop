@@ -1,0 +1,2415 @@
+{
+  "stats": {
+    "suites": 31,
+    "tests": 128,
+    "passes": 120,
+    "pending": 0,
+    "failures": 8,
+    "start": "2026-09-16T00:45:18.703Z",
+    "end": "2026-09-16T00:45:19.938Z",
+    "duration": 1235
+  },
+  "tests": [
+    {
+      "title": "Should return 201, and JSON with user_id of new user: maya.turner101@gmail.com",
+      "fullTitle": "Test successful creation of users Should return 201, and JSON with user_id of new user: maya.turner101@gmail.com",
+      "file": "C:\\Users\\14494\\OneDrive\\Desktop\\RareDrop\\backend-server\\tests\\test.a.user.creation.js",
+      "duration": 96,
+      "currentRetry": 0,
+      "speed": "slow",
+      "err": {}
+    },
+    {
+      "title": "Should return 201, and JSON with user_id of new user: ethan.brooks102@outlook.com",
+      "fullTitle": "Test successful creation of users Should return 201, and JSON with user_id of new user: ethan.brooks102@outlook.com",
+      "file": "C:\\Users\\14494\\OneDrive\\Desktop\\RareDrop\\backend-server\\tests\\test.a.user.creation.js",
+      "duration": 46,
+      "currentRetry": 0,
+      "speed": "medium",
+      "err": {}
+    },
+    {
+      "title": "Should return 201, and JSON with user_id of new user: nora.bennett103@yahoo.com",
+      "fullTitle": "Test successful creation of users Should return 201, and JSON with user_id of new user: nora.bennett103@yahoo.com",
+      "file": "C:\\Users\\14494\\OneDrive\\Desktop\\RareDrop\\backend-server\\tests\\test.a.user.creation.js",
+      "duration": 38,
+      "currentRetry": 0,
+      "speed": "medium",
+      "err": {}
+    },
+    {
+      "title": "Should return 201, and JSON with user_id of new user: lucas.reed104@proton.me",
+      "fullTitle": "Test successful creation of users Should return 201, and JSON with user_id of new user: lucas.reed104@proton.me",
+      "file": "C:\\Users\\14494\\OneDrive\\Desktop\\RareDrop\\backend-server\\tests\\test.a.user.creation.js",
+      "duration": 42,
+      "currentRetry": 0,
+      "speed": "medium",
+      "err": {}
+    },
+    {
+      "title": "Should return 201, and JSON with user_id of new user: chloe.harper105@icloud.com",
+      "fullTitle": "Test successful creation of users Should return 201, and JSON with user_id of new user: chloe.harper105@icloud.com",
+      "file": "C:\\Users\\14494\\OneDrive\\Desktop\\RareDrop\\backend-server\\tests\\test.a.user.creation.js",
+      "duration": 38,
+      "currentRetry": 0,
+      "speed": "medium",
+      "err": {}
+    },
+    {
+      "title": "Should return 201, and JSON with user_id of new user: caleb.parker106@mail.com",
+      "fullTitle": "Test successful creation of users Should return 201, and JSON with user_id of new user: caleb.parker106@mail.com",
+      "file": "C:\\Users\\14494\\OneDrive\\Desktop\\RareDrop\\backend-server\\tests\\test.a.user.creation.js",
+      "duration": 36,
+      "currentRetry": 0,
+      "speed": "fast",
+      "err": {}
+    },
+    {
+      "title": "Should return 201, and JSON with user_id of new user: olivia.hayes107@aol.com",
+      "fullTitle": "Test successful creation of users Should return 201, and JSON with user_id of new user: olivia.hayes107@aol.com",
+      "file": "C:\\Users\\14494\\OneDrive\\Desktop\\RareDrop\\backend-server\\tests\\test.a.user.creation.js",
+      "duration": 40,
+      "currentRetry": 0,
+      "speed": "medium",
+      "err": {}
+    },
+    {
+      "title": "Should return 201, and JSON with user_id of new user: ryan.mills108@zoho.com",
+      "fullTitle": "Test successful creation of users Should return 201, and JSON with user_id of new user: ryan.mills108@zoho.com",
+      "file": "C:\\Users\\14494\\OneDrive\\Desktop\\RareDrop\\backend-server\\tests\\test.a.user.creation.js",
+      "duration": 45,
+      "currentRetry": 0,
+      "speed": "medium",
+      "err": {}
+    },
+    {
+      "title": "Should return 201, and JSON with user_id of new user: grace.coleman109@fastmail.com",
+      "fullTitle": "Test successful creation of users Should return 201, and JSON with user_id of new user: grace.coleman109@fastmail.com",
+      "file": "C:\\Users\\14494\\OneDrive\\Desktop\\RareDrop\\backend-server\\tests\\test.a.user.creation.js",
+      "duration": 38,
+      "currentRetry": 0,
+      "speed": "medium",
+      "err": {}
+    },
+    {
+      "title": "Should return 201, and JSON with user_id of new user: noah.foster110@live.com",
+      "fullTitle": "Test successful creation of users Should return 201, and JSON with user_id of new user: noah.foster110@live.com",
+      "file": "C:\\Users\\14494\\OneDrive\\Desktop\\RareDrop\\backend-server\\tests\\test.a.user.creation.js",
+      "duration": 37,
+      "currentRetry": 0,
+      "speed": "fast",
+      "err": {}
+    },
+    {
+      "title": "Should return a 400 status code: Test blank first_name",
+      "fullTitle": "Test malformed creation of users Should return a 400 status code: Test blank first_name",
+      "file": "C:\\Users\\14494\\OneDrive\\Desktop\\RareDrop\\backend-server\\tests\\test.a.user.creation.js",
+      "duration": 3,
+      "currentRetry": 0,
+      "speed": "fast",
+      "err": {}
+    },
+    {
+      "title": "Should return a 400 status code: Test blank last_name",
+      "fullTitle": "Test malformed creation of users Should return a 400 status code: Test blank last_name",
+      "file": "C:\\Users\\14494\\OneDrive\\Desktop\\RareDrop\\backend-server\\tests\\test.a.user.creation.js",
+      "duration": 3,
+      "currentRetry": 0,
+      "speed": "fast",
+      "err": {}
+    },
+    {
+      "title": "Should return a 400 status code: Test blank email",
+      "fullTitle": "Test malformed creation of users Should return a 400 status code: Test blank email",
+      "file": "C:\\Users\\14494\\OneDrive\\Desktop\\RareDrop\\backend-server\\tests\\test.a.user.creation.js",
+      "duration": 2,
+      "currentRetry": 0,
+      "speed": "fast",
+      "err": {}
+    },
+    {
+      "title": "Should return a 400 status code: Test blank password",
+      "fullTitle": "Test malformed creation of users Should return a 400 status code: Test blank password",
+      "file": "C:\\Users\\14494\\OneDrive\\Desktop\\RareDrop\\backend-server\\tests\\test.a.user.creation.js",
+      "duration": 2,
+      "currentRetry": 0,
+      "speed": "fast",
+      "err": {}
+    },
+    {
+      "title": "Should return a 400 status code: Test duplicate email",
+      "fullTitle": "Test malformed creation of users Should return a 400 status code: Test duplicate email",
+      "file": "C:\\Users\\14494\\OneDrive\\Desktop\\RareDrop\\backend-server\\tests\\test.a.user.creation.js",
+      "duration": 34,
+      "currentRetry": 0,
+      "speed": "fast",
+      "err": {}
+    },
+    {
+      "title": "Should return a 400 status code: Test password too short",
+      "fullTitle": "Test malformed creation of users Should return a 400 status code: Test password too short",
+      "file": "C:\\Users\\14494\\OneDrive\\Desktop\\RareDrop\\backend-server\\tests\\test.a.user.creation.js",
+      "duration": 3,
+      "currentRetry": 0,
+      "speed": "fast",
+      "err": {}
+    },
+    {
+      "title": "Should return a 400 status code: Test password too long",
+      "fullTitle": "Test malformed creation of users Should return a 400 status code: Test password too long",
+      "file": "C:\\Users\\14494\\OneDrive\\Desktop\\RareDrop\\backend-server\\tests\\test.a.user.creation.js",
+      "duration": 3,
+      "currentRetry": 0,
+      "speed": "fast",
+      "err": {}
+    },
+    {
+      "title": "Should return a 400 status code: Test password without numbers",
+      "fullTitle": "Test malformed creation of users Should return a 400 status code: Test password without numbers",
+      "file": "C:\\Users\\14494\\OneDrive\\Desktop\\RareDrop\\backend-server\\tests\\test.a.user.creation.js",
+      "duration": 2,
+      "currentRetry": 0,
+      "speed": "fast",
+      "err": {}
+    },
+    {
+      "title": "Should return a 400 status code: Test password without special character",
+      "fullTitle": "Test malformed creation of users Should return a 400 status code: Test password without special character",
+      "file": "C:\\Users\\14494\\OneDrive\\Desktop\\RareDrop\\backend-server\\tests\\test.a.user.creation.js",
+      "duration": 3,
+      "currentRetry": 0,
+      "speed": "fast",
+      "err": {}
+    },
+    {
+      "title": "Should return a 400 status code: Test password without upper case character",
+      "fullTitle": "Test malformed creation of users Should return a 400 status code: Test password without upper case character",
+      "file": "C:\\Users\\14494\\OneDrive\\Desktop\\RareDrop\\backend-server\\tests\\test.a.user.creation.js",
+      "duration": 2,
+      "currentRetry": 0,
+      "speed": "fast",
+      "err": {}
+    },
+    {
+      "title": "Should return a 400 status code: Test password without lower case character",
+      "fullTitle": "Test malformed creation of users Should return a 400 status code: Test password without lower case character",
+      "file": "C:\\Users\\14494\\OneDrive\\Desktop\\RareDrop\\backend-server\\tests\\test.a.user.creation.js",
+      "duration": 2,
+      "currentRetry": 0,
+      "speed": "fast",
+      "err": {}
+    },
+    {
+      "title": "Should return 400 status code: missing first name",
+      "fullTitle": "Test malformed creation of users Should return 400 status code: missing first name",
+      "file": "C:\\Users\\14494\\OneDrive\\Desktop\\RareDrop\\backend-server\\tests\\test.a.user.creation.js",
+      "duration": 2,
+      "currentRetry": 0,
+      "speed": "fast",
+      "err": {}
+    },
+    {
+      "title": "Should return 400 status code: missing last name",
+      "fullTitle": "Test malformed creation of users Should return 400 status code: missing last name",
+      "file": "C:\\Users\\14494\\OneDrive\\Desktop\\RareDrop\\backend-server\\tests\\test.a.user.creation.js",
+      "duration": 3,
+      "currentRetry": 0,
+      "speed": "fast",
+      "err": {}
+    },
+    {
+      "title": "Should return 400 status code: missing email",
+      "fullTitle": "Test malformed creation of users Should return 400 status code: missing email",
+      "file": "C:\\Users\\14494\\OneDrive\\Desktop\\RareDrop\\backend-server\\tests\\test.a.user.creation.js",
+      "duration": 2,
+      "currentRetry": 0,
+      "speed": "fast",
+      "err": {}
+    },
+    {
+      "title": "Should return 400 status code: missing password",
+      "fullTitle": "Test malformed creation of users Should return 400 status code: missing password",
+      "file": "C:\\Users\\14494\\OneDrive\\Desktop\\RareDrop\\backend-server\\tests\\test.a.user.creation.js",
+      "duration": 2,
+      "currentRetry": 0,
+      "speed": "fast",
+      "err": {}
+    },
+    {
+      "title": "Should return 400 status code: extra field",
+      "fullTitle": "Test malformed creation of users Should return 400 status code: extra field",
+      "file": "C:\\Users\\14494\\OneDrive\\Desktop\\RareDrop\\backend-server\\tests\\test.a.user.creation.js",
+      "duration": 3,
+      "currentRetry": 0,
+      "speed": "fast",
+      "err": {}
+    },
+    {
+      "title": "Should return 200 status code for successful login",
+      "fullTitle": "Test user login/logout Should return 200 status code for successful login",
+      "file": "C:\\Users\\14494\\OneDrive\\Desktop\\RareDrop\\backend-server\\tests\\test.b.authentication.js",
+      "duration": 39,
+      "currentRetry": 0,
+      "speed": "medium",
+      "err": {}
+    },
+    {
+      "title": "Should return the same token if a logged in user tried to login again",
+      "fullTitle": "Test user login/logout Should return the same token if a logged in user tried to login again",
+      "file": "C:\\Users\\14494\\OneDrive\\Desktop\\RareDrop\\backend-server\\tests\\test.b.authentication.js",
+      "duration": 33,
+      "currentRetry": 0,
+      "speed": "fast",
+      "err": {}
+    },
+    {
+      "title": "Should return 400 status code for incorrect email",
+      "fullTitle": "Test user login/logout Should return 400 status code for incorrect email",
+      "file": "C:\\Users\\14494\\OneDrive\\Desktop\\RareDrop\\backend-server\\tests\\test.b.authentication.js",
+      "duration": 3,
+      "currentRetry": 0,
+      "speed": "fast",
+      "err": {}
+    },
+    {
+      "title": "Should return 400 status code for incorrect password",
+      "fullTitle": "Test user login/logout Should return 400 status code for incorrect password",
+      "file": "C:\\Users\\14494\\OneDrive\\Desktop\\RareDrop\\backend-server\\tests\\test.b.authentication.js",
+      "duration": 29,
+      "currentRetry": 0,
+      "speed": "fast",
+      "err": {}
+    },
+    {
+      "title": "Should return 400 status code for missing password",
+      "fullTitle": "Test user login/logout Should return 400 status code for missing password",
+      "file": "C:\\Users\\14494\\OneDrive\\Desktop\\RareDrop\\backend-server\\tests\\test.b.authentication.js",
+      "duration": 2,
+      "currentRetry": 0,
+      "speed": "fast",
+      "err": {}
+    },
+    {
+      "title": "Should return 400 status code for missing email",
+      "fullTitle": "Test user login/logout Should return 400 status code for missing email",
+      "file": "C:\\Users\\14494\\OneDrive\\Desktop\\RareDrop\\backend-server\\tests\\test.b.authentication.js",
+      "duration": 2,
+      "currentRetry": 0,
+      "speed": "fast",
+      "err": {}
+    },
+    {
+      "title": "Should return 400 status code for extra field",
+      "fullTitle": "Test user login/logout Should return 400 status code for extra field",
+      "file": "C:\\Users\\14494\\OneDrive\\Desktop\\RareDrop\\backend-server\\tests\\test.b.authentication.js",
+      "duration": 2,
+      "currentRetry": 0,
+      "speed": "fast",
+      "err": {}
+    },
+    {
+      "title": "Should return 401 status code for logging out user not logged in",
+      "fullTitle": "Test user login/logout Should return 401 status code for logging out user not logged in",
+      "file": "C:\\Users\\14494\\OneDrive\\Desktop\\RareDrop\\backend-server\\tests\\test.b.authentication.js",
+      "duration": 3,
+      "currentRetry": 0,
+      "speed": "fast",
+      "err": {}
+    },
+    {
+      "title": "Should return 200 status code for logging out user who is logged in",
+      "fullTitle": "Test user login/logout Should return 200 status code for logging out user who is logged in",
+      "file": "C:\\Users\\14494\\OneDrive\\Desktop\\RareDrop\\backend-server\\tests\\test.b.authentication.js",
+      "duration": 9,
+      "currentRetry": 0,
+      "speed": "fast",
+      "err": {}
+    },
+    {
+      "title": "Should return 401",
+      "fullTitle": "Test adding items if not logged in Should return 401",
+      "file": "C:\\Users\\14494\\OneDrive\\Desktop\\RareDrop\\backend-server\\tests\\test.c.auction.creation.js",
+      "duration": 2,
+      "currentRetry": 0,
+      "speed": "fast",
+      "err": {}
+    },
+    {
+      "title": "Should return 401",
+      "fullTitle": "Test adding items if not logged in Should return 401",
+      "file": "C:\\Users\\14494\\OneDrive\\Desktop\\RareDrop\\backend-server\\tests\\test.c.auction.creation.js",
+      "duration": 2,
+      "currentRetry": 0,
+      "speed": "fast",
+      "err": {}
+    },
+    {
+      "title": "Should return 401",
+      "fullTitle": "Test adding items if not logged in Should return 401",
+      "file": "C:\\Users\\14494\\OneDrive\\Desktop\\RareDrop\\backend-server\\tests\\test.c.auction.creation.js",
+      "duration": 2,
+      "currentRetry": 0,
+      "speed": "fast",
+      "err": {}
+    },
+    {
+      "title": "Should return 401",
+      "fullTitle": "Test adding items if not logged in Should return 401",
+      "file": "C:\\Users\\14494\\OneDrive\\Desktop\\RareDrop\\backend-server\\tests\\test.c.auction.creation.js",
+      "duration": 2,
+      "currentRetry": 0,
+      "speed": "fast",
+      "err": {}
+    },
+    {
+      "title": "Should return 401",
+      "fullTitle": "Test adding items if not logged in Should return 401",
+      "file": "C:\\Users\\14494\\OneDrive\\Desktop\\RareDrop\\backend-server\\tests\\test.c.auction.creation.js",
+      "duration": 2,
+      "currentRetry": 0,
+      "speed": "fast",
+      "err": {}
+    },
+    {
+      "title": "Should return 401",
+      "fullTitle": "Test adding items if not logged in Should return 401",
+      "file": "C:\\Users\\14494\\OneDrive\\Desktop\\RareDrop\\backend-server\\tests\\test.c.auction.creation.js",
+      "duration": 1,
+      "currentRetry": 0,
+      "speed": "fast",
+      "err": {}
+    },
+    {
+      "title": "Should return 401",
+      "fullTitle": "Test adding items if not logged in Should return 401",
+      "file": "C:\\Users\\14494\\OneDrive\\Desktop\\RareDrop\\backend-server\\tests\\test.c.auction.creation.js",
+      "duration": 2,
+      "currentRetry": 0,
+      "speed": "fast",
+      "err": {}
+    },
+    {
+      "title": "Should return 401",
+      "fullTitle": "Test adding items if not logged in Should return 401",
+      "file": "C:\\Users\\14494\\OneDrive\\Desktop\\RareDrop\\backend-server\\tests\\test.c.auction.creation.js",
+      "duration": 2,
+      "currentRetry": 0,
+      "speed": "fast",
+      "err": {}
+    },
+    {
+      "title": "Should return 401",
+      "fullTitle": "Test adding items if not logged in Should return 401",
+      "file": "C:\\Users\\14494\\OneDrive\\Desktop\\RareDrop\\backend-server\\tests\\test.c.auction.creation.js",
+      "duration": 1,
+      "currentRetry": 0,
+      "speed": "fast",
+      "err": {}
+    },
+    {
+      "title": "Should return 401",
+      "fullTitle": "Test adding items if not logged in Should return 401",
+      "file": "C:\\Users\\14494\\OneDrive\\Desktop\\RareDrop\\backend-server\\tests\\test.c.auction.creation.js",
+      "duration": 2,
+      "currentRetry": 0,
+      "speed": "fast",
+      "err": {}
+    },
+    {
+      "title": "Should return 200, and JSON with user_id and session_token",
+      "fullTitle": "Log into account. Should return 200, and JSON with user_id and session_token",
+      "file": "C:\\Users\\14494\\OneDrive\\Desktop\\RareDrop\\backend-server\\tests\\test.c.auction.creation.js",
+      "duration": 38,
+      "currentRetry": 0,
+      "speed": "medium",
+      "err": {}
+    },
+    {
+      "title": "Should return 201, and JSON with item_id of new item: Vintage camera with leather case.",
+      "fullTitle": "Test successful creation of items when logged in Should return 201, and JSON with item_id of new item: Vintage camera with leather case.",
+      "file": "C:\\Users\\14494\\OneDrive\\Desktop\\RareDrop\\backend-server\\tests\\test.c.auction.creation.js",
+      "duration": 10,
+      "currentRetry": 0,
+      "speed": "fast",
+      "err": {}
+    },
+    {
+      "title": "Should return 201, and JSON with item_id of new item: Mechanical keyboard with blue switches.",
+      "fullTitle": "Test successful creation of items when logged in Should return 201, and JSON with item_id of new item: Mechanical keyboard with blue switches.",
+      "file": "C:\\Users\\14494\\OneDrive\\Desktop\\RareDrop\\backend-server\\tests\\test.c.auction.creation.js",
+      "duration": 8,
+      "currentRetry": 0,
+      "speed": "fast",
+      "err": {}
+    },
+    {
+      "title": "Should return 201, and JSON with item_id of new item: Mountain bike helmet, size medium.",
+      "fullTitle": "Test successful creation of items when logged in Should return 201, and JSON with item_id of new item: Mountain bike helmet, size medium.",
+      "file": "C:\\Users\\14494\\OneDrive\\Desktop\\RareDrop\\backend-server\\tests\\test.c.auction.creation.js",
+      "duration": 9,
+      "currentRetry": 0,
+      "speed": "fast",
+      "err": {}
+    },
+    {
+      "title": "Should return 201, and JSON with item_id of new item: Portable Bluetooth speaker.",
+      "fullTitle": "Test successful creation of items when logged in Should return 201, and JSON with item_id of new item: Portable Bluetooth speaker.",
+      "file": "C:\\Users\\14494\\OneDrive\\Desktop\\RareDrop\\backend-server\\tests\\test.c.auction.creation.js",
+      "duration": 9,
+      "currentRetry": 0,
+      "speed": "fast",
+      "err": {}
+    },
+    {
+      "title": "Should return 201, and JSON with item_id of new item: Ceramic dinnerware set for four.",
+      "fullTitle": "Test successful creation of items when logged in Should return 201, and JSON with item_id of new item: Ceramic dinnerware set for four.",
+      "file": "C:\\Users\\14494\\OneDrive\\Desktop\\RareDrop\\backend-server\\tests\\test.c.auction.creation.js",
+      "duration": 9,
+      "currentRetry": 0,
+      "speed": "fast",
+      "err": {}
+    },
+    {
+      "title": "Should return 201, and JSON with item_id of new item: Wooden coffee table with storage shelf.",
+      "fullTitle": "Test successful creation of items when logged in Should return 201, and JSON with item_id of new item: Wooden coffee table with storage shelf.",
+      "file": "C:\\Users\\14494\\OneDrive\\Desktop\\RareDrop\\backend-server\\tests\\test.c.auction.creation.js",
+      "duration": 9,
+      "currentRetry": 0,
+      "speed": "fast",
+      "err": {}
+    },
+    {
+      "title": "Should return 201, and JSON with item_id of new item: Smart thermostat, unopened box.",
+      "fullTitle": "Test successful creation of items when logged in Should return 201, and JSON with item_id of new item: Smart thermostat, unopened box.",
+      "file": "C:\\Users\\14494\\OneDrive\\Desktop\\RareDrop\\backend-server\\tests\\test.c.auction.creation.js",
+      "duration": 9,
+      "currentRetry": 0,
+      "speed": "fast",
+      "err": {}
+    },
+    {
+      "title": "Should return 201, and JSON with item_id of new item: Beginner acoustic guitar bundle.",
+      "fullTitle": "Test successful creation of items when logged in Should return 201, and JSON with item_id of new item: Beginner acoustic guitar bundle.",
+      "file": "C:\\Users\\14494\\OneDrive\\Desktop\\RareDrop\\backend-server\\tests\\test.c.auction.creation.js",
+      "duration": 10,
+      "currentRetry": 0,
+      "speed": "fast",
+      "err": {}
+    },
+    {
+      "title": "Should return 201, and JSON with item_id of new item: Two-person camping tent.",
+      "fullTitle": "Test successful creation of items when logged in Should return 201, and JSON with item_id of new item: Two-person camping tent.",
+      "file": "C:\\Users\\14494\\OneDrive\\Desktop\\RareDrop\\backend-server\\tests\\test.c.auction.creation.js",
+      "duration": 9,
+      "currentRetry": 0,
+      "speed": "fast",
+      "err": {}
+    },
+    {
+      "title": "Should return 201, and JSON with item_id of new item: Stainless steel cookware set.",
+      "fullTitle": "Test successful creation of items when logged in Should return 201, and JSON with item_id of new item: Stainless steel cookware set.",
+      "file": "C:\\Users\\14494\\OneDrive\\Desktop\\RareDrop\\backend-server\\tests\\test.c.auction.creation.js",
+      "duration": 10,
+      "currentRetry": 0,
+      "speed": "fast",
+      "err": {}
+    },
+    {
+      "title": "Should return 400 status code: missing name",
+      "fullTitle": "Test creation of events when logged in which should not pass validation checks Should return 400 status code: missing name",
+      "file": "C:\\Users\\14494\\OneDrive\\Desktop\\RareDrop\\backend-server\\tests\\test.c.auction.creation.js",
+      "duration": 3,
+      "currentRetry": 0,
+      "speed": "fast",
+      "err": {}
+    },
+    {
+      "title": "Should return 400 status code: missing description",
+      "fullTitle": "Test creation of events when logged in which should not pass validation checks Should return 400 status code: missing description",
+      "file": "C:\\Users\\14494\\OneDrive\\Desktop\\RareDrop\\backend-server\\tests\\test.c.auction.creation.js",
+      "duration": 3,
+      "currentRetry": 0,
+      "speed": "fast",
+      "err": {}
+    },
+    {
+      "title": "Should return 400 status code: missing starting_bid",
+      "fullTitle": "Test creation of events when logged in which should not pass validation checks Should return 400 status code: missing starting_bid",
+      "file": "C:\\Users\\14494\\OneDrive\\Desktop\\RareDrop\\backend-server\\tests\\test.c.auction.creation.js",
+      "duration": 3,
+      "currentRetry": 0,
+      "speed": "fast",
+      "err": {}
+    },
+    {
+      "title": "Should return 400 status code: missing end_date",
+      "fullTitle": "Test creation of events when logged in which should not pass validation checks Should return 400 status code: missing end_date",
+      "file": "C:\\Users\\14494\\OneDrive\\Desktop\\RareDrop\\backend-server\\tests\\test.c.auction.creation.js",
+      "duration": 3,
+      "currentRetry": 0,
+      "speed": "fast",
+      "err": {}
+    },
+    {
+      "title": "Should return 400 status code: extra field",
+      "fullTitle": "Test creation of events when logged in which should not pass validation checks Should return 400 status code: extra field",
+      "file": "C:\\Users\\14494\\OneDrive\\Desktop\\RareDrop\\backend-server\\tests\\test.c.auction.creation.js",
+      "duration": 2,
+      "currentRetry": 0,
+      "speed": "fast",
+      "err": {}
+    },
+    {
+      "title": "Should return a 400 status code: Test blank name",
+      "fullTitle": "Test creation of events when logged in which should not pass validation checks Should return a 400 status code: Test blank name",
+      "file": "C:\\Users\\14494\\OneDrive\\Desktop\\RareDrop\\backend-server\\tests\\test.c.auction.creation.js",
+      "duration": 2,
+      "currentRetry": 0,
+      "speed": "fast",
+      "err": {}
+    },
+    {
+      "title": "Should return a 400 status code: Test blank description",
+      "fullTitle": "Test creation of events when logged in which should not pass validation checks Should return a 400 status code: Test blank description",
+      "file": "C:\\Users\\14494\\OneDrive\\Desktop\\RareDrop\\backend-server\\tests\\test.c.auction.creation.js",
+      "duration": 2,
+      "currentRetry": 0,
+      "speed": "fast",
+      "err": {}
+    },
+    {
+      "title": "Should return a 400 status code: Test blank starting bid",
+      "fullTitle": "Test creation of events when logged in which should not pass validation checks Should return a 400 status code: Test blank starting bid",
+      "file": "C:\\Users\\14494\\OneDrive\\Desktop\\RareDrop\\backend-server\\tests\\test.c.auction.creation.js",
+      "duration": 3,
+      "currentRetry": 0,
+      "speed": "fast",
+      "err": {}
+    },
+    {
+      "title": "Should return a 400 status code: Test blank end_date",
+      "fullTitle": "Test creation of events when logged in which should not pass validation checks Should return a 400 status code: Test blank end_date",
+      "file": "C:\\Users\\14494\\OneDrive\\Desktop\\RareDrop\\backend-server\\tests\\test.c.auction.creation.js",
+      "duration": 3,
+      "currentRetry": 0,
+      "speed": "fast",
+      "err": {}
+    },
+    {
+      "title": "Should return a 400 status code: Test negative starting_bid",
+      "fullTitle": "Test creation of events when logged in which should not pass validation checks Should return a 400 status code: Test negative starting_bid",
+      "file": "C:\\Users\\14494\\OneDrive\\Desktop\\RareDrop\\backend-server\\tests\\test.c.auction.creation.js",
+      "duration": 2,
+      "currentRetry": 0,
+      "speed": "fast",
+      "err": {}
+    },
+    {
+      "title": "Should return a 400 status code: Test end date in the past",
+      "fullTitle": "Test creation of events when logged in which should not pass validation checks Should return a 400 status code: Test end date in the past",
+      "file": "C:\\Users\\14494\\OneDrive\\Desktop\\RareDrop\\backend-server\\tests\\test.c.auction.creation.js",
+      "duration": 2,
+      "currentRetry": 0,
+      "speed": "fast",
+      "err": {}
+    },
+    {
+      "title": "Should return a 400 status code: Test invalid start",
+      "fullTitle": "Test creation of events when logged in which should not pass validation checks Should return a 400 status code: Test invalid start",
+      "file": "C:\\Users\\14494\\OneDrive\\Desktop\\RareDrop\\backend-server\\tests\\test.c.auction.creation.js",
+      "duration": 2,
+      "currentRetry": 0,
+      "speed": "fast",
+      "err": {}
+    },
+    {
+      "title": "Should return a 401",
+      "fullTitle": "Bidding on an auction when not authenticated Should return a 401",
+      "file": "C:\\Users\\14494\\OneDrive\\Desktop\\RareDrop\\backend-server\\tests\\test.d.bidding.js",
+      "duration": 2,
+      "currentRetry": 0,
+      "speed": "fast",
+      "err": {}
+    },
+    {
+      "title": "Should return 200, and JSON with user_id and session_token of the user",
+      "fullTitle": "Log into user account Should return 200, and JSON with user_id and session_token of the user",
+      "file": "C:\\Users\\14494\\OneDrive\\Desktop\\RareDrop\\backend-server\\tests\\test.d.bidding.js",
+      "duration": 34,
+      "currentRetry": 0,
+      "speed": "fast",
+      "err": {}
+    },
+    {
+      "title": "Should return 200, and JSON with user_id and session_token of the user",
+      "fullTitle": "Log into user account Should return 200, and JSON with user_id and session_token of the user",
+      "file": "C:\\Users\\14494\\OneDrive\\Desktop\\RareDrop\\backend-server\\tests\\test.d.bidding.js",
+      "duration": 40,
+      "currentRetry": 0,
+      "speed": "medium",
+      "err": {}
+    },
+    {
+      "title": "Should return 400 status code: extra field",
+      "fullTitle": "Test bidding when logged in which should not pass validation checks Should return 400 status code: extra field",
+      "file": "C:\\Users\\14494\\OneDrive\\Desktop\\RareDrop\\backend-server\\tests\\test.d.bidding.js",
+      "duration": 3,
+      "currentRetry": 0,
+      "speed": "fast",
+      "err": {}
+    },
+    {
+      "title": "Should return 400 status code: blank amount",
+      "fullTitle": "Test bidding when logged in which should not pass validation checks Should return 400 status code: blank amount",
+      "file": "C:\\Users\\14494\\OneDrive\\Desktop\\RareDrop\\backend-server\\tests\\test.d.bidding.js",
+      "duration": 3,
+      "currentRetry": 0,
+      "speed": "fast",
+      "err": {}
+    },
+    {
+      "title": "Should return 400 status code: invalid amount",
+      "fullTitle": "Test bidding when logged in which should not pass validation checks Should return 400 status code: invalid amount",
+      "file": "C:\\Users\\14494\\OneDrive\\Desktop\\RareDrop\\backend-server\\tests\\test.d.bidding.js",
+      "duration": 2,
+      "currentRetry": 0,
+      "speed": "fast",
+      "err": {}
+    },
+    {
+      "title": "Should return 400 status code: amount less or equal than current bid (3595)",
+      "fullTitle": "Test bidding when logged in which should not pass validation checks Should return 400 status code: amount less or equal than current bid (3595)",
+      "file": "C:\\Users\\14494\\OneDrive\\Desktop\\RareDrop\\backend-server\\tests\\test.d.bidding.js",
+      "duration": 4,
+      "currentRetry": 0,
+      "speed": "fast",
+      "err": {}
+    },
+    {
+      "title": "Should return 403 status code: can not bid on own items",
+      "fullTitle": "Test bidding in situations that should fail Should return 403 status code: can not bid on own items",
+      "file": "C:\\Users\\14494\\OneDrive\\Desktop\\RareDrop\\backend-server\\tests\\test.d.bidding.js",
+      "duration": 3,
+      "currentRetry": 0,
+      "speed": "fast",
+      "err": {}
+    },
+    {
+      "title": "Should return 404 status code: item does not exist",
+      "fullTitle": "Test bidding in situations that should fail Should return 404 status code: item does not exist",
+      "file": "C:\\Users\\14494\\OneDrive\\Desktop\\RareDrop\\backend-server\\tests\\test.d.bidding.js",
+      "duration": 3,
+      "currentRetry": 0,
+      "speed": "fast",
+      "err": {}
+    },
+    {
+      "title": "Should return 201 status code",
+      "fullTitle": "Test bidding success Should return 201 status code",
+      "file": "C:\\Users\\14494\\OneDrive\\Desktop\\RareDrop\\backend-server\\tests\\test.d.bidding.js",
+      "duration": 4,
+      "currentRetry": 0,
+      "err": {
+        "message": "expected Response{ _events: {}, …(35), …(2) } to have status code 201 but got 400",
+        "showDiff": true,
+        "actual": "400",
+        "expected": "201",
+        "stack": "AssertionError: expected Response{ _events: {}, …(35), …(2) } to have status code 201 but got 400\n    at C:\\Users\\14494\\OneDrive\\Desktop\\RareDrop\\backend-server\\tests\\test.d.bidding.js:209:37\n    at process.processTicksAndRejections (node:internal/process/task_queues:104:5)"
+      }
+    },
+    {
+      "title": "Should return 201 status code",
+      "fullTitle": "Test bidding success Should return 201 status code",
+      "file": "C:\\Users\\14494\\OneDrive\\Desktop\\RareDrop\\backend-server\\tests\\test.d.bidding.js",
+      "duration": 4,
+      "currentRetry": 0,
+      "err": {
+        "message": "expected Response{ _events: {}, …(35), …(2) } to have status code 201 but got 400",
+        "showDiff": true,
+        "actual": "400",
+        "expected": "201",
+        "stack": "AssertionError: expected Response{ _events: {}, …(35), …(2) } to have status code 201 but got 400\n    at C:\\Users\\14494\\OneDrive\\Desktop\\RareDrop\\backend-server\\tests\\test.d.bidding.js:224:37\n    at process.processTicksAndRejections (node:internal/process/task_queues:104:5)"
+      }
+    },
+    {
+      "title": "Should return 404",
+      "fullTitle": "Getting bid history of an auction that does not exist Should return 404",
+      "file": "C:\\Users\\14494\\OneDrive\\Desktop\\RareDrop\\backend-server\\tests\\test.e.bidhistory.js",
+      "duration": 2,
+      "currentRetry": 0,
+      "speed": "fast",
+      "err": {}
+    },
+    {
+      "title": "Should return 200 but with an empty list",
+      "fullTitle": "Getting bid history of an auction with no bids Should return 200 but with an empty list",
+      "file": "C:\\Users\\14494\\OneDrive\\Desktop\\RareDrop\\backend-server\\tests\\test.e.bidhistory.js",
+      "duration": 3,
+      "currentRetry": 0,
+      "speed": "fast",
+      "err": {}
+    },
+    {
+      "title": "Should return 200 with two bids",
+      "fullTitle": "Getting bid history of an auction with bids Should return 200 with two bids",
+      "file": "C:\\Users\\14494\\OneDrive\\Desktop\\RareDrop\\backend-server\\tests\\test.e.bidhistory.js",
+      "duration": 3,
+      "currentRetry": 0,
+      "err": {
+        "message": "expected +0 to equal 2",
+        "showDiff": true,
+        "actual": "0",
+        "expected": "2",
+        "operator": "strictEqual",
+        "stack": "AssertionError: expected +0 to equal 2\n    at C:\\Users\\14494\\OneDrive\\Desktop\\RareDrop\\backend-server\\tests\\test.e.bidhistory.js:46:44\n    at process.processTicksAndRejections (node:internal/process/task_queues:104:5)"
+      }
+    },
+    {
+      "title": "Should return 404",
+      "fullTitle": "Getting item details of an auction that does not exist Should return 404",
+      "file": "C:\\Users\\14494\\OneDrive\\Desktop\\RareDrop\\backend-server\\tests\\test.f.view.auction.js",
+      "duration": 3,
+      "currentRetry": 0,
+      "speed": "fast",
+      "err": {}
+    },
+    {
+      "title": "Should return 200 but with an empty bid holder",
+      "fullTitle": "Getting item details of an auction with no bids Should return 200 but with an empty bid holder",
+      "file": "C:\\Users\\14494\\OneDrive\\Desktop\\RareDrop\\backend-server\\tests\\test.f.view.auction.js",
+      "duration": 3,
+      "currentRetry": 0,
+      "speed": "fast",
+      "err": {}
+    },
+    {
+      "title": "Should return 200 but with a bid holder",
+      "fullTitle": "Getting item details of an auction with bids Should return 200 but with a bid holder",
+      "file": "C:\\Users\\14494\\OneDrive\\Desktop\\RareDrop\\backend-server\\tests\\test.f.view.auction.js",
+      "duration": 4,
+      "currentRetry": 0,
+      "err": {
+        "message": "expected 4200 to equal 3596",
+        "showDiff": true,
+        "actual": "4200",
+        "expected": "3596",
+        "operator": "strictEqual",
+        "stack": "AssertionError: expected 4200 to equal 3596\n    at C:\\Users\\14494\\OneDrive\\Desktop\\RareDrop\\backend-server\\tests\\test.f.view.auction.js:99:49\n    at process.processTicksAndRejections (node:internal/process/task_queues:104:5)"
+      }
+    },
+    {
+      "title": "Should return 404",
+      "fullTitle": "Getting user details of a user that does not exist Should return 404",
+      "file": "C:\\Users\\14494\\OneDrive\\Desktop\\RareDrop\\backend-server\\tests\\test.g.view.user.js",
+      "duration": 2,
+      "currentRetry": 0,
+      "speed": "fast",
+      "err": {}
+    },
+    {
+      "title": "Should return 200 but with empty lists",
+      "fullTitle": "Getting user details of a user with no items or bids Should return 200 but with empty lists",
+      "file": "C:\\Users\\14494\\OneDrive\\Desktop\\RareDrop\\backend-server\\tests\\test.g.view.user.js",
+      "duration": 3,
+      "currentRetry": 0,
+      "speed": "fast",
+      "err": {}
+    },
+    {
+      "title": "Should return 200",
+      "fullTitle": "Getting user details of a user with items but no bids Should return 200",
+      "file": "C:\\Users\\14494\\OneDrive\\Desktop\\RareDrop\\backend-server\\tests\\test.g.view.user.js",
+      "duration": 4,
+      "currentRetry": 0,
+      "speed": "fast",
+      "err": {}
+    },
+    {
+      "title": "Should return 200",
+      "fullTitle": "Getting user details of a user with no items but bids Should return 200",
+      "file": "C:\\Users\\14494\\OneDrive\\Desktop\\RareDrop\\backend-server\\tests\\test.g.view.user.js",
+      "duration": 3,
+      "currentRetry": 0,
+      "err": {
+        "message": "expected +0 to equal 1",
+        "showDiff": true,
+        "actual": "0",
+        "expected": "1",
+        "operator": "strictEqual",
+        "stack": "AssertionError: expected +0 to equal 1\n    at C:\\Users\\14494\\OneDrive\\Desktop\\RareDrop\\backend-server\\tests\\test.g.view.user.js:126:55\n    at process.processTicksAndRejections (node:internal/process/task_queues:104:5)"
+      }
+    },
+    {
+      "title": "Should return 401",
+      "fullTitle": "Test asking question if not logged in Should return 401",
+      "file": "C:\\Users\\14494\\OneDrive\\Desktop\\RareDrop\\backend-server\\tests\\test.h.auction.questions.js",
+      "duration": 2,
+      "currentRetry": 0,
+      "speed": "fast",
+      "err": {}
+    },
+    {
+      "title": "Should return 200, and JSON with user_id and session_token",
+      "fullTitle": "Log into account. Should return 200, and JSON with user_id and session_token",
+      "file": "C:\\Users\\14494\\OneDrive\\Desktop\\RareDrop\\backend-server\\tests\\test.h.auction.questions.js",
+      "duration": 32,
+      "currentRetry": 0,
+      "speed": "fast",
+      "err": {}
+    },
+    {
+      "title": "Should return 200, and JSON with user_id and session_token",
+      "fullTitle": "Log into account. Should return 200, and JSON with user_id and session_token",
+      "file": "C:\\Users\\14494\\OneDrive\\Desktop\\RareDrop\\backend-server\\tests\\test.h.auction.questions.js",
+      "duration": 33,
+      "currentRetry": 0,
+      "speed": "fast",
+      "err": {}
+    },
+    {
+      "title": "Should return 200 - user 2 asking a question on item 1",
+      "fullTitle": "Test asking questions if logged in Should return 200 - user 2 asking a question on item 1",
+      "file": "C:\\Users\\14494\\OneDrive\\Desktop\\RareDrop\\backend-server\\tests\\test.h.auction.questions.js",
+      "duration": 9,
+      "currentRetry": 0,
+      "speed": "fast",
+      "err": {}
+    },
+    {
+      "title": "Should return 200 - user 2 asking a question on item 1",
+      "fullTitle": "Test asking questions if logged in Should return 200 - user 2 asking a question on item 1",
+      "file": "C:\\Users\\14494\\OneDrive\\Desktop\\RareDrop\\backend-server\\tests\\test.h.auction.questions.js",
+      "duration": 10,
+      "currentRetry": 0,
+      "speed": "fast",
+      "err": {}
+    },
+    {
+      "title": "Should return 403 - user 1 asking a question on item 1 as they are the creator",
+      "fullTitle": "Test asking questions if logged in Should return 403 - user 1 asking a question on item 1 as they are the creator",
+      "file": "C:\\Users\\14494\\OneDrive\\Desktop\\RareDrop\\backend-server\\tests\\test.h.auction.questions.js",
+      "duration": 4,
+      "currentRetry": 0,
+      "speed": "fast",
+      "err": {}
+    },
+    {
+      "title": "Should return 400 if question is empty",
+      "fullTitle": "Test asking questions if logged in Should return 400 if question is empty",
+      "file": "C:\\Users\\14494\\OneDrive\\Desktop\\RareDrop\\backend-server\\tests\\test.h.auction.questions.js",
+      "duration": 2,
+      "currentRetry": 0,
+      "speed": "fast",
+      "err": {}
+    },
+    {
+      "title": "Should return 400 if question is missing",
+      "fullTitle": "Test asking questions if logged in Should return 400 if question is missing",
+      "file": "C:\\Users\\14494\\OneDrive\\Desktop\\RareDrop\\backend-server\\tests\\test.h.auction.questions.js",
+      "duration": 3,
+      "currentRetry": 0,
+      "speed": "fast",
+      "err": {}
+    },
+    {
+      "title": "Should return 400 if extra field is present",
+      "fullTitle": "Test asking questions if logged in Should return 400 if extra field is present",
+      "file": "C:\\Users\\14494\\OneDrive\\Desktop\\RareDrop\\backend-server\\tests\\test.h.auction.questions.js",
+      "duration": 2,
+      "currentRetry": 0,
+      "speed": "fast",
+      "err": {}
+    },
+    {
+      "title": "Should return 404 if item does not exist",
+      "fullTitle": "Test asking questions if logged in Should return 404 if item does not exist",
+      "file": "C:\\Users\\14494\\OneDrive\\Desktop\\RareDrop\\backend-server\\tests\\test.h.auction.questions.js",
+      "duration": 4,
+      "currentRetry": 0,
+      "speed": "fast",
+      "err": {}
+    },
+    {
+      "title": "Should return 401 if not logged in",
+      "fullTitle": "Test answering questions Should return 401 if not logged in",
+      "file": "C:\\Users\\14494\\OneDrive\\Desktop\\RareDrop\\backend-server\\tests\\test.h.auction.questions.js",
+      "duration": 2,
+      "currentRetry": 0,
+      "speed": "fast",
+      "err": {}
+    },
+    {
+      "title": "Should return 403 if user 2 trys to answer a question for an auction they did not create",
+      "fullTitle": "Test answering questions Should return 403 if user 2 trys to answer a question for an auction they did not create",
+      "file": "C:\\Users\\14494\\OneDrive\\Desktop\\RareDrop\\backend-server\\tests\\test.h.auction.questions.js",
+      "duration": 3,
+      "currentRetry": 0,
+      "speed": "fast",
+      "err": {}
+    },
+    {
+      "title": "Should return 404 if the question does not exist",
+      "fullTitle": "Test answering questions Should return 404 if the question does not exist",
+      "file": "C:\\Users\\14494\\OneDrive\\Desktop\\RareDrop\\backend-server\\tests\\test.h.auction.questions.js",
+      "duration": 3,
+      "currentRetry": 0,
+      "speed": "fast",
+      "err": {}
+    },
+    {
+      "title": "Should return 400 if the answer is blank",
+      "fullTitle": "Test answering questions Should return 400 if the answer is blank",
+      "file": "C:\\Users\\14494\\OneDrive\\Desktop\\RareDrop\\backend-server\\tests\\test.h.auction.questions.js",
+      "duration": 3,
+      "currentRetry": 0,
+      "speed": "fast",
+      "err": {}
+    },
+    {
+      "title": "Should return 400 if the answer is missing",
+      "fullTitle": "Test answering questions Should return 400 if the answer is missing",
+      "file": "C:\\Users\\14494\\OneDrive\\Desktop\\RareDrop\\backend-server\\tests\\test.h.auction.questions.js",
+      "duration": 3,
+      "currentRetry": 0,
+      "speed": "fast",
+      "err": {}
+    },
+    {
+      "title": "Should return 400 if the answer contains an extra field",
+      "fullTitle": "Test answering questions Should return 400 if the answer contains an extra field",
+      "file": "C:\\Users\\14494\\OneDrive\\Desktop\\RareDrop\\backend-server\\tests\\test.h.auction.questions.js",
+      "duration": 3,
+      "currentRetry": 0,
+      "speed": "fast",
+      "err": {}
+    },
+    {
+      "title": "Should return 200 if user 1 answers a question on item 1",
+      "fullTitle": "Test answering questions Should return 200 if user 1 answers a question on item 1",
+      "file": "C:\\Users\\14494\\OneDrive\\Desktop\\RareDrop\\backend-server\\tests\\test.h.auction.questions.js",
+      "duration": 9,
+      "currentRetry": 0,
+      "speed": "fast",
+      "err": {}
+    },
+    {
+      "title": "Should return 404 if the item does not exist",
+      "fullTitle": "Test retrieving questions Should return 404 if the item does not exist",
+      "file": "C:\\Users\\14494\\OneDrive\\Desktop\\RareDrop\\backend-server\\tests\\test.h.auction.questions.js",
+      "duration": 2,
+      "currentRetry": 0,
+      "speed": "fast",
+      "err": {}
+    },
+    {
+      "title": "Should return 200, but with an empty list if the item has no questions",
+      "fullTitle": "Test retrieving questions Should return 200, but with an empty list if the item has no questions",
+      "file": "C:\\Users\\14494\\OneDrive\\Desktop\\RareDrop\\backend-server\\tests\\test.h.auction.questions.js",
+      "duration": 3,
+      "currentRetry": 0,
+      "speed": "fast",
+      "err": {}
+    },
+    {
+      "title": "Should return 200, with 2 questions on item 1. One question should have an answer and new questions should appear first.",
+      "fullTitle": "Test retrieving questions Should return 200, with 2 questions on item 1. One question should have an answer and new questions should appear first.",
+      "file": "C:\\Users\\14494\\OneDrive\\Desktop\\RareDrop\\backend-server\\tests\\test.h.auction.questions.js",
+      "duration": 2,
+      "currentRetry": 0,
+      "speed": "fast",
+      "err": {}
+    },
+    {
+      "title": "Should return 200, and JSON with user_id and session_token",
+      "fullTitle": "Log into account. Should return 200, and JSON with user_id and session_token",
+      "file": "C:\\Users\\14494\\OneDrive\\Desktop\\RareDrop\\backend-server\\tests\\test.i.search.js",
+      "duration": 30,
+      "currentRetry": 0,
+      "speed": "fast",
+      "err": {}
+    },
+    {
+      "title": "Should return 200, and JSON with user_id and session_token",
+      "fullTitle": "Log into account. Should return 200, and JSON with user_id and session_token",
+      "file": "C:\\Users\\14494\\OneDrive\\Desktop\\RareDrop\\backend-server\\tests\\test.i.search.js",
+      "duration": 31,
+      "currentRetry": 0,
+      "speed": "fast",
+      "err": {}
+    },
+    {
+      "title": "Should return 200, with an array of 10 objects",
+      "fullTitle": "Searching with no criteria, and no authentication, to test pagination. Should return 200, with an array of 10 objects",
+      "file": "C:\\Users\\14494\\OneDrive\\Desktop\\RareDrop\\backend-server\\tests\\test.i.search.js",
+      "duration": 4,
+      "currentRetry": 0,
+      "speed": "fast",
+      "err": {}
+    },
+    {
+      "title": "Should return 200, with an array of 9 objects when offsetting by 1",
+      "fullTitle": "Searching with no criteria, and no authentication, to test pagination. Should return 200, with an array of 9 objects when offsetting by 1",
+      "file": "C:\\Users\\14494\\OneDrive\\Desktop\\RareDrop\\backend-server\\tests\\test.i.search.js",
+      "duration": 3,
+      "currentRetry": 0,
+      "speed": "fast",
+      "err": {}
+    },
+    {
+      "title": "Should return 200, with an array of 8 objects when offsetting by 2",
+      "fullTitle": "Searching with no criteria, and no authentication, to test pagination. Should return 200, with an array of 8 objects when offsetting by 2",
+      "file": "C:\\Users\\14494\\OneDrive\\Desktop\\RareDrop\\backend-server\\tests\\test.i.search.js",
+      "duration": 3,
+      "currentRetry": 0,
+      "speed": "fast",
+      "err": {}
+    },
+    {
+      "title": "Should return 200, with an array of 5 objects when limiting to 5",
+      "fullTitle": "Searching with no criteria, and no authentication, to test pagination. Should return 200, with an array of 5 objects when limiting to 5",
+      "file": "C:\\Users\\14494\\OneDrive\\Desktop\\RareDrop\\backend-server\\tests\\test.i.search.js",
+      "duration": 3,
+      "currentRetry": 0,
+      "speed": "fast",
+      "err": {}
+    },
+    {
+      "title": "Should return 200, with an array of 0 objects when limiting to 5 and offsetting by 10",
+      "fullTitle": "Searching with no criteria, and no authentication, to test pagination. Should return 200, with an array of 0 objects when limiting to 5 and offsetting by 10",
+      "file": "C:\\Users\\14494\\OneDrive\\Desktop\\RareDrop\\backend-server\\tests\\test.i.search.js",
+      "duration": 3,
+      "currentRetry": 0,
+      "speed": "fast",
+      "err": {}
+    },
+    {
+      "title": "Should return 400 if status is not recognised",
+      "fullTitle": "Searching by status Should return 400 if status is not recognised",
+      "file": "C:\\Users\\14494\\OneDrive\\Desktop\\RareDrop\\backend-server\\tests\\test.i.search.js",
+      "duration": 2,
+      "currentRetry": 0,
+      "speed": "fast",
+      "err": {}
+    },
+    {
+      "title": "Should return 400 if status is BID but not authenticated",
+      "fullTitle": "Searching by status Should return 400 if status is BID but not authenticated",
+      "file": "C:\\Users\\14494\\OneDrive\\Desktop\\RareDrop\\backend-server\\tests\\test.i.search.js",
+      "duration": 2,
+      "currentRetry": 0,
+      "speed": "fast",
+      "err": {}
+    },
+    {
+      "title": "Should return 400 if status is OPEN but not authenticated",
+      "fullTitle": "Searching by status Should return 400 if status is OPEN but not authenticated",
+      "file": "C:\\Users\\14494\\OneDrive\\Desktop\\RareDrop\\backend-server\\tests\\test.i.search.js",
+      "duration": 2,
+      "currentRetry": 0,
+      "speed": "fast",
+      "err": {}
+    },
+    {
+      "title": "Should return 200 with 10 objects if status is OPEN and logged in as user1",
+      "fullTitle": "Searching by status Should return 200 with 10 objects if status is OPEN and logged in as user1",
+      "file": "C:\\Users\\14494\\OneDrive\\Desktop\\RareDrop\\backend-server\\tests\\test.i.search.js",
+      "duration": 4,
+      "currentRetry": 0,
+      "speed": "fast",
+      "err": {}
+    },
+    {
+      "title": "Should return 200 with 0 objects if status is OPEN and logged in as user2",
+      "fullTitle": "Searching by status Should return 200 with 0 objects if status is OPEN and logged in as user2",
+      "file": "C:\\Users\\14494\\OneDrive\\Desktop\\RareDrop\\backend-server\\tests\\test.i.search.js",
+      "duration": 3,
+      "currentRetry": 0,
+      "speed": "fast",
+      "err": {}
+    },
+    {
+      "title": "Should return 200 with 0 objects if status is BID and logged in as user1",
+      "fullTitle": "Searching by status Should return 200 with 0 objects if status is BID and logged in as user1",
+      "file": "C:\\Users\\14494\\OneDrive\\Desktop\\RareDrop\\backend-server\\tests\\test.i.search.js",
+      "duration": 4,
+      "currentRetry": 0,
+      "speed": "fast",
+      "err": {}
+    },
+    {
+      "title": "Should return 200 with 1 objects if status is BID and logged in as user2",
+      "fullTitle": "Searching by status Should return 200 with 1 objects if status is BID and logged in as user2",
+      "file": "C:\\Users\\14494\\OneDrive\\Desktop\\RareDrop\\backend-server\\tests\\test.i.search.js",
+      "duration": 3,
+      "currentRetry": 0,
+      "err": {
+        "message": "expected +0 to equal 1",
+        "showDiff": true,
+        "actual": "0",
+        "expected": "1",
+        "operator": "strictEqual",
+        "stack": "AssertionError: expected +0 to equal 1\n    at C:\\Users\\14494\\OneDrive\\Desktop\\RareDrop\\backend-server\\tests\\test.i.search.js:216:44\n    at process.processTicksAndRejections (node:internal/process/task_queues:104:5)"
+      }
+    },
+    {
+      "title": "Should return 200 with 0 objects if status is ARCHIVE, logged in as user2",
+      "fullTitle": "Searching by status Should return 200 with 0 objects if status is ARCHIVE, logged in as user2",
+      "file": "C:\\Users\\14494\\OneDrive\\Desktop\\RareDrop\\backend-server\\tests\\test.i.search.js",
+      "duration": 3,
+      "currentRetry": 0,
+      "speed": "fast",
+      "err": {}
+    },
+    {
+      "title": "Should return 200, with 6 objects when searching OPEN auctions with the string 'and' as user 1",
+      "fullTitle": "Searching by query string Should return 200, with 6 objects when searching OPEN auctions with the string 'and' as user 1",
+      "file": "C:\\Users\\14494\\OneDrive\\Desktop\\RareDrop\\backend-server\\tests\\test.i.search.js",
+      "duration": 5,
+      "currentRetry": 0,
+      "err": {
+        "message": "expected +0 to equal 6",
+        "showDiff": true,
+        "actual": "0",
+        "expected": "6",
+        "operator": "strictEqual",
+        "stack": "AssertionError: expected +0 to equal 6\n    at C:\\Users\\14494\\OneDrive\\Desktop\\RareDrop\\backend-server\\tests\\test.i.search.js:246:44\n    at process.processTicksAndRejections (node:internal/process/task_queues:104:5)"
+      }
+    },
+    {
+      "title": "Should return 200, with 0 objects when searching OPEN auctions with the string 'and' as user 2",
+      "fullTitle": "Searching by query string Should return 200, with 0 objects when searching OPEN auctions with the string 'and' as user 2",
+      "file": "C:\\Users\\14494\\OneDrive\\Desktop\\RareDrop\\backend-server\\tests\\test.i.search.js",
+      "duration": 4,
+      "currentRetry": 0,
+      "speed": "fast",
+      "err": {}
+    },
+    {
+      "title": "Should return 200, with 1 objects when searching all items with the string 'uv'",
+      "fullTitle": "Searching by query string Should return 200, with 1 objects when searching all items with the string 'uv'",
+      "file": "C:\\Users\\14494\\OneDrive\\Desktop\\RareDrop\\backend-server\\tests\\test.i.search.js",
+      "duration": 3,
+      "currentRetry": 0,
+      "err": {
+        "message": "expected +0 to equal 1",
+        "showDiff": true,
+        "actual": "0",
+        "expected": "1",
+        "operator": "strictEqual",
+        "stack": "AssertionError: expected +0 to equal 1\n    at C:\\Users\\14494\\OneDrive\\Desktop\\RareDrop\\backend-server\\tests\\test.i.search.js:271:44\n    at process.processTicksAndRejections (node:internal/process/task_queues:104:5)"
+      }
+    },
+    {
+      "title": "Should return 200, with 0 objects when searching all auctions with the string 'xxx'",
+      "fullTitle": "Searching by query string Should return 200, with 0 objects when searching all auctions with the string 'xxx'",
+      "file": "C:\\Users\\14494\\OneDrive\\Desktop\\RareDrop\\backend-server\\tests\\test.i.search.js",
+      "duration": 3,
+      "currentRetry": 0,
+      "speed": "fast",
+      "err": {}
+    }
+  ],
+  "pending": [],
+  "failures": [
+    {
+      "title": "Should return 201 status code",
+      "fullTitle": "Test bidding success Should return 201 status code",
+      "file": "C:\\Users\\14494\\OneDrive\\Desktop\\RareDrop\\backend-server\\tests\\test.d.bidding.js",
+      "duration": 4,
+      "currentRetry": 0,
+      "err": {
+        "message": "expected Response{ _events: {}, …(35), …(2) } to have status code 201 but got 400",
+        "showDiff": true,
+        "actual": "400",
+        "expected": "201",
+        "stack": "AssertionError: expected Response{ _events: {}, …(35), …(2) } to have status code 201 but got 400\n    at C:\\Users\\14494\\OneDrive\\Desktop\\RareDrop\\backend-server\\tests\\test.d.bidding.js:209:37\n    at process.processTicksAndRejections (node:internal/process/task_queues:104:5)"
+      }
+    },
+    {
+      "title": "Should return 201 status code",
+      "fullTitle": "Test bidding success Should return 201 status code",
+      "file": "C:\\Users\\14494\\OneDrive\\Desktop\\RareDrop\\backend-server\\tests\\test.d.bidding.js",
+      "duration": 4,
+      "currentRetry": 0,
+      "err": {
+        "message": "expected Response{ _events: {}, …(35), …(2) } to have status code 201 but got 400",
+        "showDiff": true,
+        "actual": "400",
+        "expected": "201",
+        "stack": "AssertionError: expected Response{ _events: {}, …(35), …(2) } to have status code 201 but got 400\n    at C:\\Users\\14494\\OneDrive\\Desktop\\RareDrop\\backend-server\\tests\\test.d.bidding.js:224:37\n    at process.processTicksAndRejections (node:internal/process/task_queues:104:5)"
+      }
+    },
+    {
+      "title": "Should return 200 with two bids",
+      "fullTitle": "Getting bid history of an auction with bids Should return 200 with two bids",
+      "file": "C:\\Users\\14494\\OneDrive\\Desktop\\RareDrop\\backend-server\\tests\\test.e.bidhistory.js",
+      "duration": 3,
+      "currentRetry": 0,
+      "err": {
+        "message": "expected +0 to equal 2",
+        "showDiff": true,
+        "actual": "0",
+        "expected": "2",
+        "operator": "strictEqual",
+        "stack": "AssertionError: expected +0 to equal 2\n    at C:\\Users\\14494\\OneDrive\\Desktop\\RareDrop\\backend-server\\tests\\test.e.bidhistory.js:46:44\n    at process.processTicksAndRejections (node:internal/process/task_queues:104:5)"
+      }
+    },
+    {
+      "title": "Should return 200 but with a bid holder",
+      "fullTitle": "Getting item details of an auction with bids Should return 200 but with a bid holder",
+      "file": "C:\\Users\\14494\\OneDrive\\Desktop\\RareDrop\\backend-server\\tests\\test.f.view.auction.js",
+      "duration": 4,
+      "currentRetry": 0,
+      "err": {
+        "message": "expected 4200 to equal 3596",
+        "showDiff": true,
+        "actual": "4200",
+        "expected": "3596",
+        "operator": "strictEqual",
+        "stack": "AssertionError: expected 4200 to equal 3596\n    at C:\\Users\\14494\\OneDrive\\Desktop\\RareDrop\\backend-server\\tests\\test.f.view.auction.js:99:49\n    at process.processTicksAndRejections (node:internal/process/task_queues:104:5)"
+      }
+    },
+    {
+      "title": "Should return 200",
+      "fullTitle": "Getting user details of a user with no items but bids Should return 200",
+      "file": "C:\\Users\\14494\\OneDrive\\Desktop\\RareDrop\\backend-server\\tests\\test.g.view.user.js",
+      "duration": 3,
+      "currentRetry": 0,
+      "err": {
+        "message": "expected +0 to equal 1",
+        "showDiff": true,
+        "actual": "0",
+        "expected": "1",
+        "operator": "strictEqual",
+        "stack": "AssertionError: expected +0 to equal 1\n    at C:\\Users\\14494\\OneDrive\\Desktop\\RareDrop\\backend-server\\tests\\test.g.view.user.js:126:55\n    at process.processTicksAndRejections (node:internal/process/task_queues:104:5)"
+      }
+    },
+    {
+      "title": "Should return 200 with 1 objects if status is BID and logged in as user2",
+      "fullTitle": "Searching by status Should return 200 with 1 objects if status is BID and logged in as user2",
+      "file": "C:\\Users\\14494\\OneDrive\\Desktop\\RareDrop\\backend-server\\tests\\test.i.search.js",
+      "duration": 3,
+      "currentRetry": 0,
+      "err": {
+        "message": "expected +0 to equal 1",
+        "showDiff": true,
+        "actual": "0",
+        "expected": "1",
+        "operator": "strictEqual",
+        "stack": "AssertionError: expected +0 to equal 1\n    at C:\\Users\\14494\\OneDrive\\Desktop\\RareDrop\\backend-server\\tests\\test.i.search.js:216:44\n    at process.processTicksAndRejections (node:internal/process/task_queues:104:5)"
+      }
+    },
+    {
+      "title": "Should return 200, with 6 objects when searching OPEN auctions with the string 'and' as user 1",
+      "fullTitle": "Searching by query string Should return 200, with 6 objects when searching OPEN auctions with the string 'and' as user 1",
+      "file": "C:\\Users\\14494\\OneDrive\\Desktop\\RareDrop\\backend-server\\tests\\test.i.search.js",
+      "duration": 5,
+      "currentRetry": 0,
+      "err": {
+        "message": "expected +0 to equal 6",
+        "showDiff": true,
+        "actual": "0",
+        "expected": "6",
+        "operator": "strictEqual",
+        "stack": "AssertionError: expected +0 to equal 6\n    at C:\\Users\\14494\\OneDrive\\Desktop\\RareDrop\\backend-server\\tests\\test.i.search.js:246:44\n    at process.processTicksAndRejections (node:internal/process/task_queues:104:5)"
+      }
+    },
+    {
+      "title": "Should return 200, with 1 objects when searching all items with the string 'uv'",
+      "fullTitle": "Searching by query string Should return 200, with 1 objects when searching all items with the string 'uv'",
+      "file": "C:\\Users\\14494\\OneDrive\\Desktop\\RareDrop\\backend-server\\tests\\test.i.search.js",
+      "duration": 3,
+      "currentRetry": 0,
+      "err": {
+        "message": "expected +0 to equal 1",
+        "showDiff": true,
+        "actual": "0",
+        "expected": "1",
+        "operator": "strictEqual",
+        "stack": "AssertionError: expected +0 to equal 1\n    at C:\\Users\\14494\\OneDrive\\Desktop\\RareDrop\\backend-server\\tests\\test.i.search.js:271:44\n    at process.processTicksAndRejections (node:internal/process/task_queues:104:5)"
+      }
+    }
+  ],
+  "passes": [
+    {
+      "title": "Should return 201, and JSON with user_id of new user: maya.turner101@gmail.com",
+      "fullTitle": "Test successful creation of users Should return 201, and JSON with user_id of new user: maya.turner101@gmail.com",
+      "file": "C:\\Users\\14494\\OneDrive\\Desktop\\RareDrop\\backend-server\\tests\\test.a.user.creation.js",
+      "duration": 96,
+      "currentRetry": 0,
+      "speed": "slow",
+      "err": {}
+    },
+    {
+      "title": "Should return 201, and JSON with user_id of new user: ethan.brooks102@outlook.com",
+      "fullTitle": "Test successful creation of users Should return 201, and JSON with user_id of new user: ethan.brooks102@outlook.com",
+      "file": "C:\\Users\\14494\\OneDrive\\Desktop\\RareDrop\\backend-server\\tests\\test.a.user.creation.js",
+      "duration": 46,
+      "currentRetry": 0,
+      "speed": "medium",
+      "err": {}
+    },
+    {
+      "title": "Should return 201, and JSON with user_id of new user: nora.bennett103@yahoo.com",
+      "fullTitle": "Test successful creation of users Should return 201, and JSON with user_id of new user: nora.bennett103@yahoo.com",
+      "file": "C:\\Users\\14494\\OneDrive\\Desktop\\RareDrop\\backend-server\\tests\\test.a.user.creation.js",
+      "duration": 38,
+      "currentRetry": 0,
+      "speed": "medium",
+      "err": {}
+    },
+    {
+      "title": "Should return 201, and JSON with user_id of new user: lucas.reed104@proton.me",
+      "fullTitle": "Test successful creation of users Should return 201, and JSON with user_id of new user: lucas.reed104@proton.me",
+      "file": "C:\\Users\\14494\\OneDrive\\Desktop\\RareDrop\\backend-server\\tests\\test.a.user.creation.js",
+      "duration": 42,
+      "currentRetry": 0,
+      "speed": "medium",
+      "err": {}
+    },
+    {
+      "title": "Should return 201, and JSON with user_id of new user: chloe.harper105@icloud.com",
+      "fullTitle": "Test successful creation of users Should return 201, and JSON with user_id of new user: chloe.harper105@icloud.com",
+      "file": "C:\\Users\\14494\\OneDrive\\Desktop\\RareDrop\\backend-server\\tests\\test.a.user.creation.js",
+      "duration": 38,
+      "currentRetry": 0,
+      "speed": "medium",
+      "err": {}
+    },
+    {
+      "title": "Should return 201, and JSON with user_id of new user: caleb.parker106@mail.com",
+      "fullTitle": "Test successful creation of users Should return 201, and JSON with user_id of new user: caleb.parker106@mail.com",
+      "file": "C:\\Users\\14494\\OneDrive\\Desktop\\RareDrop\\backend-server\\tests\\test.a.user.creation.js",
+      "duration": 36,
+      "currentRetry": 0,
+      "speed": "fast",
+      "err": {}
+    },
+    {
+      "title": "Should return 201, and JSON with user_id of new user: olivia.hayes107@aol.com",
+      "fullTitle": "Test successful creation of users Should return 201, and JSON with user_id of new user: olivia.hayes107@aol.com",
+      "file": "C:\\Users\\14494\\OneDrive\\Desktop\\RareDrop\\backend-server\\tests\\test.a.user.creation.js",
+      "duration": 40,
+      "currentRetry": 0,
+      "speed": "medium",
+      "err": {}
+    },
+    {
+      "title": "Should return 201, and JSON with user_id of new user: ryan.mills108@zoho.com",
+      "fullTitle": "Test successful creation of users Should return 201, and JSON with user_id of new user: ryan.mills108@zoho.com",
+      "file": "C:\\Users\\14494\\OneDrive\\Desktop\\RareDrop\\backend-server\\tests\\test.a.user.creation.js",
+      "duration": 45,
+      "currentRetry": 0,
+      "speed": "medium",
+      "err": {}
+    },
+    {
+      "title": "Should return 201, and JSON with user_id of new user: grace.coleman109@fastmail.com",
+      "fullTitle": "Test successful creation of users Should return 201, and JSON with user_id of new user: grace.coleman109@fastmail.com",
+      "file": "C:\\Users\\14494\\OneDrive\\Desktop\\RareDrop\\backend-server\\tests\\test.a.user.creation.js",
+      "duration": 38,
+      "currentRetry": 0,
+      "speed": "medium",
+      "err": {}
+    },
+    {
+      "title": "Should return 201, and JSON with user_id of new user: noah.foster110@live.com",
+      "fullTitle": "Test successful creation of users Should return 201, and JSON with user_id of new user: noah.foster110@live.com",
+      "file": "C:\\Users\\14494\\OneDrive\\Desktop\\RareDrop\\backend-server\\tests\\test.a.user.creation.js",
+      "duration": 37,
+      "currentRetry": 0,
+      "speed": "fast",
+      "err": {}
+    },
+    {
+      "title": "Should return a 400 status code: Test blank first_name",
+      "fullTitle": "Test malformed creation of users Should return a 400 status code: Test blank first_name",
+      "file": "C:\\Users\\14494\\OneDrive\\Desktop\\RareDrop\\backend-server\\tests\\test.a.user.creation.js",
+      "duration": 3,
+      "currentRetry": 0,
+      "speed": "fast",
+      "err": {}
+    },
+    {
+      "title": "Should return a 400 status code: Test blank last_name",
+      "fullTitle": "Test malformed creation of users Should return a 400 status code: Test blank last_name",
+      "file": "C:\\Users\\14494\\OneDrive\\Desktop\\RareDrop\\backend-server\\tests\\test.a.user.creation.js",
+      "duration": 3,
+      "currentRetry": 0,
+      "speed": "fast",
+      "err": {}
+    },
+    {
+      "title": "Should return a 400 status code: Test blank email",
+      "fullTitle": "Test malformed creation of users Should return a 400 status code: Test blank email",
+      "file": "C:\\Users\\14494\\OneDrive\\Desktop\\RareDrop\\backend-server\\tests\\test.a.user.creation.js",
+      "duration": 2,
+      "currentRetry": 0,
+      "speed": "fast",
+      "err": {}
+    },
+    {
+      "title": "Should return a 400 status code: Test blank password",
+      "fullTitle": "Test malformed creation of users Should return a 400 status code: Test blank password",
+      "file": "C:\\Users\\14494\\OneDrive\\Desktop\\RareDrop\\backend-server\\tests\\test.a.user.creation.js",
+      "duration": 2,
+      "currentRetry": 0,
+      "speed": "fast",
+      "err": {}
+    },
+    {
+      "title": "Should return a 400 status code: Test duplicate email",
+      "fullTitle": "Test malformed creation of users Should return a 400 status code: Test duplicate email",
+      "file": "C:\\Users\\14494\\OneDrive\\Desktop\\RareDrop\\backend-server\\tests\\test.a.user.creation.js",
+      "duration": 34,
+      "currentRetry": 0,
+      "speed": "fast",
+      "err": {}
+    },
+    {
+      "title": "Should return a 400 status code: Test password too short",
+      "fullTitle": "Test malformed creation of users Should return a 400 status code: Test password too short",
+      "file": "C:\\Users\\14494\\OneDrive\\Desktop\\RareDrop\\backend-server\\tests\\test.a.user.creation.js",
+      "duration": 3,
+      "currentRetry": 0,
+      "speed": "fast",
+      "err": {}
+    },
+    {
+      "title": "Should return a 400 status code: Test password too long",
+      "fullTitle": "Test malformed creation of users Should return a 400 status code: Test password too long",
+      "file": "C:\\Users\\14494\\OneDrive\\Desktop\\RareDrop\\backend-server\\tests\\test.a.user.creation.js",
+      "duration": 3,
+      "currentRetry": 0,
+      "speed": "fast",
+      "err": {}
+    },
+    {
+      "title": "Should return a 400 status code: Test password without numbers",
+      "fullTitle": "Test malformed creation of users Should return a 400 status code: Test password without numbers",
+      "file": "C:\\Users\\14494\\OneDrive\\Desktop\\RareDrop\\backend-server\\tests\\test.a.user.creation.js",
+      "duration": 2,
+      "currentRetry": 0,
+      "speed": "fast",
+      "err": {}
+    },
+    {
+      "title": "Should return a 400 status code: Test password without special character",
+      "fullTitle": "Test malformed creation of users Should return a 400 status code: Test password without special character",
+      "file": "C:\\Users\\14494\\OneDrive\\Desktop\\RareDrop\\backend-server\\tests\\test.a.user.creation.js",
+      "duration": 3,
+      "currentRetry": 0,
+      "speed": "fast",
+      "err": {}
+    },
+    {
+      "title": "Should return a 400 status code: Test password without upper case character",
+      "fullTitle": "Test malformed creation of users Should return a 400 status code: Test password without upper case character",
+      "file": "C:\\Users\\14494\\OneDrive\\Desktop\\RareDrop\\backend-server\\tests\\test.a.user.creation.js",
+      "duration": 2,
+      "currentRetry": 0,
+      "speed": "fast",
+      "err": {}
+    },
+    {
+      "title": "Should return a 400 status code: Test password without lower case character",
+      "fullTitle": "Test malformed creation of users Should return a 400 status code: Test password without lower case character",
+      "file": "C:\\Users\\14494\\OneDrive\\Desktop\\RareDrop\\backend-server\\tests\\test.a.user.creation.js",
+      "duration": 2,
+      "currentRetry": 0,
+      "speed": "fast",
+      "err": {}
+    },
+    {
+      "title": "Should return 400 status code: missing first name",
+      "fullTitle": "Test malformed creation of users Should return 400 status code: missing first name",
+      "file": "C:\\Users\\14494\\OneDrive\\Desktop\\RareDrop\\backend-server\\tests\\test.a.user.creation.js",
+      "duration": 2,
+      "currentRetry": 0,
+      "speed": "fast",
+      "err": {}
+    },
+    {
+      "title": "Should return 400 status code: missing last name",
+      "fullTitle": "Test malformed creation of users Should return 400 status code: missing last name",
+      "file": "C:\\Users\\14494\\OneDrive\\Desktop\\RareDrop\\backend-server\\tests\\test.a.user.creation.js",
+      "duration": 3,
+      "currentRetry": 0,
+      "speed": "fast",
+      "err": {}
+    },
+    {
+      "title": "Should return 400 status code: missing email",
+      "fullTitle": "Test malformed creation of users Should return 400 status code: missing email",
+      "file": "C:\\Users\\14494\\OneDrive\\Desktop\\RareDrop\\backend-server\\tests\\test.a.user.creation.js",
+      "duration": 2,
+      "currentRetry": 0,
+      "speed": "fast",
+      "err": {}
+    },
+    {
+      "title": "Should return 400 status code: missing password",
+      "fullTitle": "Test malformed creation of users Should return 400 status code: missing password",
+      "file": "C:\\Users\\14494\\OneDrive\\Desktop\\RareDrop\\backend-server\\tests\\test.a.user.creation.js",
+      "duration": 2,
+      "currentRetry": 0,
+      "speed": "fast",
+      "err": {}
+    },
+    {
+      "title": "Should return 400 status code: extra field",
+      "fullTitle": "Test malformed creation of users Should return 400 status code: extra field",
+      "file": "C:\\Users\\14494\\OneDrive\\Desktop\\RareDrop\\backend-server\\tests\\test.a.user.creation.js",
+      "duration": 3,
+      "currentRetry": 0,
+      "speed": "fast",
+      "err": {}
+    },
+    {
+      "title": "Should return 200 status code for successful login",
+      "fullTitle": "Test user login/logout Should return 200 status code for successful login",
+      "file": "C:\\Users\\14494\\OneDrive\\Desktop\\RareDrop\\backend-server\\tests\\test.b.authentication.js",
+      "duration": 39,
+      "currentRetry": 0,
+      "speed": "medium",
+      "err": {}
+    },
+    {
+      "title": "Should return the same token if a logged in user tried to login again",
+      "fullTitle": "Test user login/logout Should return the same token if a logged in user tried to login again",
+      "file": "C:\\Users\\14494\\OneDrive\\Desktop\\RareDrop\\backend-server\\tests\\test.b.authentication.js",
+      "duration": 33,
+      "currentRetry": 0,
+      "speed": "fast",
+      "err": {}
+    },
+    {
+      "title": "Should return 400 status code for incorrect email",
+      "fullTitle": "Test user login/logout Should return 400 status code for incorrect email",
+      "file": "C:\\Users\\14494\\OneDrive\\Desktop\\RareDrop\\backend-server\\tests\\test.b.authentication.js",
+      "duration": 3,
+      "currentRetry": 0,
+      "speed": "fast",
+      "err": {}
+    },
+    {
+      "title": "Should return 400 status code for incorrect password",
+      "fullTitle": "Test user login/logout Should return 400 status code for incorrect password",
+      "file": "C:\\Users\\14494\\OneDrive\\Desktop\\RareDrop\\backend-server\\tests\\test.b.authentication.js",
+      "duration": 29,
+      "currentRetry": 0,
+      "speed": "fast",
+      "err": {}
+    },
+    {
+      "title": "Should return 400 status code for missing password",
+      "fullTitle": "Test user login/logout Should return 400 status code for missing password",
+      "file": "C:\\Users\\14494\\OneDrive\\Desktop\\RareDrop\\backend-server\\tests\\test.b.authentication.js",
+      "duration": 2,
+      "currentRetry": 0,
+      "speed": "fast",
+      "err": {}
+    },
+    {
+      "title": "Should return 400 status code for missing email",
+      "fullTitle": "Test user login/logout Should return 400 status code for missing email",
+      "file": "C:\\Users\\14494\\OneDrive\\Desktop\\RareDrop\\backend-server\\tests\\test.b.authentication.js",
+      "duration": 2,
+      "currentRetry": 0,
+      "speed": "fast",
+      "err": {}
+    },
+    {
+      "title": "Should return 400 status code for extra field",
+      "fullTitle": "Test user login/logout Should return 400 status code for extra field",
+      "file": "C:\\Users\\14494\\OneDrive\\Desktop\\RareDrop\\backend-server\\tests\\test.b.authentication.js",
+      "duration": 2,
+      "currentRetry": 0,
+      "speed": "fast",
+      "err": {}
+    },
+    {
+      "title": "Should return 401 status code for logging out user not logged in",
+      "fullTitle": "Test user login/logout Should return 401 status code for logging out user not logged in",
+      "file": "C:\\Users\\14494\\OneDrive\\Desktop\\RareDrop\\backend-server\\tests\\test.b.authentication.js",
+      "duration": 3,
+      "currentRetry": 0,
+      "speed": "fast",
+      "err": {}
+    },
+    {
+      "title": "Should return 200 status code for logging out user who is logged in",
+      "fullTitle": "Test user login/logout Should return 200 status code for logging out user who is logged in",
+      "file": "C:\\Users\\14494\\OneDrive\\Desktop\\RareDrop\\backend-server\\tests\\test.b.authentication.js",
+      "duration": 9,
+      "currentRetry": 0,
+      "speed": "fast",
+      "err": {}
+    },
+    {
+      "title": "Should return 401",
+      "fullTitle": "Test adding items if not logged in Should return 401",
+      "file": "C:\\Users\\14494\\OneDrive\\Desktop\\RareDrop\\backend-server\\tests\\test.c.auction.creation.js",
+      "duration": 2,
+      "currentRetry": 0,
+      "speed": "fast",
+      "err": {}
+    },
+    {
+      "title": "Should return 401",
+      "fullTitle": "Test adding items if not logged in Should return 401",
+      "file": "C:\\Users\\14494\\OneDrive\\Desktop\\RareDrop\\backend-server\\tests\\test.c.auction.creation.js",
+      "duration": 2,
+      "currentRetry": 0,
+      "speed": "fast",
+      "err": {}
+    },
+    {
+      "title": "Should return 401",
+      "fullTitle": "Test adding items if not logged in Should return 401",
+      "file": "C:\\Users\\14494\\OneDrive\\Desktop\\RareDrop\\backend-server\\tests\\test.c.auction.creation.js",
+      "duration": 2,
+      "currentRetry": 0,
+      "speed": "fast",
+      "err": {}
+    },
+    {
+      "title": "Should return 401",
+      "fullTitle": "Test adding items if not logged in Should return 401",
+      "file": "C:\\Users\\14494\\OneDrive\\Desktop\\RareDrop\\backend-server\\tests\\test.c.auction.creation.js",
+      "duration": 2,
+      "currentRetry": 0,
+      "speed": "fast",
+      "err": {}
+    },
+    {
+      "title": "Should return 401",
+      "fullTitle": "Test adding items if not logged in Should return 401",
+      "file": "C:\\Users\\14494\\OneDrive\\Desktop\\RareDrop\\backend-server\\tests\\test.c.auction.creation.js",
+      "duration": 2,
+      "currentRetry": 0,
+      "speed": "fast",
+      "err": {}
+    },
+    {
+      "title": "Should return 401",
+      "fullTitle": "Test adding items if not logged in Should return 401",
+      "file": "C:\\Users\\14494\\OneDrive\\Desktop\\RareDrop\\backend-server\\tests\\test.c.auction.creation.js",
+      "duration": 1,
+      "currentRetry": 0,
+      "speed": "fast",
+      "err": {}
+    },
+    {
+      "title": "Should return 401",
+      "fullTitle": "Test adding items if not logged in Should return 401",
+      "file": "C:\\Users\\14494\\OneDrive\\Desktop\\RareDrop\\backend-server\\tests\\test.c.auction.creation.js",
+      "duration": 2,
+      "currentRetry": 0,
+      "speed": "fast",
+      "err": {}
+    },
+    {
+      "title": "Should return 401",
+      "fullTitle": "Test adding items if not logged in Should return 401",
+      "file": "C:\\Users\\14494\\OneDrive\\Desktop\\RareDrop\\backend-server\\tests\\test.c.auction.creation.js",
+      "duration": 2,
+      "currentRetry": 0,
+      "speed": "fast",
+      "err": {}
+    },
+    {
+      "title": "Should return 401",
+      "fullTitle": "Test adding items if not logged in Should return 401",
+      "file": "C:\\Users\\14494\\OneDrive\\Desktop\\RareDrop\\backend-server\\tests\\test.c.auction.creation.js",
+      "duration": 1,
+      "currentRetry": 0,
+      "speed": "fast",
+      "err": {}
+    },
+    {
+      "title": "Should return 401",
+      "fullTitle": "Test adding items if not logged in Should return 401",
+      "file": "C:\\Users\\14494\\OneDrive\\Desktop\\RareDrop\\backend-server\\tests\\test.c.auction.creation.js",
+      "duration": 2,
+      "currentRetry": 0,
+      "speed": "fast",
+      "err": {}
+    },
+    {
+      "title": "Should return 200, and JSON with user_id and session_token",
+      "fullTitle": "Log into account. Should return 200, and JSON with user_id and session_token",
+      "file": "C:\\Users\\14494\\OneDrive\\Desktop\\RareDrop\\backend-server\\tests\\test.c.auction.creation.js",
+      "duration": 38,
+      "currentRetry": 0,
+      "speed": "medium",
+      "err": {}
+    },
+    {
+      "title": "Should return 201, and JSON with item_id of new item: Vintage camera with leather case.",
+      "fullTitle": "Test successful creation of items when logged in Should return 201, and JSON with item_id of new item: Vintage camera with leather case.",
+      "file": "C:\\Users\\14494\\OneDrive\\Desktop\\RareDrop\\backend-server\\tests\\test.c.auction.creation.js",
+      "duration": 10,
+      "currentRetry": 0,
+      "speed": "fast",
+      "err": {}
+    },
+    {
+      "title": "Should return 201, and JSON with item_id of new item: Mechanical keyboard with blue switches.",
+      "fullTitle": "Test successful creation of items when logged in Should return 201, and JSON with item_id of new item: Mechanical keyboard with blue switches.",
+      "file": "C:\\Users\\14494\\OneDrive\\Desktop\\RareDrop\\backend-server\\tests\\test.c.auction.creation.js",
+      "duration": 8,
+      "currentRetry": 0,
+      "speed": "fast",
+      "err": {}
+    },
+    {
+      "title": "Should return 201, and JSON with item_id of new item: Mountain bike helmet, size medium.",
+      "fullTitle": "Test successful creation of items when logged in Should return 201, and JSON with item_id of new item: Mountain bike helmet, size medium.",
+      "file": "C:\\Users\\14494\\OneDrive\\Desktop\\RareDrop\\backend-server\\tests\\test.c.auction.creation.js",
+      "duration": 9,
+      "currentRetry": 0,
+      "speed": "fast",
+      "err": {}
+    },
+    {
+      "title": "Should return 201, and JSON with item_id of new item: Portable Bluetooth speaker.",
+      "fullTitle": "Test successful creation of items when logged in Should return 201, and JSON with item_id of new item: Portable Bluetooth speaker.",
+      "file": "C:\\Users\\14494\\OneDrive\\Desktop\\RareDrop\\backend-server\\tests\\test.c.auction.creation.js",
+      "duration": 9,
+      "currentRetry": 0,
+      "speed": "fast",
+      "err": {}
+    },
+    {
+      "title": "Should return 201, and JSON with item_id of new item: Ceramic dinnerware set for four.",
+      "fullTitle": "Test successful creation of items when logged in Should return 201, and JSON with item_id of new item: Ceramic dinnerware set for four.",
+      "file": "C:\\Users\\14494\\OneDrive\\Desktop\\RareDrop\\backend-server\\tests\\test.c.auction.creation.js",
+      "duration": 9,
+      "currentRetry": 0,
+      "speed": "fast",
+      "err": {}
+    },
+    {
+      "title": "Should return 201, and JSON with item_id of new item: Wooden coffee table with storage shelf.",
+      "fullTitle": "Test successful creation of items when logged in Should return 201, and JSON with item_id of new item: Wooden coffee table with storage shelf.",
+      "file": "C:\\Users\\14494\\OneDrive\\Desktop\\RareDrop\\backend-server\\tests\\test.c.auction.creation.js",
+      "duration": 9,
+      "currentRetry": 0,
+      "speed": "fast",
+      "err": {}
+    },
+    {
+      "title": "Should return 201, and JSON with item_id of new item: Smart thermostat, unopened box.",
+      "fullTitle": "Test successful creation of items when logged in Should return 201, and JSON with item_id of new item: Smart thermostat, unopened box.",
+      "file": "C:\\Users\\14494\\OneDrive\\Desktop\\RareDrop\\backend-server\\tests\\test.c.auction.creation.js",
+      "duration": 9,
+      "currentRetry": 0,
+      "speed": "fast",
+      "err": {}
+    },
+    {
+      "title": "Should return 201, and JSON with item_id of new item: Beginner acoustic guitar bundle.",
+      "fullTitle": "Test successful creation of items when logged in Should return 201, and JSON with item_id of new item: Beginner acoustic guitar bundle.",
+      "file": "C:\\Users\\14494\\OneDrive\\Desktop\\RareDrop\\backend-server\\tests\\test.c.auction.creation.js",
+      "duration": 10,
+      "currentRetry": 0,
+      "speed": "fast",
+      "err": {}
+    },
+    {
+      "title": "Should return 201, and JSON with item_id of new item: Two-person camping tent.",
+      "fullTitle": "Test successful creation of items when logged in Should return 201, and JSON with item_id of new item: Two-person camping tent.",
+      "file": "C:\\Users\\14494\\OneDrive\\Desktop\\RareDrop\\backend-server\\tests\\test.c.auction.creation.js",
+      "duration": 9,
+      "currentRetry": 0,
+      "speed": "fast",
+      "err": {}
+    },
+    {
+      "title": "Should return 201, and JSON with item_id of new item: Stainless steel cookware set.",
+      "fullTitle": "Test successful creation of items when logged in Should return 201, and JSON with item_id of new item: Stainless steel cookware set.",
+      "file": "C:\\Users\\14494\\OneDrive\\Desktop\\RareDrop\\backend-server\\tests\\test.c.auction.creation.js",
+      "duration": 10,
+      "currentRetry": 0,
+      "speed": "fast",
+      "err": {}
+    },
+    {
+      "title": "Should return 400 status code: missing name",
+      "fullTitle": "Test creation of events when logged in which should not pass validation checks Should return 400 status code: missing name",
+      "file": "C:\\Users\\14494\\OneDrive\\Desktop\\RareDrop\\backend-server\\tests\\test.c.auction.creation.js",
+      "duration": 3,
+      "currentRetry": 0,
+      "speed": "fast",
+      "err": {}
+    },
+    {
+      "title": "Should return 400 status code: missing description",
+      "fullTitle": "Test creation of events when logged in which should not pass validation checks Should return 400 status code: missing description",
+      "file": "C:\\Users\\14494\\OneDrive\\Desktop\\RareDrop\\backend-server\\tests\\test.c.auction.creation.js",
+      "duration": 3,
+      "currentRetry": 0,
+      "speed": "fast",
+      "err": {}
+    },
+    {
+      "title": "Should return 400 status code: missing starting_bid",
+      "fullTitle": "Test creation of events when logged in which should not pass validation checks Should return 400 status code: missing starting_bid",
+      "file": "C:\\Users\\14494\\OneDrive\\Desktop\\RareDrop\\backend-server\\tests\\test.c.auction.creation.js",
+      "duration": 3,
+      "currentRetry": 0,
+      "speed": "fast",
+      "err": {}
+    },
+    {
+      "title": "Should return 400 status code: missing end_date",
+      "fullTitle": "Test creation of events when logged in which should not pass validation checks Should return 400 status code: missing end_date",
+      "file": "C:\\Users\\14494\\OneDrive\\Desktop\\RareDrop\\backend-server\\tests\\test.c.auction.creation.js",
+      "duration": 3,
+      "currentRetry": 0,
+      "speed": "fast",
+      "err": {}
+    },
+    {
+      "title": "Should return 400 status code: extra field",
+      "fullTitle": "Test creation of events when logged in which should not pass validation checks Should return 400 status code: extra field",
+      "file": "C:\\Users\\14494\\OneDrive\\Desktop\\RareDrop\\backend-server\\tests\\test.c.auction.creation.js",
+      "duration": 2,
+      "currentRetry": 0,
+      "speed": "fast",
+      "err": {}
+    },
+    {
+      "title": "Should return a 400 status code: Test blank name",
+      "fullTitle": "Test creation of events when logged in which should not pass validation checks Should return a 400 status code: Test blank name",
+      "file": "C:\\Users\\14494\\OneDrive\\Desktop\\RareDrop\\backend-server\\tests\\test.c.auction.creation.js",
+      "duration": 2,
+      "currentRetry": 0,
+      "speed": "fast",
+      "err": {}
+    },
+    {
+      "title": "Should return a 400 status code: Test blank description",
+      "fullTitle": "Test creation of events when logged in which should not pass validation checks Should return a 400 status code: Test blank description",
+      "file": "C:\\Users\\14494\\OneDrive\\Desktop\\RareDrop\\backend-server\\tests\\test.c.auction.creation.js",
+      "duration": 2,
+      "currentRetry": 0,
+      "speed": "fast",
+      "err": {}
+    },
+    {
+      "title": "Should return a 400 status code: Test blank starting bid",
+      "fullTitle": "Test creation of events when logged in which should not pass validation checks Should return a 400 status code: Test blank starting bid",
+      "file": "C:\\Users\\14494\\OneDrive\\Desktop\\RareDrop\\backend-server\\tests\\test.c.auction.creation.js",
+      "duration": 3,
+      "currentRetry": 0,
+      "speed": "fast",
+      "err": {}
+    },
+    {
+      "title": "Should return a 400 status code: Test blank end_date",
+      "fullTitle": "Test creation of events when logged in which should not pass validation checks Should return a 400 status code: Test blank end_date",
+      "file": "C:\\Users\\14494\\OneDrive\\Desktop\\RareDrop\\backend-server\\tests\\test.c.auction.creation.js",
+      "duration": 3,
+      "currentRetry": 0,
+      "speed": "fast",
+      "err": {}
+    },
+    {
+      "title": "Should return a 400 status code: Test negative starting_bid",
+      "fullTitle": "Test creation of events when logged in which should not pass validation checks Should return a 400 status code: Test negative starting_bid",
+      "file": "C:\\Users\\14494\\OneDrive\\Desktop\\RareDrop\\backend-server\\tests\\test.c.auction.creation.js",
+      "duration": 2,
+      "currentRetry": 0,
+      "speed": "fast",
+      "err": {}
+    },
+    {
+      "title": "Should return a 400 status code: Test end date in the past",
+      "fullTitle": "Test creation of events when logged in which should not pass validation checks Should return a 400 status code: Test end date in the past",
+      "file": "C:\\Users\\14494\\OneDrive\\Desktop\\RareDrop\\backend-server\\tests\\test.c.auction.creation.js",
+      "duration": 2,
+      "currentRetry": 0,
+      "speed": "fast",
+      "err": {}
+    },
+    {
+      "title": "Should return a 400 status code: Test invalid start",
+      "fullTitle": "Test creation of events when logged in which should not pass validation checks Should return a 400 status code: Test invalid start",
+      "file": "C:\\Users\\14494\\OneDrive\\Desktop\\RareDrop\\backend-server\\tests\\test.c.auction.creation.js",
+      "duration": 2,
+      "currentRetry": 0,
+      "speed": "fast",
+      "err": {}
+    },
+    {
+      "title": "Should return a 401",
+      "fullTitle": "Bidding on an auction when not authenticated Should return a 401",
+      "file": "C:\\Users\\14494\\OneDrive\\Desktop\\RareDrop\\backend-server\\tests\\test.d.bidding.js",
+      "duration": 2,
+      "currentRetry": 0,
+      "speed": "fast",
+      "err": {}
+    },
+    {
+      "title": "Should return 200, and JSON with user_id and session_token of the user",
+      "fullTitle": "Log into user account Should return 200, and JSON with user_id and session_token of the user",
+      "file": "C:\\Users\\14494\\OneDrive\\Desktop\\RareDrop\\backend-server\\tests\\test.d.bidding.js",
+      "duration": 34,
+      "currentRetry": 0,
+      "speed": "fast",
+      "err": {}
+    },
+    {
+      "title": "Should return 200, and JSON with user_id and session_token of the user",
+      "fullTitle": "Log into user account Should return 200, and JSON with user_id and session_token of the user",
+      "file": "C:\\Users\\14494\\OneDrive\\Desktop\\RareDrop\\backend-server\\tests\\test.d.bidding.js",
+      "duration": 40,
+      "currentRetry": 0,
+      "speed": "medium",
+      "err": {}
+    },
+    {
+      "title": "Should return 400 status code: extra field",
+      "fullTitle": "Test bidding when logged in which should not pass validation checks Should return 400 status code: extra field",
+      "file": "C:\\Users\\14494\\OneDrive\\Desktop\\RareDrop\\backend-server\\tests\\test.d.bidding.js",
+      "duration": 3,
+      "currentRetry": 0,
+      "speed": "fast",
+      "err": {}
+    },
+    {
+      "title": "Should return 400 status code: blank amount",
+      "fullTitle": "Test bidding when logged in which should not pass validation checks Should return 400 status code: blank amount",
+      "file": "C:\\Users\\14494\\OneDrive\\Desktop\\RareDrop\\backend-server\\tests\\test.d.bidding.js",
+      "duration": 3,
+      "currentRetry": 0,
+      "speed": "fast",
+      "err": {}
+    },
+    {
+      "title": "Should return 400 status code: invalid amount",
+      "fullTitle": "Test bidding when logged in which should not pass validation checks Should return 400 status code: invalid amount",
+      "file": "C:\\Users\\14494\\OneDrive\\Desktop\\RareDrop\\backend-server\\tests\\test.d.bidding.js",
+      "duration": 2,
+      "currentRetry": 0,
+      "speed": "fast",
+      "err": {}
+    },
+    {
+      "title": "Should return 400 status code: amount less or equal than current bid (3595)",
+      "fullTitle": "Test bidding when logged in which should not pass validation checks Should return 400 status code: amount less or equal than current bid (3595)",
+      "file": "C:\\Users\\14494\\OneDrive\\Desktop\\RareDrop\\backend-server\\tests\\test.d.bidding.js",
+      "duration": 4,
+      "currentRetry": 0,
+      "speed": "fast",
+      "err": {}
+    },
+    {
+      "title": "Should return 403 status code: can not bid on own items",
+      "fullTitle": "Test bidding in situations that should fail Should return 403 status code: can not bid on own items",
+      "file": "C:\\Users\\14494\\OneDrive\\Desktop\\RareDrop\\backend-server\\tests\\test.d.bidding.js",
+      "duration": 3,
+      "currentRetry": 0,
+      "speed": "fast",
+      "err": {}
+    },
+    {
+      "title": "Should return 404 status code: item does not exist",
+      "fullTitle": "Test bidding in situations that should fail Should return 404 status code: item does not exist",
+      "file": "C:\\Users\\14494\\OneDrive\\Desktop\\RareDrop\\backend-server\\tests\\test.d.bidding.js",
+      "duration": 3,
+      "currentRetry": 0,
+      "speed": "fast",
+      "err": {}
+    },
+    {
+      "title": "Should return 404",
+      "fullTitle": "Getting bid history of an auction that does not exist Should return 404",
+      "file": "C:\\Users\\14494\\OneDrive\\Desktop\\RareDrop\\backend-server\\tests\\test.e.bidhistory.js",
+      "duration": 2,
+      "currentRetry": 0,
+      "speed": "fast",
+      "err": {}
+    },
+    {
+      "title": "Should return 200 but with an empty list",
+      "fullTitle": "Getting bid history of an auction with no bids Should return 200 but with an empty list",
+      "file": "C:\\Users\\14494\\OneDrive\\Desktop\\RareDrop\\backend-server\\tests\\test.e.bidhistory.js",
+      "duration": 3,
+      "currentRetry": 0,
+      "speed": "fast",
+      "err": {}
+    },
+    {
+      "title": "Should return 404",
+      "fullTitle": "Getting item details of an auction that does not exist Should return 404",
+      "file": "C:\\Users\\14494\\OneDrive\\Desktop\\RareDrop\\backend-server\\tests\\test.f.view.auction.js",
+      "duration": 3,
+      "currentRetry": 0,
+      "speed": "fast",
+      "err": {}
+    },
+    {
+      "title": "Should return 200 but with an empty bid holder",
+      "fullTitle": "Getting item details of an auction with no bids Should return 200 but with an empty bid holder",
+      "file": "C:\\Users\\14494\\OneDrive\\Desktop\\RareDrop\\backend-server\\tests\\test.f.view.auction.js",
+      "duration": 3,
+      "currentRetry": 0,
+      "speed": "fast",
+      "err": {}
+    },
+    {
+      "title": "Should return 404",
+      "fullTitle": "Getting user details of a user that does not exist Should return 404",
+      "file": "C:\\Users\\14494\\OneDrive\\Desktop\\RareDrop\\backend-server\\tests\\test.g.view.user.js",
+      "duration": 2,
+      "currentRetry": 0,
+      "speed": "fast",
+      "err": {}
+    },
+    {
+      "title": "Should return 200 but with empty lists",
+      "fullTitle": "Getting user details of a user with no items or bids Should return 200 but with empty lists",
+      "file": "C:\\Users\\14494\\OneDrive\\Desktop\\RareDrop\\backend-server\\tests\\test.g.view.user.js",
+      "duration": 3,
+      "currentRetry": 0,
+      "speed": "fast",
+      "err": {}
+    },
+    {
+      "title": "Should return 200",
+      "fullTitle": "Getting user details of a user with items but no bids Should return 200",
+      "file": "C:\\Users\\14494\\OneDrive\\Desktop\\RareDrop\\backend-server\\tests\\test.g.view.user.js",
+      "duration": 4,
+      "currentRetry": 0,
+      "speed": "fast",
+      "err": {}
+    },
+    {
+      "title": "Should return 401",
+      "fullTitle": "Test asking question if not logged in Should return 401",
+      "file": "C:\\Users\\14494\\OneDrive\\Desktop\\RareDrop\\backend-server\\tests\\test.h.auction.questions.js",
+      "duration": 2,
+      "currentRetry": 0,
+      "speed": "fast",
+      "err": {}
+    },
+    {
+      "title": "Should return 200, and JSON with user_id and session_token",
+      "fullTitle": "Log into account. Should return 200, and JSON with user_id and session_token",
+      "file": "C:\\Users\\14494\\OneDrive\\Desktop\\RareDrop\\backend-server\\tests\\test.h.auction.questions.js",
+      "duration": 32,
+      "currentRetry": 0,
+      "speed": "fast",
+      "err": {}
+    },
+    {
+      "title": "Should return 200, and JSON with user_id and session_token",
+      "fullTitle": "Log into account. Should return 200, and JSON with user_id and session_token",
+      "file": "C:\\Users\\14494\\OneDrive\\Desktop\\RareDrop\\backend-server\\tests\\test.h.auction.questions.js",
+      "duration": 33,
+      "currentRetry": 0,
+      "speed": "fast",
+      "err": {}
+    },
+    {
+      "title": "Should return 200 - user 2 asking a question on item 1",
+      "fullTitle": "Test asking questions if logged in Should return 200 - user 2 asking a question on item 1",
+      "file": "C:\\Users\\14494\\OneDrive\\Desktop\\RareDrop\\backend-server\\tests\\test.h.auction.questions.js",
+      "duration": 9,
+      "currentRetry": 0,
+      "speed": "fast",
+      "err": {}
+    },
+    {
+      "title": "Should return 200 - user 2 asking a question on item 1",
+      "fullTitle": "Test asking questions if logged in Should return 200 - user 2 asking a question on item 1",
+      "file": "C:\\Users\\14494\\OneDrive\\Desktop\\RareDrop\\backend-server\\tests\\test.h.auction.questions.js",
+      "duration": 10,
+      "currentRetry": 0,
+      "speed": "fast",
+      "err": {}
+    },
+    {
+      "title": "Should return 403 - user 1 asking a question on item 1 as they are the creator",
+      "fullTitle": "Test asking questions if logged in Should return 403 - user 1 asking a question on item 1 as they are the creator",
+      "file": "C:\\Users\\14494\\OneDrive\\Desktop\\RareDrop\\backend-server\\tests\\test.h.auction.questions.js",
+      "duration": 4,
+      "currentRetry": 0,
+      "speed": "fast",
+      "err": {}
+    },
+    {
+      "title": "Should return 400 if question is empty",
+      "fullTitle": "Test asking questions if logged in Should return 400 if question is empty",
+      "file": "C:\\Users\\14494\\OneDrive\\Desktop\\RareDrop\\backend-server\\tests\\test.h.auction.questions.js",
+      "duration": 2,
+      "currentRetry": 0,
+      "speed": "fast",
+      "err": {}
+    },
+    {
+      "title": "Should return 400 if question is missing",
+      "fullTitle": "Test asking questions if logged in Should return 400 if question is missing",
+      "file": "C:\\Users\\14494\\OneDrive\\Desktop\\RareDrop\\backend-server\\tests\\test.h.auction.questions.js",
+      "duration": 3,
+      "currentRetry": 0,
+      "speed": "fast",
+      "err": {}
+    },
+    {
+      "title": "Should return 400 if extra field is present",
+      "fullTitle": "Test asking questions if logged in Should return 400 if extra field is present",
+      "file": "C:\\Users\\14494\\OneDrive\\Desktop\\RareDrop\\backend-server\\tests\\test.h.auction.questions.js",
+      "duration": 2,
+      "currentRetry": 0,
+      "speed": "fast",
+      "err": {}
+    },
+    {
+      "title": "Should return 404 if item does not exist",
+      "fullTitle": "Test asking questions if logged in Should return 404 if item does not exist",
+      "file": "C:\\Users\\14494\\OneDrive\\Desktop\\RareDrop\\backend-server\\tests\\test.h.auction.questions.js",
+      "duration": 4,
+      "currentRetry": 0,
+      "speed": "fast",
+      "err": {}
+    },
+    {
+      "title": "Should return 401 if not logged in",
+      "fullTitle": "Test answering questions Should return 401 if not logged in",
+      "file": "C:\\Users\\14494\\OneDrive\\Desktop\\RareDrop\\backend-server\\tests\\test.h.auction.questions.js",
+      "duration": 2,
+      "currentRetry": 0,
+      "speed": "fast",
+      "err": {}
+    },
+    {
+      "title": "Should return 403 if user 2 trys to answer a question for an auction they did not create",
+      "fullTitle": "Test answering questions Should return 403 if user 2 trys to answer a question for an auction they did not create",
+      "file": "C:\\Users\\14494\\OneDrive\\Desktop\\RareDrop\\backend-server\\tests\\test.h.auction.questions.js",
+      "duration": 3,
+      "currentRetry": 0,
+      "speed": "fast",
+      "err": {}
+    },
+    {
+      "title": "Should return 404 if the question does not exist",
+      "fullTitle": "Test answering questions Should return 404 if the question does not exist",
+      "file": "C:\\Users\\14494\\OneDrive\\Desktop\\RareDrop\\backend-server\\tests\\test.h.auction.questions.js",
+      "duration": 3,
+      "currentRetry": 0,
+      "speed": "fast",
+      "err": {}
+    },
+    {
+      "title": "Should return 400 if the answer is blank",
+      "fullTitle": "Test answering questions Should return 400 if the answer is blank",
+      "file": "C:\\Users\\14494\\OneDrive\\Desktop\\RareDrop\\backend-server\\tests\\test.h.auction.questions.js",
+      "duration": 3,
+      "currentRetry": 0,
+      "speed": "fast",
+      "err": {}
+    },
+    {
+      "title": "Should return 400 if the answer is missing",
+      "fullTitle": "Test answering questions Should return 400 if the answer is missing",
+      "file": "C:\\Users\\14494\\OneDrive\\Desktop\\RareDrop\\backend-server\\tests\\test.h.auction.questions.js",
+      "duration": 3,
+      "currentRetry": 0,
+      "speed": "fast",
+      "err": {}
+    },
+    {
+      "title": "Should return 400 if the answer contains an extra field",
+      "fullTitle": "Test answering questions Should return 400 if the answer contains an extra field",
+      "file": "C:\\Users\\14494\\OneDrive\\Desktop\\RareDrop\\backend-server\\tests\\test.h.auction.questions.js",
+      "duration": 3,
+      "currentRetry": 0,
+      "speed": "fast",
+      "err": {}
+    },
+    {
+      "title": "Should return 200 if user 1 answers a question on item 1",
+      "fullTitle": "Test answering questions Should return 200 if user 1 answers a question on item 1",
+      "file": "C:\\Users\\14494\\OneDrive\\Desktop\\RareDrop\\backend-server\\tests\\test.h.auction.questions.js",
+      "duration": 9,
+      "currentRetry": 0,
+      "speed": "fast",
+      "err": {}
+    },
+    {
+      "title": "Should return 404 if the item does not exist",
+      "fullTitle": "Test retrieving questions Should return 404 if the item does not exist",
+      "file": "C:\\Users\\14494\\OneDrive\\Desktop\\RareDrop\\backend-server\\tests\\test.h.auction.questions.js",
+      "duration": 2,
+      "currentRetry": 0,
+      "speed": "fast",
+      "err": {}
+    },
+    {
+      "title": "Should return 200, but with an empty list if the item has no questions",
+      "fullTitle": "Test retrieving questions Should return 200, but with an empty list if the item has no questions",
+      "file": "C:\\Users\\14494\\OneDrive\\Desktop\\RareDrop\\backend-server\\tests\\test.h.auction.questions.js",
+      "duration": 3,
+      "currentRetry": 0,
+      "speed": "fast",
+      "err": {}
+    },
+    {
+      "title": "Should return 200, with 2 questions on item 1. One question should have an answer and new questions should appear first.",
+      "fullTitle": "Test retrieving questions Should return 200, with 2 questions on item 1. One question should have an answer and new questions should appear first.",
+      "file": "C:\\Users\\14494\\OneDrive\\Desktop\\RareDrop\\backend-server\\tests\\test.h.auction.questions.js",
+      "duration": 2,
+      "currentRetry": 0,
+      "speed": "fast",
+      "err": {}
+    },
+    {
+      "title": "Should return 200, and JSON with user_id and session_token",
+      "fullTitle": "Log into account. Should return 200, and JSON with user_id and session_token",
+      "file": "C:\\Users\\14494\\OneDrive\\Desktop\\RareDrop\\backend-server\\tests\\test.i.search.js",
+      "duration": 30,
+      "currentRetry": 0,
+      "speed": "fast",
+      "err": {}
+    },
+    {
+      "title": "Should return 200, and JSON with user_id and session_token",
+      "fullTitle": "Log into account. Should return 200, and JSON with user_id and session_token",
+      "file": "C:\\Users\\14494\\OneDrive\\Desktop\\RareDrop\\backend-server\\tests\\test.i.search.js",
+      "duration": 31,
+      "currentRetry": 0,
+      "speed": "fast",
+      "err": {}
+    },
+    {
+      "title": "Should return 200, with an array of 10 objects",
+      "fullTitle": "Searching with no criteria, and no authentication, to test pagination. Should return 200, with an array of 10 objects",
+      "file": "C:\\Users\\14494\\OneDrive\\Desktop\\RareDrop\\backend-server\\tests\\test.i.search.js",
+      "duration": 4,
+      "currentRetry": 0,
+      "speed": "fast",
+      "err": {}
+    },
+    {
+      "title": "Should return 200, with an array of 9 objects when offsetting by 1",
+      "fullTitle": "Searching with no criteria, and no authentication, to test pagination. Should return 200, with an array of 9 objects when offsetting by 1",
+      "file": "C:\\Users\\14494\\OneDrive\\Desktop\\RareDrop\\backend-server\\tests\\test.i.search.js",
+      "duration": 3,
+      "currentRetry": 0,
+      "speed": "fast",
+      "err": {}
+    },
+    {
+      "title": "Should return 200, with an array of 8 objects when offsetting by 2",
+      "fullTitle": "Searching with no criteria, and no authentication, to test pagination. Should return 200, with an array of 8 objects when offsetting by 2",
+      "file": "C:\\Users\\14494\\OneDrive\\Desktop\\RareDrop\\backend-server\\tests\\test.i.search.js",
+      "duration": 3,
+      "currentRetry": 0,
+      "speed": "fast",
+      "err": {}
+    },
+    {
+      "title": "Should return 200, with an array of 5 objects when limiting to 5",
+      "fullTitle": "Searching with no criteria, and no authentication, to test pagination. Should return 200, with an array of 5 objects when limiting to 5",
+      "file": "C:\\Users\\14494\\OneDrive\\Desktop\\RareDrop\\backend-server\\tests\\test.i.search.js",
+      "duration": 3,
+      "currentRetry": 0,
+      "speed": "fast",
+      "err": {}
+    },
+    {
+      "title": "Should return 200, with an array of 0 objects when limiting to 5 and offsetting by 10",
+      "fullTitle": "Searching with no criteria, and no authentication, to test pagination. Should return 200, with an array of 0 objects when limiting to 5 and offsetting by 10",
+      "file": "C:\\Users\\14494\\OneDrive\\Desktop\\RareDrop\\backend-server\\tests\\test.i.search.js",
+      "duration": 3,
+      "currentRetry": 0,
+      "speed": "fast",
+      "err": {}
+    },
+    {
+      "title": "Should return 400 if status is not recognised",
+      "fullTitle": "Searching by status Should return 400 if status is not recognised",
+      "file": "C:\\Users\\14494\\OneDrive\\Desktop\\RareDrop\\backend-server\\tests\\test.i.search.js",
+      "duration": 2,
+      "currentRetry": 0,
+      "speed": "fast",
+      "err": {}
+    },
+    {
+      "title": "Should return 400 if status is BID but not authenticated",
+      "fullTitle": "Searching by status Should return 400 if status is BID but not authenticated",
+      "file": "C:\\Users\\14494\\OneDrive\\Desktop\\RareDrop\\backend-server\\tests\\test.i.search.js",
+      "duration": 2,
+      "currentRetry": 0,
+      "speed": "fast",
+      "err": {}
+    },
+    {
+      "title": "Should return 400 if status is OPEN but not authenticated",
+      "fullTitle": "Searching by status Should return 400 if status is OPEN but not authenticated",
+      "file": "C:\\Users\\14494\\OneDrive\\Desktop\\RareDrop\\backend-server\\tests\\test.i.search.js",
+      "duration": 2,
+      "currentRetry": 0,
+      "speed": "fast",
+      "err": {}
+    },
+    {
+      "title": "Should return 200 with 10 objects if status is OPEN and logged in as user1",
+      "fullTitle": "Searching by status Should return 200 with 10 objects if status is OPEN and logged in as user1",
+      "file": "C:\\Users\\14494\\OneDrive\\Desktop\\RareDrop\\backend-server\\tests\\test.i.search.js",
+      "duration": 4,
+      "currentRetry": 0,
+      "speed": "fast",
+      "err": {}
+    },
+    {
+      "title": "Should return 200 with 0 objects if status is OPEN and logged in as user2",
+      "fullTitle": "Searching by status Should return 200 with 0 objects if status is OPEN and logged in as user2",
+      "file": "C:\\Users\\14494\\OneDrive\\Desktop\\RareDrop\\backend-server\\tests\\test.i.search.js",
+      "duration": 3,
+      "currentRetry": 0,
+      "speed": "fast",
+      "err": {}
+    },
+    {
+      "title": "Should return 200 with 0 objects if status is BID and logged in as user1",
+      "fullTitle": "Searching by status Should return 200 with 0 objects if status is BID and logged in as user1",
+      "file": "C:\\Users\\14494\\OneDrive\\Desktop\\RareDrop\\backend-server\\tests\\test.i.search.js",
+      "duration": 4,
+      "currentRetry": 0,
+      "speed": "fast",
+      "err": {}
+    },
+    {
+      "title": "Should return 200 with 0 objects if status is ARCHIVE, logged in as user2",
+      "fullTitle": "Searching by status Should return 200 with 0 objects if status is ARCHIVE, logged in as user2",
+      "file": "C:\\Users\\14494\\OneDrive\\Desktop\\RareDrop\\backend-server\\tests\\test.i.search.js",
+      "duration": 3,
+      "currentRetry": 0,
+      "speed": "fast",
+      "err": {}
+    },
+    {
+      "title": "Should return 200, with 0 objects when searching OPEN auctions with the string 'and' as user 2",
+      "fullTitle": "Searching by query string Should return 200, with 0 objects when searching OPEN auctions with the string 'and' as user 2",
+      "file": "C:\\Users\\14494\\OneDrive\\Desktop\\RareDrop\\backend-server\\tests\\test.i.search.js",
+      "duration": 4,
+      "currentRetry": 0,
+      "speed": "fast",
+      "err": {}
+    },
+    {
+      "title": "Should return 200, with 0 objects when searching all auctions with the string 'xxx'",
+      "fullTitle": "Searching by query string Should return 200, with 0 objects when searching all auctions with the string 'xxx'",
+      "file": "C:\\Users\\14494\\OneDrive\\Desktop\\RareDrop\\backend-server\\tests\\test.i.search.js",
+      "duration": 3,
+      "currentRetry": 0,
+      "speed": "fast",
+      "err": {}
+    }
+  ]
+}

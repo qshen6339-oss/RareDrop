@@ -1,0 +1,108 @@
+{
+  "added": 14,
+  "categories": 14,
+  "existing_records_preserved": true,
+  "second_run_added": 0,
+  "all_new_auctions_active": true,
+  "items": [
+    {
+      "item_id": 11,
+      "category": "Trading cards",
+      "name": "Astral Dragon · Starlight card",
+      "starting_bid": 45,
+      "end_date": 1790067952390
+    },
+    {
+      "item_id": 12,
+      "category": "Designer figures",
+      "name": "Lunar Courier · Studio figure",
+      "starting_bid": 85,
+      "end_date": 1790154352390
+    },
+    {
+      "item_id": 13,
+      "category": "Mecha",
+      "name": "Aster MK-07 · Hangar display",
+      "starting_bid": 140,
+      "end_date": 1790240752390
+    },
+    {
+      "item_id": 14,
+      "category": "Limited editions",
+      "name": "Starfall · Numbered collector set",
+      "starting_bid": 110,
+      "end_date": 1790327152390
+    },
+    {
+      "item_id": 15,
+      "category": "Blind boxes",
+      "name": "Cloud Parade · Mystery mini",
+      "starting_bid": 18,
+      "end_date": 1790413552390
+    },
+    {
+      "item_id": 16,
+      "category": "Plush toys",
+      "name": "Moonbean · Sleepy cloud plush",
+      "starting_bid": 28,
+      "end_date": 1790499952390
+    },
+    {
+      "item_id": 17,
+      "category": "Model cars",
+      "name": "Neon Sprint · 1:64 die-cast coupe",
+      "starting_bid": 32,
+      "end_date": 1790586352390
+    },
+    {
+      "item_id": 18,
+      "category": "Model kits",
+      "name": "Orbit Scout · Space rover kit",
+      "starting_bid": 42,
+      "end_date": 1790672752390
+    },
+    {
+      "item_id": 19,
+      "category": "Building blocks",
+      "name": "Pocket Galaxy · Observatory build",
+      "starting_bid": 38,
+      "end_date": 1790759152390
+    },
+    {
+      "item_id": 20,
+      "category": "Comics & manga",
+      "name": "Neon City Dispatch · Volume 1",
+      "starting_bid": 15,
+      "end_date": 1790845552390
+    },
+    {
+      "item_id": 21,
+      "category": "Art books",
+      "name": "Worlds of Wonder · Concept art volume",
+      "starting_bid": 48,
+      "end_date": 1790931952390
+    },
+    {
+      "item_id": 22,
+      "category": "Badges & pins",
+      "name": "Cosmic Club · Enamel pin trio",
+      "starting_bid": 12,
+      "end_date": 1791018352390
+    },
+    {
+      "item_id": 23,
+      "category": "Keychains & charms",
+      "name": "Lucky Comet · Holographic charm",
+      "starting_bid": 10,
+      "end_date": 1791104752390
+    },
+    {
+      "item_id": 24,
+      "category": "Acrylic stands",
+      "name": "Starbound Cafe · Character stand",
+      "starting_bid": 22,
+      "end_date": 1791191152390
+    }
+  ],
+  "category_filters_passed": 14
+}

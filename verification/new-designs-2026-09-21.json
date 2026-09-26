@@ -1,0 +1,315 @@
+{
+  "created_at": "2026-09-21T03:26:36.751Z",
+  "added_count": 28,
+  "existing_items": 67,
+  "existing_items_preserved": true,
+  "accounts_bids_questions_preserved": true,
+  "first_end": "2026-10-04T04:18:02.431Z",
+  "last_end": "2027-09-21T03:26:36.717Z",
+  "added": [
+    {
+      "item_id": 68,
+      "name": "Sunwing Phoenix · Holographic card",
+      "category_id": 1,
+      "image_key": "sunwing_card",
+      "start_date": 1789961196717,
+      "end_date": 1791087482431
+    },
+    {
+      "item_id": 69,
+      "name": "Moonhart · Pearl-foil forest card",
+      "category_id": 1,
+      "image_key": "moonhart_card",
+      "start_date": 1789961196717,
+      "end_date": 1792213768146
+    },
+    {
+      "item_id": 70,
+      "name": "Raintrail Fox · Yellow-coat figure",
+      "category_id": 2,
+      "image_key": "raintrail_fox",
+      "start_date": 1789961196717,
+      "end_date": 1793340053860
+    },
+    {
+      "item_id": 71,
+      "name": "Mintbeat · Headphone cat figure",
+      "category_id": 2,
+      "image_key": "mintbeat_cat",
+      "start_date": 1789961196717,
+      "end_date": 1794466339574
+    },
+    {
+      "item_id": 72,
+      "name": "Tidal Scout · Coral crab mecha",
+      "category_id": 3,
+      "image_key": "tidal_crab",
+      "start_date": 1789961196717,
+      "end_date": 1795592625288
+    },
+    {
+      "item_id": 73,
+      "name": "Solaris Finch · Winged mecha",
+      "category_id": 3,
+      "image_key": "solaris_mecha",
+      "start_date": 1789961196717,
+      "end_date": 1796718911003
+    },
+    {
+      "item_id": 74,
+      "name": "Tideglass · Ocean collector chest",
+      "category_id": 4,
+      "image_key": "tideglass_set",
+      "start_date": 1789961196717,
+      "end_date": 1797845196717
+    },
+    {
+      "item_id": 75,
+      "name": "Moonrail · Celestial keepsake set",
+      "category_id": 4,
+      "image_key": "moonrail_set",
+      "start_date": 1789961196717,
+      "end_date": 1798971482431
+    },
+    {
+      "item_id": 76,
+      "name": "Mosskin Grove · Forest blind box",
+      "category_id": 5,
+      "image_key": "mosskin_box",
+      "start_date": 1789961196717,
+      "end_date": 1800097768146
+    },
+    {
+      "item_id": 77,
+      "name": "Reef Party · Ocean blind box",
+      "category_id": 5,
+      "image_key": "reefparty_box",
+      "start_date": 1789961196717,
+      "end_date": 1801224053860
+    },
+    {
+      "item_id": 78,
+      "name": "Pebble · Peach axolotl plush",
+      "category_id": 6,
+      "image_key": "pebble_axolotl",
+      "start_date": 1789961196717,
+      "end_date": 1802350339574
+    },
+    {
+      "item_id": 79,
+      "name": "Mistral · Mint whale plush",
+      "category_id": 6,
+      "image_key": "mistral_whale",
+      "start_date": 1789961196717,
+      "end_date": 1803476625288
+    },
+    {
+      "item_id": 80,
+      "name": "Sunset Ramble · Mini camper van",
+      "category_id": 7,
+      "image_key": "sunset_camper",
+      "start_date": 1789961196717,
+      "end_date": 1804602911003
+    },
+    {
+      "item_id": 81,
+      "name": "Violet Dash · Rally hatchback",
+      "category_id": 7,
+      "image_key": "violet_rally",
+      "start_date": 1789961196717,
+      "end_date": 1805729196717
+    },
+    {
+      "item_id": 82,
+      "name": "Helios Sail · Spacecraft model kit",
+      "category_id": 8,
+      "image_key": "helios_sail",
+      "start_date": 1789961196717,
+      "end_date": 1806855482431
+    },
+    {
+      "item_id": 83,
+      "name": "Copper Cloud · Airship model kit",
+      "category_id": 8,
+      "image_key": "copper_cloud",
+      "start_date": 1789961196717,
+      "end_date": 1807981768146
+    },
+    {
+      "item_id": 84,
+      "name": "Pixel Pocket · Arcade block build",
+      "category_id": 9,
+      "image_key": "pixel_arcade",
+      "start_date": 1789961196717,
+      "end_date": 1809108053860
+    },
+    {
+      "item_id": 85,
+      "name": "Cloud Garden · Greenhouse block build",
+      "category_id": 9,
+      "image_key": "cloud_garden",
+      "start_date": 1789961196717,
+      "end_date": 1810234339574
+    },
+    {
+      "item_id": 86,
+      "name": "Midnight Garden · Illustrated comic",
+      "category_id": 10,
+      "image_key": "midnight_garden",
+      "start_date": 1789961196717,
+      "end_date": 1811360625288
+    },
+    {
+      "item_id": 87,
+      "name": "Bubble Courier · Ocean adventure comic",
+      "category_id": 10,
+      "image_key": "bubble_courier",
+      "start_date": 1789961196717,
+      "end_date": 1812486911003
+    },
+    {
+      "item_id": 88,
+      "name": "Mechanical Dreams · Concept art book",
+      "category_id": 11,
+      "image_key": "mechanical_dreams",
+      "start_date": 1789961196717,
+      "end_date": 1813613196717
+    },
+    {
+      "item_id": 89,
+      "name": "Botanical Realms · Fantasy art volume",
+      "category_id": 11,
+      "image_key": "botanical_realms",
+      "start_date": 1789961196717,
+      "end_date": 1814739482431
+    },
+    {
+      "item_id": 90,
+      "name": "Berry Teatime · Enamel pin trio",
+      "category_id": 12,
+      "image_key": "teatime_pins",
+      "start_date": 1789961196717,
+      "end_date": 1815865768146
+    },
+    {
+      "item_id": 91,
+      "name": "Night Garden · Enamel pin trio",
+      "category_id": 12,
+      "image_key": "nightgarden_pins",
+      "start_date": 1789961196717,
+      "end_date": 1816992053860
+    },
+    {
+      "item_id": 92,
+      "name": "Peach Orbit · Planet bag charm",
+      "category_id": 13,
+      "image_key": "peach_orbit",
+      "start_date": 1789961196717,
+      "end_date": 1818118339574
+    },
+    {
+      "item_id": 93,
+      "name": "Mint Mixtape · Cassette keychain",
+      "category_id": 13,
+      "image_key": "mixtape_charm",
+      "start_date": 1789961196717,
+      "end_date": 1819244625288
+    },
+    {
+      "item_id": 94,
+      "name": "Luna Sonata · Violinist acrylic stand",
+      "category_id": 14,
+      "image_key": "luna_violin",
+      "start_date": 1789961196717,
+      "end_date": 1820370911003
+    },
+    {
+      "item_id": 95,
+      "name": "Reef Rover · Diver acrylic stand",
+      "category_id": 14,
+      "image_key": "reef_explorer",
+      "start_date": 1789961196717,
+      "end_date": 1821497196717
+    }
+  ],
+  "live_verification": {
+    "checked_at": "2026-09-21T03:28:29.662Z",
+    "public_total": 86,
+    "category_filters": 14,
+    "group_filters": 4,
+    "images_loaded": 28,
+    "new_designs_in_featured": true,
+    "categories": [
+      {
+        "category_id": 1,
+        "name": "Trading cards",
+        "count": 7
+      },
+      {
+        "category_id": 2,
+        "name": "Designer figures",
+        "count": 7
+      },
+      {
+        "category_id": 3,
+        "name": "Mecha",
+        "count": 6
+      },
+      {
+        "category_id": 4,
+        "name": "Limited editions",
+        "count": 7
+      },
+      {
+        "category_id": 5,
+        "name": "Blind boxes",
+        "count": 7
+      },
+      {
+        "category_id": 6,
+        "name": "Plush toys",
+        "count": 6
+      },
+      {
+        "category_id": 7,
+        "name": "Model cars",
+        "count": 6
+      },
+      {
+        "category_id": 8,
+        "name": "Model kits",
+        "count": 6
+      },
+      {
+        "category_id": 9,
+        "name": "Building blocks",
+        "count": 6
+      },
+      {
+        "category_id": 10,
+        "name": "Comics & manga",
+        "count": 6
+      },
+      {
+        "category_id": 11,
+        "name": "Art books",
+        "count": 6
+      },
+      {
+        "category_id": 12,
+        "name": "Badges & pins",
+        "count": 6
+      },
+      {
+        "category_id": 13,
+        "name": "Keychains & charms",
+        "count": 6
+      },
+      {
+        "category_id": 14,
+        "name": "Acrylic stands",
+        "count": 6
+      }
+    ]
+  }
+}

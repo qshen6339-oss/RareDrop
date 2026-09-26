@@ -1,0 +1,42 @@
+{
+  "passed": 9,
+  "total": 9,
+  "checks": [
+    {
+      "name": "Incomplete drafts can be saved, then read after leaving the form",
+      "passed": true
+    },
+    {
+      "name": "Drafts are separated by collector account",
+      "passed": true
+    },
+    {
+      "name": "Editing keeps the same draft rather than adding a duplicate",
+      "passed": true
+    },
+    {
+      "name": "Draft snapshots do not change when the form changes later",
+      "passed": true
+    },
+    {
+      "name": "A storage failure is reported and preserves the previous draft",
+      "passed": true
+    },
+    {
+      "name": "Corrupted storage is reported without overwriting the stored data",
+      "passed": true
+    },
+    {
+      "name": "Deleting removes only the chosen draft from the current account",
+      "passed": true
+    },
+    {
+      "name": "Cover photos survive draft restore, replacement and removal",
+      "passed": true
+    },
+    {
+      "name": "Drafts can be saved on HTTP LAN previews without randomUUID",
+      "passed": true
+    }
+  ]
+}

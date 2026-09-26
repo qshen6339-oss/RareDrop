@@ -1,0 +1,31 @@
+{
+  "date": "2026-09-16T08:05:25.805Z",
+  "passed": 6,
+  "total": 6,
+  "checks": [
+    {
+      "name": "Name editing requires authentication and ownership",
+      "passed": true
+    },
+    {
+      "name": "Blank, missing, oversized and unexpected fields are rejected without modifying data",
+      "passed": true
+    },
+    {
+      "name": "Chinese names are trimmed and returned without exposing private fields",
+      "passed": true
+    },
+    {
+      "name": "Profile, listings, search and seller details all use the new name",
+      "passed": true
+    },
+    {
+      "name": "Existing bids and current bid holder reflect a bidder's renamed profile",
+      "passed": true
+    },
+    {
+      "name": "Login credentials, session and existing auction ownership remain intact",
+      "passed": true
+    }
+  ]
+}

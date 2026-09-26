@@ -1,0 +1,31 @@
+{
+  "date": "2026-09-18T01:02:53.367Z",
+  "passed": 6,
+  "total": 6,
+  "checks": [
+    {
+      "name": "Visible clients refresh every five seconds; hidden tabs suspend and refresh on return",
+      "passed": true
+    },
+    {
+      "name": "Focus, connection recovery and relevant publication signals refresh immediately",
+      "passed": true
+    },
+    {
+      "name": "Slow requests do not overlap; multiple publication signals coalesce into one follow-up",
+      "passed": true
+    },
+    {
+      "name": "Foreground work can suppress refresh; network errors do not stop subsequent attempts",
+      "passed": true
+    },
+    {
+      "name": "Unmount clears timers and listeners and discards queued work",
+      "passed": true
+    },
+    {
+      "name": "Mutation signals contain no account data and still work when browser storage is blocked",
+      "passed": true
+    }
+  ]
+}

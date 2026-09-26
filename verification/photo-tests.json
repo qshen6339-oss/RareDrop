@@ -1,0 +1,43 @@
+{
+  "date": "2026-09-15T03:09:22.188Z",
+  "passed": 9,
+  "total": 9,
+  "checks": [
+    {
+      "name": "Photo publishing requires authentication",
+      "passed": true
+    },
+    {
+      "name": "Invalid formats and damaged files create no listing",
+      "passed": true
+    },
+    {
+      "name": "Oversized requests and oversized image dimensions are rejected",
+      "passed": true
+    },
+    {
+      "name": "Photo, item and multiple categories publish together",
+      "passed": true
+    },
+    {
+      "name": "Public media points to exact stored JPEG bytes with safe response headers",
+      "passed": true
+    },
+    {
+      "name": "Filtering finds the photographed listing while base item fields stay unchanged",
+      "passed": true
+    },
+    {
+      "name": "Invalid categories and storage failures roll back the whole publication",
+      "passed": true
+    },
+    {
+      "name": "Text-only creation and original demo artwork continue to work",
+      "passed": true
+    },
+    {
+      "name": "Teaching-style deletion cleans up stored photos even with foreign keys disabled",
+      "passed": true
+    }
+  ]
+}

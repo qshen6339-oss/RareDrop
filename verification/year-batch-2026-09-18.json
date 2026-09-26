@@ -1,0 +1,418 @@
+{
+  "created_at": "2026-09-18T01:20:13.735Z",
+  "added_count": 42,
+  "public_total": 58,
+  "first_end": "2026-09-26T17:54:30.837Z",
+  "last_end": "2027-09-18T01:20:13.694Z",
+  "existing_items_preserved": true,
+  "categories": [
+    {
+      "category_id": 1,
+      "name": "Trading cards",
+      "count": 5
+    },
+    {
+      "category_id": 2,
+      "name": "Designer figures",
+      "count": 5
+    },
+    {
+      "category_id": 3,
+      "name": "Mecha",
+      "count": 4
+    },
+    {
+      "category_id": 4,
+      "name": "Limited editions",
+      "count": 5
+    },
+    {
+      "category_id": 5,
+      "name": "Blind boxes",
+      "count": 5
+    },
+    {
+      "category_id": 6,
+      "name": "Plush toys",
+      "count": 4
+    },
+    {
+      "category_id": 7,
+      "name": "Model cars",
+      "count": 4
+    },
+    {
+      "category_id": 8,
+      "name": "Model kits",
+      "count": 4
+    },
+    {
+      "category_id": 9,
+      "name": "Building blocks",
+      "count": 4
+    },
+    {
+      "category_id": 10,
+      "name": "Comics & manga",
+      "count": 4
+    },
+    {
+      "category_id": 11,
+      "name": "Art books",
+      "count": 4
+    },
+    {
+      "category_id": 12,
+      "name": "Badges & pins",
+      "count": 4
+    },
+    {
+      "category_id": 13,
+      "name": "Keychains & charms",
+      "count": 4
+    },
+    {
+      "category_id": 14,
+      "name": "Acrylic stands",
+      "count": 4
+    }
+  ],
+  "added": [
+    {
+      "item_id": 26,
+      "category_id": 1,
+      "name": "Astral Dragon · Starlight card · Collector copy 1 (2026-27)",
+      "image_key": "dragon",
+      "start_date": 1789694413694,
+      "end_date": 1790445270837
+    },
+    {
+      "item_id": 27,
+      "category_id": 2,
+      "name": "Lunar Courier · Studio figure · Collector copy 1 (2026-27)",
+      "image_key": "rabbit",
+      "start_date": 1789694413694,
+      "end_date": 1791196127980
+    },
+    {
+      "item_id": 28,
+      "category_id": 3,
+      "name": "Aster MK-07 · Hangar display · Collector copy 1 (2026-27)",
+      "image_key": "mecha",
+      "start_date": 1789694413694,
+      "end_date": 1791946985123
+    },
+    {
+      "item_id": 29,
+      "category_id": 4,
+      "name": "Starfall · Numbered collector set · Collector copy 1 (2026-27)",
+      "image_key": "limited",
+      "start_date": 1789694413694,
+      "end_date": 1792697842265
+    },
+    {
+      "item_id": 30,
+      "category_id": 5,
+      "name": "Cloud Parade · Mystery mini · Collector copy 1 (2026-27)",
+      "image_key": "blindbox",
+      "start_date": 1789694413694,
+      "end_date": 1793448699408
+    },
+    {
+      "item_id": 31,
+      "category_id": 6,
+      "name": "Moonbean · Sleepy cloud plush · Collector copy 1 (2026-27)",
+      "image_key": "plush",
+      "start_date": 1789694413694,
+      "end_date": 1794199556551
+    },
+    {
+      "item_id": 32,
+      "category_id": 7,
+      "name": "Neon Sprint · 1:64 die-cast coupe · Collector copy 1 (2026-27)",
+      "image_key": "car",
+      "start_date": 1789694413694,
+      "end_date": 1794950413694
+    },
+    {
+      "item_id": 33,
+      "category_id": 8,
+      "name": "Orbit Scout · Space rover kit · Collector copy 1 (2026-27)",
+      "image_key": "kit",
+      "start_date": 1789694413694,
+      "end_date": 1795701270837
+    },
+    {
+      "item_id": 34,
+      "category_id": 9,
+      "name": "Pocket Galaxy · Observatory build · Collector copy 1 (2026-27)",
+      "image_key": "blocks",
+      "start_date": 1789694413694,
+      "end_date": 1796452127980
+    },
+    {
+      "item_id": 35,
+      "category_id": 10,
+      "name": "Neon City Dispatch · Volume 1 · Collector copy 1 (2026-27)",
+      "image_key": "comic",
+      "start_date": 1789694413694,
+      "end_date": 1797202985123
+    },
+    {
+      "item_id": 36,
+      "category_id": 11,
+      "name": "Worlds of Wonder · Concept art volume · Collector copy 1 (2026-27)",
+      "image_key": "artbook",
+      "start_date": 1789694413694,
+      "end_date": 1797953842265
+    },
+    {
+      "item_id": 37,
+      "category_id": 12,
+      "name": "Cosmic Club · Enamel pin trio · Collector copy 1 (2026-27)",
+      "image_key": "pins",
+      "start_date": 1789694413694,
+      "end_date": 1798704699408
+    },
+    {
+      "item_id": 38,
+      "category_id": 13,
+      "name": "Lucky Comet · Holographic charm · Collector copy 1 (2026-27)",
+      "image_key": "charm",
+      "start_date": 1789694413694,
+      "end_date": 1799455556551
+    },
+    {
+      "item_id": 39,
+      "category_id": 14,
+      "name": "Starbound Cafe · Character stand · Collector copy 1 (2026-27)",
+      "image_key": "stand",
+      "start_date": 1789694413694,
+      "end_date": 1800206413694
+    },
+    {
+      "item_id": 40,
+      "category_id": 1,
+      "name": "Astral Dragon · Starlight card · Collector copy 2 (2026-27)",
+      "image_key": "dragon",
+      "start_date": 1789694413694,
+      "end_date": 1800957270837
+    },
+    {
+      "item_id": 41,
+      "category_id": 2,
+      "name": "Lunar Courier · Studio figure · Collector copy 2 (2026-27)",
+      "image_key": "rabbit",
+      "start_date": 1789694413694,
+      "end_date": 1801708127980
+    },
+    {
+      "item_id": 42,
+      "category_id": 3,
+      "name": "Aster MK-07 · Hangar display · Collector copy 2 (2026-27)",
+      "image_key": "mecha",
+      "start_date": 1789694413694,
+      "end_date": 1802458985123
+    },
+    {
+      "item_id": 43,
+      "category_id": 4,
+      "name": "Starfall · Numbered collector set · Collector copy 2 (2026-27)",
+      "image_key": "limited",
+      "start_date": 1789694413694,
+      "end_date": 1803209842265
+    },
+    {
+      "item_id": 44,
+      "category_id": 5,
+      "name": "Cloud Parade · Mystery mini · Collector copy 2 (2026-27)",
+      "image_key": "blindbox",
+      "start_date": 1789694413694,
+      "end_date": 1803960699408
+    },
+    {
+      "item_id": 45,
+      "category_id": 6,
+      "name": "Moonbean · Sleepy cloud plush · Collector copy 2 (2026-27)",
+      "image_key": "plush",
+      "start_date": 1789694413694,
+      "end_date": 1804711556551
+    },
+    {
+      "item_id": 46,
+      "category_id": 7,
+      "name": "Neon Sprint · 1:64 die-cast coupe · Collector copy 2 (2026-27)",
+      "image_key": "car",
+      "start_date": 1789694413694,
+      "end_date": 1805462413694
+    },
+    {
+      "item_id": 47,
+      "category_id": 8,
+      "name": "Orbit Scout · Space rover kit · Collector copy 2 (2026-27)",
+      "image_key": "kit",
+      "start_date": 1789694413694,
+      "end_date": 1806213270837
+    },
+    {
+      "item_id": 48,
+      "category_id": 9,
+      "name": "Pocket Galaxy · Observatory build · Collector copy 2 (2026-27)",
+      "image_key": "blocks",
+      "start_date": 1789694413694,
+      "end_date": 1806964127980
+    },
+    {
+      "item_id": 49,
+      "category_id": 10,
+      "name": "Neon City Dispatch · Volume 1 · Collector copy 2 (2026-27)",
+      "image_key": "comic",
+      "start_date": 1789694413694,
+      "end_date": 1807714985123
+    },
+    {
+      "item_id": 50,
+      "category_id": 11,
+      "name": "Worlds of Wonder · Concept art volume · Collector copy 2 (2026-27)",
+      "image_key": "artbook",
+      "start_date": 1789694413694,
+      "end_date": 1808465842265
+    },
+    {
+      "item_id": 51,
+      "category_id": 12,
+      "name": "Cosmic Club · Enamel pin trio · Collector copy 2 (2026-27)",
+      "image_key": "pins",
+      "start_date": 1789694413694,
+      "end_date": 1809216699408
+    },
+    {
+      "item_id": 52,
+      "category_id": 13,
+      "name": "Lucky Comet · Holographic charm · Collector copy 2 (2026-27)",
+      "image_key": "charm",
+      "start_date": 1789694413694,
+      "end_date": 1809967556551
+    },
+    {
+      "item_id": 53,
+      "category_id": 14,
+      "name": "Starbound Cafe · Character stand · Collector copy 2 (2026-27)",
+      "image_key": "stand",
+      "start_date": 1789694413694,
+      "end_date": 1810718413694
+    },
+    {
+      "item_id": 54,
+      "category_id": 1,
+      "name": "Astral Dragon · Starlight card · Collector copy 3 (2026-27)",
+      "image_key": "dragon",
+      "start_date": 1789694413694,
+      "end_date": 1811469270837
+    },
+    {
+      "item_id": 55,
+      "category_id": 2,
+      "name": "Lunar Courier · Studio figure · Collector copy 3 (2026-27)",
+      "image_key": "rabbit",
+      "start_date": 1789694413694,
+      "end_date": 1812220127980
+    },
+    {
+      "item_id": 56,
+      "category_id": 3,
+      "name": "Aster MK-07 · Hangar display · Collector copy 3 (2026-27)",
+      "image_key": "mecha",
+      "start_date": 1789694413694,
+      "end_date": 1812970985123
+    },
+    {
+      "item_id": 57,
+      "category_id": 4,
+      "name": "Starfall · Numbered collector set · Collector copy 3 (2026-27)",
+      "image_key": "limited",
+      "start_date": 1789694413694,
+      "end_date": 1813721842265
+    },
+    {
+      "item_id": 58,
+      "category_id": 5,
+      "name": "Cloud Parade · Mystery mini · Collector copy 3 (2026-27)",
+      "image_key": "blindbox",
+      "start_date": 1789694413694,
+      "end_date": 1814472699408
+    },
+    {
+      "item_id": 59,
+      "category_id": 6,
+      "name": "Moonbean · Sleepy cloud plush · Collector copy 3 (2026-27)",
+      "image_key": "plush",
+      "start_date": 1789694413694,
+      "end_date": 1815223556551
+    },
+    {
+      "item_id": 60,
+      "category_id": 7,
+      "name": "Neon Sprint · 1:64 die-cast coupe · Collector copy 3 (2026-27)",
+      "image_key": "car",
+      "start_date": 1789694413694,
+      "end_date": 1815974413694
+    },
+    {
+      "item_id": 61,
+      "category_id": 8,
+      "name": "Orbit Scout · Space rover kit · Collector copy 3 (2026-27)",
+      "image_key": "kit",
+      "start_date": 1789694413694,
+      "end_date": 1816725270837
+    },
+    {
+      "item_id": 62,
+      "category_id": 9,
+      "name": "Pocket Galaxy · Observatory build · Collector copy 3 (2026-27)",
+      "image_key": "blocks",
+      "start_date": 1789694413694,
+      "end_date": 1817476127980
+    },
+    {
+      "item_id": 63,
+      "category_id": 10,
+      "name": "Neon City Dispatch · Volume 1 · Collector copy 3 (2026-27)",
+      "image_key": "comic",
+      "start_date": 1789694413694,
+      "end_date": 1818226985123
+    },
+    {
+      "item_id": 64,
+      "category_id": 11,
+      "name": "Worlds of Wonder · Concept art volume · Collector copy 3 (2026-27)",
+      "image_key": "artbook",
+      "start_date": 1789694413694,
+      "end_date": 1818977842265
+    },
+    {
+      "item_id": 65,
+      "category_id": 12,
+      "name": "Cosmic Club · Enamel pin trio · Collector copy 3 (2026-27)",
+      "image_key": "pins",
+      "start_date": 1789694413694,
+      "end_date": 1819728699408
+    },
+    {
+      "item_id": 66,
+      "category_id": 13,
+      "name": "Lucky Comet · Holographic charm · Collector copy 3 (2026-27)",
+      "image_key": "charm",
+      "start_date": 1789694413694,
+      "end_date": 1820479556551
+    },
+    {
+      "item_id": 67,
+      "category_id": 14,
+      "name": "Starbound Cafe · Character stand · Collector copy 3 (2026-27)",
+      "image_key": "stand",
+      "start_date": 1789694413694,
+      "end_date": 1821230413694
+    }
+  ]
+}

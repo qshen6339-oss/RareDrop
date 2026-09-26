@@ -1,0 +1,35 @@
+{
+  "date": "2026-09-21T03:36:35.527Z",
+  "passed": 7,
+  "total": 7,
+  "checks": [
+    {
+      "name": "First visit follows Chinese browser preference and sets accessible document language",
+      "passed": true
+    },
+    {
+      "name": "An explicit language survives a new session and overrides browser preference",
+      "passed": true
+    },
+    {
+      "name": "Blocked storage and invalid preferences do not break language switching",
+      "passed": true
+    },
+    {
+      "name": "Visible labels and existing error messages update reactively in both directions",
+      "passed": true
+    },
+    {
+      "name": "All fourteen categories translate while unknown category values remain intact",
+      "passed": true
+    },
+    {
+      "name": "Parameterized copy preserves names and amounts, and date formatting follows the locale",
+      "passed": true
+    },
+    {
+      "name": "Server validation, ownership, bidding and photo errors have useful Chinese messages",
+      "passed": true
+    }
+  ]
+}

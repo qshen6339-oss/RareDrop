@@ -1,0 +1,27 @@
+{
+  "date": "2026-09-21T03:25:40.435Z",
+  "passed": 5,
+  "total": 5,
+  "checks": [
+    {
+      "name": "All 28 square artworks exist, are distinct and map to their frontend image keys",
+      "passed": true
+    },
+    {
+      "name": "Each of the fourteen categories receives exactly two separately named listings",
+      "passed": true
+    },
+    {
+      "name": "All end dates are distinct and fall within the next year",
+      "passed": true
+    },
+    {
+      "name": "Public catalogue, four groups and featured slides expose the matching new artwork",
+      "passed": true
+    },
+    {
+      "name": "Repeat import creates no duplicates and preserves existing items and auction deadlines",
+      "passed": true
+    }
+  ]
+}

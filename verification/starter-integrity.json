@@ -1,0 +1,9 @@
+{
+  "database.js": true,
+  "package.json": true,
+  "package-lock.json": true,
+  "README.md": true,
+  "all_original_test_files_unchanged": true,
+  "server_only_enables_supplied_route_imports": true,
+  "both_font_licenses_present": true
+}

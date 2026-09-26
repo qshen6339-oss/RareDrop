@@ -1,0 +1,90 @@
+{
+  "date": "2026-09-16",
+  "images_checked": 11,
+  "existing_items_accounts_bids_questions_categories_and_uploads_preserved": true,
+  "repeat_seed_unchanged": true,
+  "assets": [
+    {
+      "item_id": 14,
+      "name": "Starfall \u00b7 Numbered collector set",
+      "image_key": "limited",
+      "url": "/images/raredrop-starfall-collector-set.png",
+      "bytes": 2487685
+    },
+    {
+      "item_id": 15,
+      "name": "Cloud Parade \u00b7 Mystery mini",
+      "image_key": "blindbox",
+      "url": "/images/raredrop-cloud-parade-blind-box.png",
+      "bytes": 1839336
+    },
+    {
+      "item_id": 16,
+      "name": "Moonbean \u00b7 Sleepy cloud plush",
+      "image_key": "plush",
+      "url": "/images/raredrop-moonbean-cloud-plush.png",
+      "bytes": 2004974
+    },
+    {
+      "item_id": 17,
+      "name": "Neon Sprint \u00b7 1:64 die-cast coupe",
+      "image_key": "car",
+      "url": "/images/raredrop-neon-sprint-model-car.png",
+      "bytes": 1839522
+    },
+    {
+      "item_id": 18,
+      "name": "Orbit Scout \u00b7 Space rover kit",
+      "image_key": "kit",
+      "url": "/images/raredrop-orbit-scout-model-kit.png",
+      "bytes": 2262891
+    },
+    {
+      "item_id": 19,
+      "name": "Pocket Galaxy \u00b7 Observatory build",
+      "image_key": "blocks",
+      "url": "/images/raredrop-pocket-galaxy-observatory.png",
+      "bytes": 1810765
+    },
+    {
+      "item_id": 20,
+      "name": "Neon City Dispatch \u00b7 Volume 1",
+      "image_key": "comic",
+      "url": "/images/raredrop-neon-city-comic.png",
+      "bytes": 2256987
+    },
+    {
+      "item_id": 21,
+      "name": "Worlds of Wonder \u00b7 Concept art volume",
+      "image_key": "artbook",
+      "url": "/images/raredrop-worlds-of-wonder-art-book.png",
+      "bytes": 2137735
+    },
+    {
+      "item_id": 22,
+      "name": "Cosmic Club \u00b7 Enamel pin trio",
+      "image_key": "pins",
+      "url": "/images/raredrop-cosmic-club-enamel-pins.png",
+      "bytes": 2083585
+    },
+    {
+      "item_id": 23,
+      "name": "Lucky Comet \u00b7 Holographic charm",
+      "image_key": "charm",
+      "url": "/images/raredrop-lucky-comet-charm.png",
+      "bytes": 2019190
+    },
+    {
+      "item_id": 24,
+      "name": "Starbound Cafe \u00b7 Character stand",
+      "image_key": "stand",
+      "url": "/images/raredrop-starbound-cafe-acrylic-stand.png",
+      "bytes": 1828310
+    }
+  ],
+  "browser_checks": {
+    "comic_collection_card": true,
+    "acrylic_stand_detail_loaded_1254_square": true,
+    "detail_discloses_illustrative_art": true
+  }
+}
