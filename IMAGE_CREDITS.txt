@@ -1,0 +1,38 @@
+Generated with built-in image_gen, exactly one request per asset, parallel batch.
+
+The 11 additional collection images added on 2026-09-16 use the same built-in tool and original images as style references. Exact prompts, item names and project asset paths are recorded in IMAGE_CREDITS_COLLECTIONS.json.
+
+On 2026-09-21, 28 additional original product artworks were generated with built-in image_gen: two distinct designs for each of the 14 categories, one independent generation request per asset. The three original product images were supplied as style references for consistent pastel studio backgrounds, diffuse lighting and collectible materials. These 28 files do not reuse earlier product artwork. Exact prompts, product descriptions, asset paths and original generated-file locations are recorded in IMAGE_CREDITS_NEW_COLLECTIONS.json. Project copies are under frontend-app/public/images/; generated originals are preserved.
+
+ASSET 1
+Use case: product-mockup
+Asset type: square product image for RareDrop, a youthful collectible trading-card auction demo website.
+Primary request: a premium studio product photograph of exactly one physical holographic fantasy dragon trading card in a clear protective sleeve.
+Scene/backdrop: clean pale lavender seamless studio backdrop.
+Subject: original trading-card design featuring a teal fantasy dragon illustration, surrounded by an iridescent purple and silver foil card border.
+Style/medium: realistic collectible product photography; detailed print and holographic foil, subtle sleeve reflections.
+Composition/framing: square image, single card upright and centered with a slight three-quarter angle; card and protective sleeve fully visible, with ample negative margin on every side.
+Lighting/mood: soft diffuse studio light with gentle natural contact shadow, polished and youthful.
+Constraints: invented simulated demo collectible, no factual real product claims, no real franchises, no brands, no logos, no legible text, no watermarks, no additional products, no hands.
+
+ASSET 2
+Use case: product-mockup
+Asset type: square product image for RareDrop, a youthful collectible figurine auction demo website.
+Primary request: a premium studio product photograph of exactly one original designer vinyl astronaut rabbit figurine wearing an orange and white spacesuit.
+Scene/backdrop: clean soft peach seamless studio backdrop.
+Subject: cute chunky collectible rabbit astronaut with long rabbit ears, orange and white suit, original design and toy proportions.
+Style/medium: realistic collectible toy photography, smooth premium vinyl with subtle material highlights and crisp small sculpted details.
+Composition/framing: square image, figurine centered at a slight three-quarter view and fully within frame including ears and feet, ample negative margin on every side.
+Lighting/mood: soft diffuse studio light with gentle contact shadow, polished and youthful.
+Constraints: invented simulated demo collectible, no factual real product claims, no recognizable franchise characters, no brands, no logos, no text, no watermarks, no additional products, no hands.
+
+ASSET 3
+Use case: product-mockup
+Asset type: square product image for RareDrop, a youthful collectible figurine auction demo website.
+Primary request: a premium realistic studio product photograph of exactly one original cyan and blue miniature mecha robot collectible figurine standing on a dark round display base.
+Scene/backdrop: clean pale blue seamless studio backdrop.
+Subject: original compact mecha robot design with layered cyan and blue armor and crisp sculpted joints, standing confidently on a simple dark circular display base.
+Style/medium: realistic premium collectible toy photography, detailed painted plastic and restrained metallic accents.
+Composition/framing: square image, single robot and full circular base centered at a slight three-quarter view, fully within frame and ample negative margin on every side.
+Lighting/mood: soft diffuse studio light with gentle contact shadow, polished and youthful.
+Constraints: invented simulated demo collectible, no factual real product claims, no recognizable real franchise mecha, no brands, no logos, no text, no watermarks, no additional products, no hands.

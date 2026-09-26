@@ -1,0 +1,319 @@
+{
+  "mode": "Built-in image_gen; one independent generation per product; original three images supplied as style references.",
+  "created": "2026-09-21",
+  "style_references": [
+    "C:/Users/14494/OneDrive/Desktop/RareDrop/frontend-app/public/images/raredrop-dragon-card.png",
+    "C:/Users/14494/OneDrive/Desktop/RareDrop/frontend-app/public/images/raredrop-astronaut-rabbit.png",
+    "C:/Users/14494/OneDrive/Desktop/RareDrop/frontend-app/public/images/raredrop-cyan-mecha.png"
+  ],
+  "assets": [
+    {
+      "category_id": 1,
+      "image_key": "sunwing_card",
+      "name": "Sunwing Phoenix · Holographic card",
+      "starting_bid": 52,
+      "subject": "Exactly one physical sleeved trading card, artwork of an original coral and gold phoenix spreading flame-like feathered wings across a deep violet starry sky; ornate iridescent gold foil frame, tiny decorative symbols but no legible words. Pale peach seamless backdrop.",
+      "description": "A fantasy phoenix trading card with a holographic gold border. Near-mint condition with intact corners; clear protective sleeve included.",
+      "path": "frontend-app/public/images/raredrop-sunwing-card.png",
+      "prompt": "Use case: product-mockup.\nAsset type: one square catalogue photograph for RareDrop collectible auctions.\nInput images: the three supplied originals are STYLE REFERENCES ONLY, not edit targets. Match their realistic premium collectible photography, material detail, gentle diffuse studio light, soft natural contact shadows and clean pastel seamless background. Create the DISTINCT new subject specified below, do not reproduce the reference subjects.\nComposition: one product or the explicitly specified cohesive set, centered in a slight three-quarter view, entire product within frame with roughly 10% breathing room on every edge; square 1:1. Youthful, vivid collectible colours, polished physical materials. No collage, UI, extra props, hands, watermarks, logos or real franchise branding. No readable text unless explicitly requested.\nSubject: Exactly one physical sleeved trading card, artwork of an original coral and gold phoenix spreading flame-like feathered wings across a deep violet starry sky; ornate iridescent gold foil frame, tiny decorative symbols but no legible words. Pale peach seamless backdrop.",
+      "generated_source": "C:\\Users\\14494\\.codex\\generated_images\\01a08f56-c661-7cc2-b622-0c5db0a58859\\exec-889d7039-0262-4d3a-80f1-3d812df7f653.png"
+    },
+    {
+      "category_id": 1,
+      "image_key": "moonhart_card",
+      "name": "Moonhart · Pearl-foil forest card",
+      "starting_bid": 49,
+      "subject": "Exactly one sleeved physical collectible card showing an elegant mint-white stag with branching antlers shaped like a crescent moon, in a blue nocturnal forest. Pearl-silver holographic frame, no writing. Pale ice-blue backdrop.",
+      "description": "A pearlescent forest-stag card with a silver foil frame. Excellent condition, stored in a protective sleeve with no visible creases.",
+      "path": "frontend-app/public/images/raredrop-moonhart-card.png",
+      "prompt": "Use case: product-mockup.\nAsset type: one square catalogue photograph for RareDrop collectible auctions.\nInput images: the three supplied originals are STYLE REFERENCES ONLY, not edit targets. Match their realistic premium collectible photography, material detail, gentle diffuse studio light, soft natural contact shadows and clean pastel seamless background. Create the DISTINCT new subject specified below, do not reproduce the reference subjects.\nComposition: one product or the explicitly specified cohesive set, centered in a slight three-quarter view, entire product within frame with roughly 10% breathing room on every edge; square 1:1. Youthful, vivid collectible colours, polished physical materials. No collage, UI, extra props, hands, watermarks, logos or real franchise branding. No readable text unless explicitly requested.\nSubject: Exactly one sleeved physical collectible card showing an elegant mint-white stag with branching antlers shaped like a crescent moon, in a blue nocturnal forest. Pearl-silver holographic frame, no writing. Pale ice-blue backdrop.",
+      "generated_source": "C:\\Users\\14494\\.codex\\generated_images\\01a08f56-c661-7cc2-b622-0c5db0a58859\\exec-8b86e9b1-4bf9-4eff-a484-a7dbb99dd8a4.png"
+    },
+    {
+      "category_id": 2,
+      "image_key": "raintrail_fox",
+      "name": "Raintrail Fox · Yellow-coat figure",
+      "starting_bid": 78,
+      "subject": "One original cute orange fox vinyl art toy in a buttery-yellow raincoat, oversized hood folded back, mint rain boots, holding a tiny closed lavender umbrella. Large fluffy sculpted tail, expressive dark eyes. Soft lavender studio backdrop.",
+      "description": "A 15 cm original fox designer figure wearing a yellow raincoat and mint boots. Smooth vinyl finish, umbrella accessory included; excellent display condition.",
+      "path": "frontend-app/public/images/raredrop-raintrail-fox.png",
+      "prompt": "Use case: product-mockup.\nAsset type: one square catalogue photograph for RareDrop collectible auctions.\nInput images: the three supplied originals are STYLE REFERENCES ONLY, not edit targets. Match their realistic premium collectible photography, material detail, gentle diffuse studio light, soft natural contact shadows and clean pastel seamless background. Create the DISTINCT new subject specified below, do not reproduce the reference subjects.\nComposition: one product or the explicitly specified cohesive set, centered in a slight three-quarter view, entire product within frame with roughly 10% breathing room on every edge; square 1:1. Youthful, vivid collectible colours, polished physical materials. No collage, UI, extra props, hands, watermarks, logos or real franchise branding. No readable text unless explicitly requested.\nSubject: One original cute orange fox vinyl art toy in a buttery-yellow raincoat, oversized hood folded back, mint rain boots, holding a tiny closed lavender umbrella. Large fluffy sculpted tail, expressive dark eyes. Soft lavender studio backdrop.",
+      "generated_source": "C:\\Users\\14494\\.codex\\generated_images\\01a08f56-c661-7cc2-b622-0c5db0a58859\\exec-284a20f9-ae8c-47a7-86ea-8b814a95bb81.png"
+    },
+    {
+      "category_id": 2,
+      "image_key": "mintbeat_cat",
+      "name": "Mintbeat · Headphone cat figure",
+      "starting_bid": 82,
+      "subject": "One original mint-green cat vinyl designer toy, chunky seated pose, oversized violet headphones over cat ears, small coral crossbody music pouch, tiny silver star charm. Smooth premium vinyl. Pale peach studio backdrop.",
+      "description": "A mint cat vinyl figure with violet headphones and a coral music pouch. Approximately 14 cm tall, with crisp sculpted details and a clean display finish.",
+      "path": "frontend-app/public/images/raredrop-mintbeat-cat.png",
+      "prompt": "Use case: product-mockup.\nAsset type: one square catalogue photograph for RareDrop collectible auctions.\nInput images: the three supplied originals are STYLE REFERENCES ONLY, not edit targets. Match their realistic premium collectible photography, material detail, gentle diffuse studio light, soft natural contact shadows and clean pastel seamless background. Create the DISTINCT new subject specified below, do not reproduce the reference subjects.\nComposition: one product or the explicitly specified cohesive set, centered in a slight three-quarter view, entire product within frame with roughly 10% breathing room on every edge; square 1:1. Youthful, vivid collectible colours, polished physical materials. No collage, UI, extra props, hands, watermarks, logos or real franchise branding. No readable text unless explicitly requested.\nSubject: One original mint-green cat vinyl designer toy, chunky seated pose, oversized violet headphones over cat ears, small coral crossbody music pouch, tiny silver star charm. Smooth premium vinyl. Pale peach studio backdrop.",
+      "generated_source": "C:\\Users\\14494\\.codex\\generated_images\\01a08f56-c661-7cc2-b622-0c5db0a58859\\exec-29f422a0-f8c9-4ec5-9610-91f404e85f45.png"
+    },
+    {
+      "category_id": 3,
+      "image_key": "tidal_crab",
+      "name": "Tidal Scout · Coral crab mecha",
+      "starting_bid": 135,
+      "subject": "One original compact four-legged crab-like mecha toy, coral-orange shell armor, cream joints, teal sensor eye, two small articulated front claws, on a low charcoal round base. Clearly mechanical collectible robot, no weapons. Pale ice-blue backdrop.",
+      "description": "A coral-armoured crab scout mecha on a circular display base. Four articulated-style legs and detailed sensor parts; assembled, approximately 16 cm wide.",
+      "path": "frontend-app/public/images/raredrop-tidal-crab.png",
+      "prompt": "Use case: product-mockup.\nAsset type: one square catalogue photograph for RareDrop collectible auctions.\nInput images: the three supplied originals are STYLE REFERENCES ONLY, not edit targets. Match their realistic premium collectible photography, material detail, gentle diffuse studio light, soft natural contact shadows and clean pastel seamless background. Create the DISTINCT new subject specified below, do not reproduce the reference subjects.\nComposition: one product or the explicitly specified cohesive set, centered in a slight three-quarter view, entire product within frame with roughly 10% breathing room on every edge; square 1:1. Youthful, vivid collectible colours, polished physical materials. No collage, UI, extra props, hands, watermarks, logos or real franchise branding. No readable text unless explicitly requested.\nSubject: One original compact four-legged crab-like mecha toy, coral-orange shell armor, cream joints, teal sensor eye, two small articulated front claws, on a low charcoal round base. Clearly mechanical collectible robot, no weapons. Pale ice-blue backdrop.",
+      "generated_source": "C:\\Users\\14494\\.codex\\generated_images\\01a08f56-c661-7cc2-b622-0c5db0a58859\\exec-b4ea5e5a-7c62-433f-ae22-5f9852375177.png"
+    },
+    {
+      "category_id": 3,
+      "image_key": "solaris_mecha",
+      "name": "Solaris Finch · Winged mecha",
+      "starting_bid": 155,
+      "subject": "One original white-and-gold humanoid mecha model, slender folded bird-like wing panels, violet glowing-style visor, restrained navy joints, small tapered crest. Full robot on a dark round base. Pale lavender backdrop.",
+      "description": "A white-and-gold winged mecha display model with violet visor detailing. Approximately 19 cm tall, fully assembled with matching round base.",
+      "path": "frontend-app/public/images/raredrop-solaris-mecha.png",
+      "prompt": "Use case: product-mockup.\nAsset type: one square catalogue photograph for RareDrop collectible auctions.\nInput images: the three supplied originals are STYLE REFERENCES ONLY, not edit targets. Match their realistic premium collectible photography, material detail, gentle diffuse studio light, soft natural contact shadows and clean pastel seamless background. Create the DISTINCT new subject specified below, do not reproduce the reference subjects.\nComposition: one product or the explicitly specified cohesive set, centered in a slight three-quarter view, entire product within frame with roughly 10% breathing room on every edge; square 1:1. Youthful, vivid collectible colours, polished physical materials. No collage, UI, extra props, hands, watermarks, logos or real franchise branding. No readable text unless explicitly requested.\nSubject: One original white-and-gold humanoid mecha model, slender folded bird-like wing panels, violet glowing-style visor, restrained navy joints, small tapered crest. Full robot on a dark round base. Pale lavender backdrop.",
+      "generated_source": "C:\\Users\\14494\\.codex\\generated_images\\01a08f56-c661-7cc2-b622-0c5db0a58859\\exec-10f0611b-af54-4b1d-b3df-66c830a7bd32.png"
+    },
+    {
+      "category_id": 4,
+      "image_key": "tideglass_set",
+      "name": "Tideglass · Ocean collector chest",
+      "starting_bid": 118,
+      "subject": "One cohesive collector gift set: open turquoise presentation chest with pearl cream insert, a small round glass dome displaying a sculpted coral seahorse on waves, a matching gold-shell enamel pin and a miniature ocean art card. No text or edition numbers. Soft pale blue backdrop.",
+      "description": "An original ocean-themed collector chest containing a seahorse dome, shell pin and miniature art card. All display pieces and the lined presentation box are included.",
+      "path": "frontend-app/public/images/raredrop-tideglass-set.png",
+      "prompt": "Use case: product-mockup.\nAsset type: one square catalogue photograph for RareDrop collectible auctions.\nInput images: the three supplied originals are STYLE REFERENCES ONLY, not edit targets. Match their realistic premium collectible photography, material detail, gentle diffuse studio light, soft natural contact shadows and clean pastel seamless background. Create the DISTINCT new subject specified below, do not reproduce the reference subjects.\nComposition: one product or the explicitly specified cohesive set, centered in a slight three-quarter view, entire product within frame with roughly 10% breathing room on every edge; square 1:1. Youthful, vivid collectible colours, polished physical materials. No collage, UI, extra props, hands, watermarks, logos or real franchise branding. No readable text unless explicitly requested.\nSubject: One cohesive collector gift set: open turquoise presentation chest with pearl cream insert, a small round glass dome displaying a sculpted coral seahorse on waves, a matching gold-shell enamel pin and a miniature ocean art card. No text or edition numbers. Soft pale blue backdrop.",
+      "generated_source": "C:\\Users\\14494\\.codex\\generated_images\\01a08f56-c661-7cc2-b622-0c5db0a58859\\exec-b4c52861-03cd-489f-9cba-056370d68041.png"
+    },
+    {
+      "category_id": 4,
+      "image_key": "moonrail_set",
+      "name": "Moonrail · Celestial keepsake set",
+      "starting_bid": 125,
+      "subject": "One cohesive limited-style collectible set in an open midnight-violet velvet box: a miniature silver and lavender steam locomotive resting on a crescent moon pedestal, a round star medallion and a matching cream art card with abstract train illustration. No text. Pale peach backdrop.",
+      "description": "A celestial train keepsake set with crescent pedestal, star medallion and illustrated card. Presented in a violet-lined collector box; opened for inspection.",
+      "path": "frontend-app/public/images/raredrop-moonrail-set.png",
+      "prompt": "Use case: product-mockup.\nAsset type: one square catalogue photograph for RareDrop collectible auctions.\nInput images: the three supplied originals are STYLE REFERENCES ONLY, not edit targets. Match their realistic premium collectible photography, material detail, gentle diffuse studio light, soft natural contact shadows and clean pastel seamless background. Create the DISTINCT new subject specified below, do not reproduce the reference subjects.\nComposition: one product or the explicitly specified cohesive set, centered in a slight three-quarter view, entire product within frame with roughly 10% breathing room on every edge; square 1:1. Youthful, vivid collectible colours, polished physical materials. No collage, UI, extra props, hands, watermarks, logos or real franchise branding. No readable text unless explicitly requested.\nSubject: One cohesive limited-style collectible set in an open midnight-violet velvet box: a miniature silver and lavender steam locomotive resting on a crescent moon pedestal, a round star medallion and a matching cream art card with abstract train illustration. No text. Pale peach backdrop.",
+      "generated_source": "C:\\Users\\14494\\.codex\\generated_images\\01a08f56-c661-7cc2-b622-0c5db0a58859\\exec-9bfe8bf6-3d70-4848-8417-356fca90af35.png"
+    },
+    {
+      "category_id": 5,
+      "image_key": "mosskin_box",
+      "name": "Mosskin Grove · Forest blind box",
+      "starting_bid": 21,
+      "subject": "Exactly one sealed blind-box carton in mint and warm cream, original tiny mushroom forest mascots printed on its sides, coral mushroom caps, subtle decorative question mark motif, crisp folded cardboard. No revealed figure, no words. Pale lavender backdrop.",
+      "description": "One sealed forest-themed mystery box with original mushroom mascot artwork. The character remains a surprise; no rare variant is guaranteed.",
+      "path": "frontend-app/public/images/raredrop-mosskin-box.png",
+      "prompt": "Use case: product-mockup.\nAsset type: one square catalogue photograph for RareDrop collectible auctions.\nInput images: the three supplied originals are STYLE REFERENCES ONLY, not edit targets. Match their realistic premium collectible photography, material detail, gentle diffuse studio light, soft natural contact shadows and clean pastel seamless background. Create the DISTINCT new subject specified below, do not reproduce the reference subjects.\nComposition: one product or the explicitly specified cohesive set, centered in a slight three-quarter view, entire product within frame with roughly 10% breathing room on every edge; square 1:1. Youthful, vivid collectible colours, polished physical materials. No collage, UI, extra props, hands, watermarks, logos or real franchise branding. No readable text unless explicitly requested.\nSubject: Exactly one sealed blind-box carton in mint and warm cream, original tiny mushroom forest mascots printed on its sides, coral mushroom caps, subtle decorative question mark motif, crisp folded cardboard. No revealed figure, no words. Pale lavender backdrop.",
+      "generated_source": "C:\\Users\\14494\\.codex\\generated_images\\01a08f56-c661-7cc2-b622-0c5db0a58859\\exec-5810a63f-aea3-49e3-a090-b6ca7c78579c.png"
+    },
+    {
+      "category_id": 5,
+      "image_key": "reefparty_box",
+      "name": "Reef Party · Ocean blind box",
+      "starting_bid": 23,
+      "subject": "Exactly one sealed coral-peach and turquoise blind-box carton, printed with original cheerful jellyfish and seahorse mascots, tiny wave and bubble icons, one decorative question mark. No opened box or visible contents, no words. Pale butter-yellow backdrop.",
+      "description": "An unopened ocean-themed blind box with jellyfish and seahorse packaging art. Factory seal intact; contents are random within the fictional series.",
+      "path": "frontend-app/public/images/raredrop-reefparty-box.png",
+      "prompt": "Use case: product-mockup.\nAsset type: one square catalogue photograph for RareDrop collectible auctions.\nInput images: the three supplied originals are STYLE REFERENCES ONLY, not edit targets. Match their realistic premium collectible photography, material detail, gentle diffuse studio light, soft natural contact shadows and clean pastel seamless background. Create the DISTINCT new subject specified below, do not reproduce the reference subjects.\nComposition: one product or the explicitly specified cohesive set, centered in a slight three-quarter view, entire product within frame with roughly 10% breathing room on every edge; square 1:1. Youthful, vivid collectible colours, polished physical materials. No collage, UI, extra props, hands, watermarks, logos or real franchise branding. No readable text unless explicitly requested.\nSubject: Exactly one sealed coral-peach and turquoise blind-box carton, printed with original cheerful jellyfish and seahorse mascots, tiny wave and bubble icons, one decorative question mark. No opened box or visible contents, no words. Pale butter-yellow backdrop.",
+      "generated_source": "C:\\Users\\14494\\.codex\\generated_images\\01a08f56-c661-7cc2-b622-0c5db0a58859\\exec-72ae31a3-434d-40f7-80b0-7ac427b1f12a.png"
+    },
+    {
+      "category_id": 6,
+      "image_key": "pebble_axolotl",
+      "name": "Pebble · Peach axolotl plush",
+      "starting_bid": 34,
+      "subject": "One rounded peach-pink axolotl plush toy with six soft coral external gill fronds, tiny embroidered black eyes, shy smile, stubby legs and a curved tail. Visible fuzzy fleece and soft seams, not plastic. Pale lavender backdrop.",
+      "description": "A soft 26 cm peach axolotl plush with embroidered eyes and coral gills. Clean display condition with even seams and no loose stitching.",
+      "path": "frontend-app/public/images/raredrop-pebble-axolotl.png",
+      "prompt": "Use case: product-mockup.\nAsset type: one square catalogue photograph for RareDrop collectible auctions.\nInput images: the three supplied originals are STYLE REFERENCES ONLY, not edit targets. Match their realistic premium collectible photography, material detail, gentle diffuse studio light, soft natural contact shadows and clean pastel seamless background. Create the DISTINCT new subject specified below, do not reproduce the reference subjects.\nComposition: one product or the explicitly specified cohesive set, centered in a slight three-quarter view, entire product within frame with roughly 10% breathing room on every edge; square 1:1. Youthful, vivid collectible colours, polished physical materials. No collage, UI, extra props, hands, watermarks, logos or real franchise branding. No readable text unless explicitly requested.\nSubject: One rounded peach-pink axolotl plush toy with six soft coral external gill fronds, tiny embroidered black eyes, shy smile, stubby legs and a curved tail. Visible fuzzy fleece and soft seams, not plastic. Pale lavender backdrop.",
+      "generated_source": "C:\\Users\\14494\\.codex\\generated_images\\01a08f56-c661-7cc2-b622-0c5db0a58859\\exec-ea32c121-d30f-4c5c-b53e-a34770238a60.png"
+    },
+    {
+      "category_id": 6,
+      "image_key": "mistral_whale",
+      "name": "Mistral · Mint whale plush",
+      "starting_bid": 36,
+      "subject": "One plump mint-green whale plush, cream belly, small lavender fins, tiny embroidered eyes and rosy cheek, curved fabric tail fully visible. Fine short-pile soft textile and visible soft seams. Pale peach backdrop.",
+      "description": "A 28 cm mint whale plush with a cream belly and lavender fins. Soft short-pile fabric, embroidered features and clean, well-kept seams.",
+      "path": "frontend-app/public/images/raredrop-mistral-whale.png",
+      "prompt": "Use case: product-mockup.\nAsset type: one square catalogue photograph for RareDrop collectible auctions.\nInput images: the three supplied originals are STYLE REFERENCES ONLY, not edit targets. Match their realistic premium collectible photography, material detail, gentle diffuse studio light, soft natural contact shadows and clean pastel seamless background. Create the DISTINCT new subject specified below, do not reproduce the reference subjects.\nComposition: one product or the explicitly specified cohesive set, centered in a slight three-quarter view, entire product within frame with roughly 10% breathing room on every edge; square 1:1. Youthful, vivid collectible colours, polished physical materials. No collage, UI, extra props, hands, watermarks, logos or real franchise branding. No readable text unless explicitly requested.\nSubject: One plump mint-green whale plush, cream belly, small lavender fins, tiny embroidered eyes and rosy cheek, curved fabric tail fully visible. Fine short-pile soft textile and visible soft seams. Pale peach backdrop.",
+      "generated_source": "C:\\Users\\14494\\.codex\\generated_images\\01a08f56-c661-7cc2-b622-0c5db0a58859\\exec-da1431dd-74bc-4bb6-bfe9-e510b8e6073b.png"
+    },
+    {
+      "category_id": 7,
+      "image_key": "sunset_camper",
+      "name": "Sunset Ramble · Mini camper van",
+      "starting_bid": 39,
+      "subject": "One original coral and cream miniature retro camper van at 1:64 scale, mint roof luggage, rounded windows, detailed die-cast finish and black rubber tires, displayed in a clear acrylic case with low cream plinth. No recognizable maker logo or real vehicle model. Pale sky-blue backdrop.",
+      "description": "An original 1:64 coral-and-cream die-cast camper with mint roof luggage. Clear display case included; wheels roll freely and paint is in excellent condition.",
+      "path": "frontend-app/public/images/raredrop-sunset-camper.png",
+      "prompt": "Use case: product-mockup.\nAsset type: one square catalogue photograph for RareDrop collectible auctions.\nInput images: the three supplied originals are STYLE REFERENCES ONLY, not edit targets. Match their realistic premium collectible photography, material detail, gentle diffuse studio light, soft natural contact shadows and clean pastel seamless background. Create the DISTINCT new subject specified below, do not reproduce the reference subjects.\nComposition: one product or the explicitly specified cohesive set, centered in a slight three-quarter view, entire product within frame with roughly 10% breathing room on every edge; square 1:1. Youthful, vivid collectible colours, polished physical materials. No collage, UI, extra props, hands, watermarks, logos or real franchise branding. No readable text unless explicitly requested.\nSubject: One original coral and cream miniature retro camper van at 1:64 scale, mint roof luggage, rounded windows, detailed die-cast finish and black rubber tires, displayed in a clear acrylic case with low cream plinth. No recognizable maker logo or real vehicle model. Pale sky-blue backdrop.",
+      "generated_source": "C:\\Users\\14494\\.codex\\generated_images\\01a08f56-c661-7cc2-b622-0c5db0a58859\\exec-8728c658-ce5e-4a5b-bb0c-9bad7bd8e7f9.png"
+    },
+    {
+      "category_id": 7,
+      "image_key": "violet_rally",
+      "name": "Violet Dash · Rally hatchback",
+      "starting_bid": 44,
+      "subject": "One original compact violet rally hatchback die-cast model at 1:64 scale, cream stripe, coral wheel rims, small roof spoiler, black tires, dark windows, inside a clear display case on a low charcoal base. No numbers or brand logos. Pale peach backdrop.",
+      "description": "A violet 1:64 rally-style hatchback with coral rims and a rear spoiler. Includes an acrylic display case; excellent miniature body and wheel detail.",
+      "path": "frontend-app/public/images/raredrop-violet-rally.png",
+      "prompt": "Use case: product-mockup.\nAsset type: one square catalogue photograph for RareDrop collectible auctions.\nInput images: the three supplied originals are STYLE REFERENCES ONLY, not edit targets. Match their realistic premium collectible photography, material detail, gentle diffuse studio light, soft natural contact shadows and clean pastel seamless background. Create the DISTINCT new subject specified below, do not reproduce the reference subjects.\nComposition: one product or the explicitly specified cohesive set, centered in a slight three-quarter view, entire product within frame with roughly 10% breathing room on every edge; square 1:1. Youthful, vivid collectible colours, polished physical materials. No collage, UI, extra props, hands, watermarks, logos or real franchise branding. No readable text unless explicitly requested.\nSubject: One original compact violet rally hatchback die-cast model at 1:64 scale, cream stripe, coral wheel rims, small roof spoiler, black tires, dark windows, inside a clear display case on a low charcoal base. No numbers or brand logos. Pale peach backdrop.",
+      "generated_source": "C:\\Users\\14494\\.codex\\generated_images\\01a08f56-c661-7cc2-b622-0c5db0a58859\\exec-3e2310c2-8d4a-4a58-9479-ffa635e31899.png"
+    },
+    {
+      "category_id": 8,
+      "image_key": "helios_sail",
+      "name": "Helios Sail · Spacecraft model kit",
+      "starting_bid": 55,
+      "subject": "One cohesive original plastic spacecraft model kit display: small assembled white-and-gold solar-sail spacecraft with broad thin blue sail panels on a clear stand, one cream sprue frame beside it and a plain lavender kit carton with a simple spacecraft illustration. No readable text. Pale blue backdrop.",
+      "description": "A fictional solar-sail spacecraft kit with white-and-gold body parts and blue panel pieces. Sprues, display stand and illustrated assembly guide included; assembly required.",
+      "path": "frontend-app/public/images/raredrop-helios-sail.png",
+      "prompt": "Use case: product-mockup.\nAsset type: one square catalogue photograph for RareDrop collectible auctions.\nInput images: the three supplied originals are STYLE REFERENCES ONLY, not edit targets. Match their realistic premium collectible photography, material detail, gentle diffuse studio light, soft natural contact shadows and clean pastel seamless background. Create the DISTINCT new subject specified below, do not reproduce the reference subjects.\nComposition: one product or the explicitly specified cohesive set, centered in a slight three-quarter view, entire product within frame with roughly 10% breathing room on every edge; square 1:1. Youthful, vivid collectible colours, polished physical materials. No collage, UI, extra props, hands, watermarks, logos or real franchise branding. No readable text unless explicitly requested.\nSubject: One cohesive original plastic spacecraft model kit display: small assembled white-and-gold solar-sail spacecraft with broad thin blue sail panels on a clear stand, one cream sprue frame beside it and a plain lavender kit carton with a simple spacecraft illustration. No readable text. Pale blue backdrop.",
+      "generated_source": "C:\\Users\\14494\\.codex\\generated_images\\01a08f56-c661-7cc2-b622-0c5db0a58859\\exec-e3e600a7-60b7-481f-8d9d-925f08f5ca36.png"
+    },
+    {
+      "category_id": 8,
+      "image_key": "copper_cloud",
+      "name": "Copper Cloud · Airship model kit",
+      "starting_bid": 58,
+      "subject": "One cohesive original model kit display: miniature copper and mint retro-futuristic airship with cream balloon hull, tiny gondola and delicate propellers on a clear stand, one matching small sprue frame beside a plain pale-peach kit carton with an airship illustration. No readable words. Pale lavender backdrop.",
+      "description": "An original airship model kit with a cream hull, copper details and mint accents. Includes parts, propeller components, clear display stand and illustrated guide.",
+      "path": "frontend-app/public/images/raredrop-copper-cloud.png",
+      "prompt": "Use case: product-mockup.\nAsset type: one square catalogue photograph for RareDrop collectible auctions.\nInput images: the three supplied originals are STYLE REFERENCES ONLY, not edit targets. Match their realistic premium collectible photography, material detail, gentle diffuse studio light, soft natural contact shadows and clean pastel seamless background. Create the DISTINCT new subject specified below, do not reproduce the reference subjects.\nComposition: one product or the explicitly specified cohesive set, centered in a slight three-quarter view, entire product within frame with roughly 10% breathing room on every edge; square 1:1. Youthful, vivid collectible colours, polished physical materials. No collage, UI, extra props, hands, watermarks, logos or real franchise branding. No readable text unless explicitly requested.\nSubject: One cohesive original model kit display: miniature copper and mint retro-futuristic airship with cream balloon hull, tiny gondola and delicate propellers on a clear stand, one matching small sprue frame beside a plain pale-peach kit carton with an airship illustration. No readable words. Pale lavender backdrop.",
+      "generated_source": "C:\\Users\\14494\\.codex\\generated_images\\01a08f56-c661-7cc2-b622-0c5db0a58859\\exec-d7ba9bb0-f931-46f3-8bfc-514d2264d664.png"
+    },
+    {
+      "category_id": 9,
+      "image_key": "pixel_arcade",
+      "name": "Pixel Pocket · Arcade block build",
+      "starting_bid": 46,
+      "subject": "One assembled miniature interlocking-plastic-brick arcade shop, lavender and coral facade, mint awning, two tiny arcade cabinets visible through an open front, small star roof sign without letters. Clear toy brick studs and seams. Pale butter-yellow backdrop.",
+      "description": "A colourful miniature arcade building set with two tiny game cabinets and an open-front shop design. Previously assembled; counted pieces and printed instructions included.",
+      "path": "frontend-app/public/images/raredrop-pixel-arcade.png",
+      "prompt": "Use case: product-mockup.\nAsset type: one square catalogue photograph for RareDrop collectible auctions.\nInput images: the three supplied originals are STYLE REFERENCES ONLY, not edit targets. Match their realistic premium collectible photography, material detail, gentle diffuse studio light, soft natural contact shadows and clean pastel seamless background. Create the DISTINCT new subject specified below, do not reproduce the reference subjects.\nComposition: one product or the explicitly specified cohesive set, centered in a slight three-quarter view, entire product within frame with roughly 10% breathing room on every edge; square 1:1. Youthful, vivid collectible colours, polished physical materials. No collage, UI, extra props, hands, watermarks, logos or real franchise branding. No readable text unless explicitly requested.\nSubject: One assembled miniature interlocking-plastic-brick arcade shop, lavender and coral facade, mint awning, two tiny arcade cabinets visible through an open front, small star roof sign without letters. Clear toy brick studs and seams. Pale butter-yellow backdrop.",
+      "generated_source": "C:\\Users\\14494\\.codex\\generated_images\\01a08f56-c661-7cc2-b622-0c5db0a58859\\exec-50e5d23b-75e8-4d73-a9df-689d3ea00f02.png"
+    },
+    {
+      "category_id": 9,
+      "image_key": "cloud_garden",
+      "name": "Cloud Garden · Greenhouse block build",
+      "starting_bid": 51,
+      "subject": "One assembled interlocking-plastic-brick miniature greenhouse garden on a small floating-island-style cream base, mint framework, transparent panels, pastel flowers, a tiny lavender tree and short stepping-stone path. Visible toy brick studs and precise seams. Pale sky-blue backdrop.",
+      "description": "A miniature greenhouse block set with transparent roof panels, pastel flowers and a lavender tree. Complete counted pieces, garden base and illustrated instructions included.",
+      "path": "frontend-app/public/images/raredrop-cloud-garden.png",
+      "prompt": "Use case: product-mockup.\nAsset type: one square catalogue photograph for RareDrop collectible auctions.\nInput images: the three supplied originals are STYLE REFERENCES ONLY, not edit targets. Match their realistic premium collectible photography, material detail, gentle diffuse studio light, soft natural contact shadows and clean pastel seamless background. Create the DISTINCT new subject specified below, do not reproduce the reference subjects.\nComposition: one product or the explicitly specified cohesive set, centered in a slight three-quarter view, entire product within frame with roughly 10% breathing room on every edge; square 1:1. Youthful, vivid collectible colours, polished physical materials. No collage, UI, extra props, hands, watermarks, logos or real franchise branding. No readable text unless explicitly requested.\nSubject: One assembled interlocking-plastic-brick miniature greenhouse garden on a small floating-island-style cream base, mint framework, transparent panels, pastel flowers, a tiny lavender tree and short stepping-stone path. Visible toy brick studs and precise seams. Pale sky-blue backdrop.",
+      "generated_source": "C:\\Users\\14494\\.codex\\generated_images\\01a08f56-c661-7cc2-b622-0c5db0a58859\\exec-0b84e916-be42-4f57-b81e-5bcd289ee2a8.png"
+    },
+    {
+      "category_id": 10,
+      "image_key": "midnight_garden",
+      "name": "Midnight Garden · Illustrated comic",
+      "starting_bid": 18,
+      "subject": "One physical paperback original fantasy comic book standing upright at a slight angle, beautifully printed cover illustration of a young fictional girl exploring a glowing mint greenhouse under a violet moon, coral flowers framing the cover, a narrow pale spine. No readable title or lettering. Pale peach backdrop.",
+      "description": "A fictional fantasy comic following a young explorer through a moonlit greenhouse. English-language illustrated paperback; clean pages with light shelf wear.",
+      "path": "frontend-app/public/images/raredrop-midnight-garden.png",
+      "prompt": "Use case: product-mockup.\nAsset type: one square catalogue photograph for RareDrop collectible auctions.\nInput images: the three supplied originals are STYLE REFERENCES ONLY, not edit targets. Match their realistic premium collectible photography, material detail, gentle diffuse studio light, soft natural contact shadows and clean pastel seamless background. Create the DISTINCT new subject specified below, do not reproduce the reference subjects.\nComposition: one product or the explicitly specified cohesive set, centered in a slight three-quarter view, entire product within frame with roughly 10% breathing room on every edge; square 1:1. Youthful, vivid collectible colours, polished physical materials. No collage, UI, extra props, hands, watermarks, logos or real franchise branding. No readable text unless explicitly requested.\nSubject: One physical paperback original fantasy comic book standing upright at a slight angle, beautifully printed cover illustration of a young fictional girl exploring a glowing mint greenhouse under a violet moon, coral flowers framing the cover, a narrow pale spine. No readable title or lettering. Pale peach backdrop.",
+      "generated_source": "C:\\Users\\14494\\.codex\\generated_images\\01a08f56-c661-7cc2-b622-0c5db0a58859\\exec-afee9a94-0a3b-47d1-b623-d2b45f9c5fda.png"
+    },
+    {
+      "category_id": 10,
+      "image_key": "bubble_courier",
+      "name": "Bubble Courier · Ocean adventure comic",
+      "starting_bid": 19,
+      "subject": "One physical paperback original ocean-adventure comic, cover depicts a cheerful fictional young diver with a round clear helmet and coral delivery satchel swimming past mint sea buildings and glowing jellyfish, blue and peach cover palette. No readable title or lettering. Pale lavender backdrop.",
+      "description": "An original fictional ocean-adventure comic about deliveries between underwater cities. Full-colour English-language paperback in very good condition.",
+      "path": "frontend-app/public/images/raredrop-bubble-courier.png",
+      "prompt": "Use case: product-mockup.\nAsset type: one square catalogue photograph for RareDrop collectible auctions.\nInput images: the three supplied originals are STYLE REFERENCES ONLY, not edit targets. Match their realistic premium collectible photography, material detail, gentle diffuse studio light, soft natural contact shadows and clean pastel seamless background. Create the DISTINCT new subject specified below, do not reproduce the reference subjects.\nComposition: one product or the explicitly specified cohesive set, centered in a slight three-quarter view, entire product within frame with roughly 10% breathing room on every edge; square 1:1. Youthful, vivid collectible colours, polished physical materials. No collage, UI, extra props, hands, watermarks, logos or real franchise branding. No readable text unless explicitly requested.\nSubject: One physical paperback original ocean-adventure comic, cover depicts a cheerful fictional young diver with a round clear helmet and coral delivery satchel swimming past mint sea buildings and glowing jellyfish, blue and peach cover palette. No readable title or lettering. Pale lavender backdrop.",
+      "generated_source": "C:\\Users\\14494\\.codex\\generated_images\\01a08f56-c661-7cc2-b622-0c5db0a58859\\exec-a3238cec-62b2-42a1-a334-4a35b7ca20d7.png"
+    },
+    {
+      "category_id": 11,
+      "image_key": "mechanical_dreams",
+      "name": "Mechanical Dreams · Concept art book",
+      "starting_bid": 62,
+      "subject": "One premium hardcover concept art book with a matte lavender cover, embossed-style original coral and white elegant robot line illustration and small gold geometric details. Slightly open enough to reveal one richly illustrated mechanical concept spread with no readable text. Pale ice-blue backdrop.",
+      "description": "A fictional hardcover art book of original robot and vehicle concept studies. Full-colour illustrations, matte cover and clean pages with minimal shelf wear. Cover and interior views are illustrated; one volume is included.",
+      "path": "frontend-app/public/images/raredrop-mechanical-dreams.png",
+      "prompt": "Use case: product-mockup.\nAsset type: one square catalogue photograph for RareDrop collectible auctions.\nInput images: the three supplied originals are STYLE REFERENCES ONLY, not edit targets. Match their realistic premium collectible photography, material detail, gentle diffuse studio light, soft natural contact shadows and clean pastel seamless background. Create the DISTINCT new subject specified below, do not reproduce the reference subjects.\nComposition: one product or the explicitly specified cohesive set, centered in a slight three-quarter view, entire product within frame with roughly 10% breathing room on every edge; square 1:1. Youthful, vivid collectible colours, polished physical materials. No collage, UI, extra props, hands, watermarks, logos or real franchise branding. No readable text unless explicitly requested.\nSubject: One premium hardcover concept art book with a matte lavender cover, embossed-style original coral and white elegant robot line illustration and small gold geometric details. Slightly open enough to reveal one richly illustrated mechanical concept spread with no readable text. Pale ice-blue backdrop.",
+      "generated_source": "C:\\Users\\14494\\.codex\\generated_images\\01a08f56-c661-7cc2-b622-0c5db0a58859\\exec-0e03563c-ec0e-49ae-ab72-e74507d53bf9.png"
+    },
+    {
+      "category_id": 11,
+      "image_key": "botanical_realms",
+      "name": "Botanical Realms · Fantasy art volume",
+      "starting_bid": 59,
+      "subject": "One premium cream hardcover fantasy art book with mint and coral illustrated giant botanical conservatories on the cover, subtle gold leaf-shaped foil accents; slightly opened to one lush imaginative landscape spread, no readable words. Pale peach backdrop.",
+      "description": "A fictional fantasy art volume featuring imagined botanical cities and conservatories. Hardcover edition with colour landscape studies and a well-kept illustrated cover. Cover and interior views are illustrated; one volume is included.",
+      "path": "frontend-app/public/images/raredrop-botanical-realms.png",
+      "prompt": "Use case: product-mockup.\nAsset type: one square catalogue photograph for RareDrop collectible auctions.\nInput images: the three supplied originals are STYLE REFERENCES ONLY, not edit targets. Match their realistic premium collectible photography, material detail, gentle diffuse studio light, soft natural contact shadows and clean pastel seamless background. Create the DISTINCT new subject specified below, do not reproduce the reference subjects.\nComposition: one product or the explicitly specified cohesive set, centered in a slight three-quarter view, entire product within frame with roughly 10% breathing room on every edge; square 1:1. Youthful, vivid collectible colours, polished physical materials. No collage, UI, extra props, hands, watermarks, logos or real franchise branding. No readable text unless explicitly requested.\nSubject: One premium cream hardcover fantasy art book with mint and coral illustrated giant botanical conservatories on the cover, subtle gold leaf-shaped foil accents; slightly opened to one lush imaginative landscape spread, no readable words. Pale peach backdrop.",
+      "generated_source": "C:\\Users\\14494\\.codex\\generated_images\\01a08f56-c661-7cc2-b622-0c5db0a58859\\exec-b647868d-121d-4199-94df-02d08b01d41c.png"
+    },
+    {
+      "category_id": 12,
+      "image_key": "teatime_pins",
+      "name": "Berry Teatime · Enamel pin trio",
+      "starting_bid": 16,
+      "subject": "One coherent set of exactly three hard-enamel pins on one cream backing card: coral strawberry, mint teapot and lavender teacup. Thin polished gold metal outlines and glossy enamel highlights. No words on backing card. Pale lavender backdrop.",
+      "description": "Three original hard-enamel pins featuring a strawberry, teapot and teacup. Gold-tone outlines, rubber clutches and cream backing card included; unworn.",
+      "path": "frontend-app/public/images/raredrop-teatime-pins.png",
+      "prompt": "Use case: product-mockup.\nAsset type: one square catalogue photograph for RareDrop collectible auctions.\nInput images: the three supplied originals are STYLE REFERENCES ONLY, not edit targets. Match their realistic premium collectible photography, material detail, gentle diffuse studio light, soft natural contact shadows and clean pastel seamless background. Create the DISTINCT new subject specified below, do not reproduce the reference subjects.\nComposition: one product or the explicitly specified cohesive set, centered in a slight three-quarter view, entire product within frame with roughly 10% breathing room on every edge; square 1:1. Youthful, vivid collectible colours, polished physical materials. No collage, UI, extra props, hands, watermarks, logos or real franchise branding. No readable text unless explicitly requested.\nSubject: One coherent set of exactly three hard-enamel pins on one cream backing card: coral strawberry, mint teapot and lavender teacup. Thin polished gold metal outlines and glossy enamel highlights. No words on backing card. Pale lavender backdrop.",
+      "generated_source": "C:\\Users\\14494\\.codex\\generated_images\\01a08f56-c661-7cc2-b622-0c5db0a58859\\exec-3d835550-744f-451b-83f8-f976604df5d6.png"
+    },
+    {
+      "category_id": 12,
+      "image_key": "nightgarden_pins",
+      "name": "Night Garden · Enamel pin trio",
+      "starting_bid": 17,
+      "subject": "One coherent set of exactly three hard-enamel pins on a pale lavender backing card: mint moth with coral markings, gold crescent moon and a violet five-petal flower. Fine polished metal outlines, no words. Pale peach backdrop.",
+      "description": "A three-piece enamel pin set with a moth, crescent moon and violet flower. Each pin includes a rubber clutch; supplied on the original backing card.",
+      "path": "frontend-app/public/images/raredrop-nightgarden-pins.png",
+      "prompt": "Use case: product-mockup.\nAsset type: one square catalogue photograph for RareDrop collectible auctions.\nInput images: the three supplied originals are STYLE REFERENCES ONLY, not edit targets. Match their realistic premium collectible photography, material detail, gentle diffuse studio light, soft natural contact shadows and clean pastel seamless background. Create the DISTINCT new subject specified below, do not reproduce the reference subjects.\nComposition: one product or the explicitly specified cohesive set, centered in a slight three-quarter view, entire product within frame with roughly 10% breathing room on every edge; square 1:1. Youthful, vivid collectible colours, polished physical materials. No collage, UI, extra props, hands, watermarks, logos or real franchise branding. No readable text unless explicitly requested.\nSubject: One coherent set of exactly three hard-enamel pins on a pale lavender backing card: mint moth with coral markings, gold crescent moon and a violet five-petal flower. Fine polished metal outlines, no words. Pale peach backdrop.",
+      "generated_source": "C:\\Users\\14494\\.codex\\generated_images\\01a08f56-c661-7cc2-b622-0c5db0a58859\\exec-5d4a7879-59f5-4eeb-b3de-4084b3979f98.png"
+    },
+    {
+      "category_id": 13,
+      "image_key": "peach_orbit",
+      "name": "Peach Orbit · Planet bag charm",
+      "starting_bid": 14,
+      "subject": "Exactly one translucent peach acrylic planet-shaped bag charm with a lavender Saturn-like ring and suspended tiny mint star charm, polished silver clasp and short chain all fully visible. Holographic edge reflections. Pale blue backdrop.",
+      "description": "A translucent peach planet bag charm with a lavender ring and mint star accent. Silver-tone clasp, short chain and protective storage sleeve included.",
+      "path": "frontend-app/public/images/raredrop-peach-orbit.png",
+      "prompt": "Use case: product-mockup.\nAsset type: one square catalogue photograph for RareDrop collectible auctions.\nInput images: the three supplied originals are STYLE REFERENCES ONLY, not edit targets. Match their realistic premium collectible photography, material detail, gentle diffuse studio light, soft natural contact shadows and clean pastel seamless background. Create the DISTINCT new subject specified below, do not reproduce the reference subjects.\nComposition: one product or the explicitly specified cohesive set, centered in a slight three-quarter view, entire product within frame with roughly 10% breathing room on every edge; square 1:1. Youthful, vivid collectible colours, polished physical materials. No collage, UI, extra props, hands, watermarks, logos or real franchise branding. No readable text unless explicitly requested.\nSubject: Exactly one translucent peach acrylic planet-shaped bag charm with a lavender Saturn-like ring and suspended tiny mint star charm, polished silver clasp and short chain all fully visible. Holographic edge reflections. Pale blue backdrop.",
+      "generated_source": "C:\\Users\\14494\\.codex\\generated_images\\01a08f56-c661-7cc2-b622-0c5db0a58859\\exec-e3678bee-9083-48e5-a1ac-71c7a97dd74b.png"
+    },
+    {
+      "category_id": 13,
+      "image_key": "mixtape_charm",
+      "name": "Mint Mixtape · Cassette keychain",
+      "starting_bid": 15,
+      "subject": "Exactly one miniature mint-green cassette-tape-shaped acrylic keychain, coral reel details, lavender transparent window, polished gold split ring and short chain. Nostalgic collectible design, no letters or numbers. Pale peach backdrop.",
+      "description": "A mint cassette-shaped acrylic keychain with coral reel details and a gold-tone split ring. Unused, with clean edges and a small protective sleeve.",
+      "path": "frontend-app/public/images/raredrop-mixtape-charm.png",
+      "prompt": "Use case: product-mockup.\nAsset type: one square catalogue photograph for RareDrop collectible auctions.\nInput images: the three supplied originals are STYLE REFERENCES ONLY, not edit targets. Match their realistic premium collectible photography, material detail, gentle diffuse studio light, soft natural contact shadows and clean pastel seamless background. Create the DISTINCT new subject specified below, do not reproduce the reference subjects.\nComposition: one product or the explicitly specified cohesive set, centered in a slight three-quarter view, entire product within frame with roughly 10% breathing room on every edge; square 1:1. Youthful, vivid collectible colours, polished physical materials. No collage, UI, extra props, hands, watermarks, logos or real franchise branding. No readable text unless explicitly requested.\nSubject: Exactly one miniature mint-green cassette-tape-shaped acrylic keychain, coral reel details, lavender transparent window, polished gold split ring and short chain. Nostalgic collectible design, no letters or numbers. Pale peach backdrop.",
+      "generated_source": "C:\\Users\\14494\\.codex\\generated_images\\01a08f56-c661-7cc2-b622-0c5db0a58859\\exec-edb95e05-dad2-4bde-92ed-ac647f8fc54c.png"
+    },
+    {
+      "category_id": 14,
+      "image_key": "luna_violin",
+      "name": "Luna Sonata · Violinist acrylic stand",
+      "starting_bid": 26,
+      "subject": "One physical clear-cut acrylic stand printed with an original anime-style young woman violinist in a lavender and cream celestial dress, holding a small coral violin. Clear acrylic edges obvious, mounted on a mint star-shaped base. Character is printed artwork on the stand, not a living person or figurine. Pale peach backdrop.",
+      "description": "An original illustrated celestial violinist acrylic stand, approximately 15 cm tall, with a mint star base. Crisp printed colours; protective sleeve included.",
+      "path": "frontend-app/public/images/raredrop-luna-violin.png",
+      "prompt": "Use case: product-mockup.\nAsset type: one square catalogue photograph for RareDrop collectible auctions.\nInput images: the three supplied originals are STYLE REFERENCES ONLY, not edit targets. Match their realistic premium collectible photography, material detail, gentle diffuse studio light, soft natural contact shadows and clean pastel seamless background. Create the DISTINCT new subject specified below, do not reproduce the reference subjects.\nComposition: one product or the explicitly specified cohesive set, centered in a slight three-quarter view, entire product within frame with roughly 10% breathing room on every edge; square 1:1. Youthful, vivid collectible colours, polished physical materials. No collage, UI, extra props, hands, watermarks, logos or real franchise branding. No readable text unless explicitly requested.\nSubject: One physical clear-cut acrylic stand printed with an original anime-style young woman violinist in a lavender and cream celestial dress, holding a small coral violin. Clear acrylic edges obvious, mounted on a mint star-shaped base. Character is printed artwork on the stand, not a living person or figurine. Pale peach backdrop.",
+      "generated_source": "C:\\Users\\14494\\.codex\\generated_images\\01a08f56-c661-7cc2-b622-0c5db0a58859\\exec-a6d4b046-128f-418c-9f8c-58f77c646ee6.png"
+    },
+    {
+      "category_id": 14,
+      "image_key": "reef_explorer",
+      "name": "Reef Rover · Diver acrylic stand",
+      "starting_bid": 25,
+      "subject": "One physical clear-cut acrylic stand printed with an original anime-style young male reef explorer in a mint wetsuit, round transparent bubble helmet and coral backpack, with small illustrated floating fish. Clear acrylic edges obvious, mounted on a lavender wave-shaped base. Printed flat artwork, not a living person. Pale blue backdrop.",
+      "description": "An original reef-explorer acrylic stand with a bubble helmet illustration and matching wave base. Approximately 15 cm tall; clear print and protective sleeve included.",
+      "path": "frontend-app/public/images/raredrop-reef-explorer.png",
+      "prompt": "Use case: product-mockup.\nAsset type: one square catalogue photograph for RareDrop collectible auctions.\nInput images: the three supplied originals are STYLE REFERENCES ONLY, not edit targets. Match their realistic premium collectible photography, material detail, gentle diffuse studio light, soft natural contact shadows and clean pastel seamless background. Create the DISTINCT new subject specified below, do not reproduce the reference subjects.\nComposition: one product or the explicitly specified cohesive set, centered in a slight three-quarter view, entire product within frame with roughly 10% breathing room on every edge; square 1:1. Youthful, vivid collectible colours, polished physical materials. No collage, UI, extra props, hands, watermarks, logos or real franchise branding. No readable text unless explicitly requested.\nSubject: One physical clear-cut acrylic stand printed with an original anime-style young male reef explorer in a mint wetsuit, round transparent bubble helmet and coral backpack, with small illustrated floating fish. Clear acrylic edges obvious, mounted on a lavender wave-shaped base. Printed flat artwork, not a living person. Pale blue backdrop.",
+      "generated_source": "C:\\Users\\14494\\.codex\\generated_images\\01a08f56-c661-7cc2-b622-0c5db0a58859\\exec-510dbda9-613b-4db0-9030-8658019dda2b.png"
+    }
+  ]
+}

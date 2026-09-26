@@ -1,0 +1,128 @@
+{
+  "mode": "Built-in image_gen; one independent request per asset; original RareDrop images supplied only as style references.",
+  "created": "2026-09-16",
+  "description": "Original illustrative product images for fictional coursework auctions.",
+  "assets": [
+    {
+      "item_name": "Starfall · Numbered collector set",
+      "image_key": "limited",
+      "path": "frontend-app/public/images/raredrop-starfall-collector-set.png",
+      "prompt": "Use case: product-mockup.\nAsset type: one square catalogue product photograph for the RareDrop collectible auction website.\nInput images: all three supplied images are STYLE REFERENCES ONLY. Match their premium realistic collectible product photography, crisp material detail, soft diffuse studio lighting, gentle contact shadows, clean pastel seamless backdrop, youthful vivid product colours. Create the different product described below, not the reference subjects.\nComposition: single cohesive product or explicitly described set, centered at a slight three-quarter view, entire product visible with generous 10% margin all sides; 1:1 square, no collage, no UI.\nConstraints: original fictional demo collectible; no real brands, franchises, logos, watermarks, hands or people outside any printed cover/character art. No added captions. Avoid legible text unless specified.\nSubject: An open deep violet presentation box displaying one round enamel medallion with a turquoise shooting star, one small upright violet/teal celestial art print and a cream edition certificate. Silver trim and plush insert make this a desirable numbered collectible set. Exact small text on the certificate only: \"027 / 200\". Pale lavender studio backdrop. No other writing.",
+      "style_references": [
+        "frontend-app/public/images/raredrop-dragon-card.png",
+        "frontend-app/public/images/raredrop-astronaut-rabbit.png",
+        "frontend-app/public/images/raredrop-cyan-mecha.png"
+      ]
+    },
+    {
+      "item_name": "Cloud Parade · Mystery mini",
+      "image_key": "blindbox",
+      "path": "frontend-app/public/images/raredrop-cloud-parade-blind-box.png",
+      "prompt": "Use case: product-mockup.\nAsset type: one square catalogue product photograph for the RareDrop collectible auction website.\nInput images: all three supplied images are STYLE REFERENCES ONLY. Match their premium realistic collectible product photography, crisp material detail, soft diffuse studio lighting, gentle contact shadows, clean pastel seamless backdrop, youthful vivid product colours. Create the different product described below, not the reference subjects.\nComposition: single cohesive product or explicitly described set, centered at a slight three-quarter view, entire product visible with generous 10% margin all sides; 1:1 square, no collage, no UI.\nConstraints: original fictional demo collectible; no real brands, franchises, logos, watermarks, hands or people outside any printed cover/character art. No added captions. Avoid legible text unless specified.\nSubject: Exactly one unopened, factory-sealed pastel peach and lavender blind-box carton, illustrated with cheerful original cloud mascots and small stars. An illustrated question-mark motif on one panel communicates the mystery character. The box is the actual product; do not show an opened box or an actual revealed figure. Tiny crease at one corner. Pale peach studio backdrop; packaging print is crisp with no words.",
+      "style_references": [
+        "frontend-app/public/images/raredrop-dragon-card.png",
+        "frontend-app/public/images/raredrop-astronaut-rabbit.png",
+        "frontend-app/public/images/raredrop-cyan-mecha.png"
+      ]
+    },
+    {
+      "item_name": "Moonbean · Sleepy cloud plush",
+      "image_key": "plush",
+      "path": "frontend-app/public/images/raredrop-moonbean-cloud-plush.png",
+      "prompt": "Use case: product-mockup.\nAsset type: one square catalogue product photograph for the RareDrop collectible auction website.\nInput images: all three supplied images are STYLE REFERENCES ONLY. Match their premium realistic collectible product photography, crisp material detail, soft diffuse studio lighting, gentle contact shadows, clean pastel seamless backdrop, youthful vivid product colours. Create the different product described below, not the reference subjects.\nComposition: single cohesive product or explicitly described set, centered at a slight three-quarter view, entire product visible with generous 10% margin all sides; 1:1 square, no collage, no UI.\nConstraints: original fictional demo collectible; no real brands, franchises, logos, watermarks, hands or people outside any printed cover/character art. No added captions. Avoid legible text unless specified.\nSubject: Exactly one soft rounded pastel lavender cloud plush toy with embroidered sleepy closed eyes, a tiny smile and rosy cheeks, approximately 25 cm wide. Fine fuzzy fabric, soft seams, fluffy rounded lobes; a tiny blank hang tag attached at the side. Product resting on warm pale butter-yellow seamless backdrop. Cute tactile collectible plush, not hard plastic.",
+      "style_references": [
+        "frontend-app/public/images/raredrop-dragon-card.png",
+        "frontend-app/public/images/raredrop-astronaut-rabbit.png",
+        "frontend-app/public/images/raredrop-cyan-mecha.png"
+      ]
+    },
+    {
+      "item_name": "Neon Sprint · 1:64 die-cast coupe",
+      "image_key": "car",
+      "path": "frontend-app/public/images/raredrop-neon-sprint-model-car.png",
+      "prompt": "Use case: product-mockup.\nAsset type: one square catalogue product photograph for the RareDrop collectible auction website.\nInput images: all three supplied images are STYLE REFERENCES ONLY. Match their premium realistic collectible product photography, crisp material detail, soft diffuse studio lighting, gentle contact shadows, clean pastel seamless backdrop, youthful vivid product colours. Create the different product described below, not the reference subjects.\nComposition: single cohesive product or explicitly described set, centered at a slight three-quarter view, entire product visible with generous 10% margin all sides; 1:1 square, no collage, no UI.\nConstraints: original fictional demo collectible; no real brands, franchises, logos, watermarks, hands or people outside any printed cover/character art. No added captions. Avoid legible text unless specified.\nSubject: A miniature original fictional turquoise racing coupe, 1:64 scale, with vivid pink wheel rims, dark windows, precise die-cast panel lines, and black rubber wheels, inside a clear rectangular acrylic display case on a low black plinth. Case and miniature both fully visible with restrained reflections; slight fine scratches on case. No markings or recognizable real automaker design. Pale ice-blue backdrop.",
+      "style_references": [
+        "frontend-app/public/images/raredrop-dragon-card.png",
+        "frontend-app/public/images/raredrop-astronaut-rabbit.png",
+        "frontend-app/public/images/raredrop-cyan-mecha.png"
+      ]
+    },
+    {
+      "item_name": "Orbit Scout · Space rover kit",
+      "image_key": "kit",
+      "path": "frontend-app/public/images/raredrop-orbit-scout-model-kit.png",
+      "prompt": "Use case: product-mockup.\nAsset type: one square catalogue product photograph for the RareDrop collectible auction website.\nInput images: all three supplied images are STYLE REFERENCES ONLY. Match their premium realistic collectible product photography, crisp material detail, soft diffuse studio lighting, gentle contact shadows, clean pastel seamless backdrop, youthful vivid product colours. Create the different product described below, not the reference subjects.\nComposition: single cohesive product or explicitly described set, centered at a slight three-quarter view, entire product visible with generous 10% margin all sides; 1:1 square, no collage, no UI.\nConstraints: original fictional demo collectible; no real brands, franchises, logos, watermarks, hands or people outside any printed cover/character art. No added captions. Avoid legible text unless specified.\nSubject: One unassembled lunar rover plastic model kit presented as a cohesive set: an open compact rectangular model-kit box, three neat plastic runners in transparent sealed bags containing white and cyan body parts, exactly six separate dark wheels on the runners and an antenna part, a folded instruction leaflet and a small decal sheet. Box lid leans upright behind the parts and has a printed illustration of the completed six-wheel rover, no text. No loose assembled rover. Pale blue studio backdrop.",
+      "style_references": [
+        "frontend-app/public/images/raredrop-dragon-card.png",
+        "frontend-app/public/images/raredrop-astronaut-rabbit.png",
+        "frontend-app/public/images/raredrop-cyan-mecha.png"
+      ]
+    },
+    {
+      "item_name": "Pocket Galaxy · Observatory build",
+      "image_key": "blocks",
+      "path": "frontend-app/public/images/raredrop-pocket-galaxy-observatory.png",
+      "prompt": "Use case: product-mockup.\nAsset type: one square catalogue product photograph for the RareDrop collectible auction website.\nInput images: all three supplied images are STYLE REFERENCES ONLY. Match their premium realistic collectible product photography, crisp material detail, soft diffuse studio lighting, gentle contact shadows, clean pastel seamless backdrop, youthful vivid product colours. Create the different product described below, not the reference subjects.\nComposition: single cohesive product or explicitly described set, centered at a slight three-quarter view, entire product visible with generous 10% margin all sides; 1:1 square, no collage, no UI.\nConstraints: original fictional demo collectible; no real brands, franchises, logos, watermarks, hands or people outside any printed cover/character art. No added captions. Avoid legible text unless specified.\nSubject: An original small observatory assembled from clearly visible interlocking toy building blocks, roughly 420-piece scale, teal and cream cylindrical observatory walls, an open lavender segmented dome with a tiny orange telescope peeking through, a few brick stars on a dark circular base. Model shown assembled for illustration, studs and brick seams visible, polished plastic. No recognizable toy brand. Pale peach seamless backdrop.",
+      "style_references": [
+        "frontend-app/public/images/raredrop-dragon-card.png",
+        "frontend-app/public/images/raredrop-astronaut-rabbit.png",
+        "frontend-app/public/images/raredrop-cyan-mecha.png"
+      ]
+    },
+    {
+      "item_name": "Neon City Dispatch · Volume 1",
+      "image_key": "comic",
+      "path": "frontend-app/public/images/raredrop-neon-city-comic.png",
+      "prompt": "Use case: product-mockup.\nAsset type: one square catalogue product photograph for the RareDrop collectible auction website.\nInput images: all three supplied images are STYLE REFERENCES ONLY. Match their premium realistic collectible product photography, crisp material detail, soft diffuse studio lighting, gentle contact shadows, clean pastel seamless backdrop, youthful vivid product colours. Create the different product described below, not the reference subjects.\nComposition: single cohesive product or explicitly described set, centered at a slight three-quarter view, entire product visible with generous 10% margin all sides; 1:1 square, no collage, no UI.\nConstraints: original fictional demo collectible; no real brands, franchises, logos, watermarks, hands or people outside any printed cover/character art. No added captions. Avoid legible text unless specified.\nSubject: Exactly one physical English-language paperback comic book, about 160 pages, upright at a slight three-quarter angle with visible paper edge and spine. The vivid illustrated cover depicts an original bicycle courier crossing a turquoise and violet floating futuristic city at dusk, small pink accents. Exact clean title on cover: \"NEON CITY DISPATCH\" and small \"VOL. 1\". Subtle spine crease, otherwise very good condition. Pale lavender seamless backdrop. Render the book as a real printed collectible, not a full-frame illustration.",
+      "style_references": [
+        "frontend-app/public/images/raredrop-dragon-card.png",
+        "frontend-app/public/images/raredrop-astronaut-rabbit.png",
+        "frontend-app/public/images/raredrop-cyan-mecha.png"
+      ]
+    },
+    {
+      "item_name": "Worlds of Wonder · Concept art volume",
+      "image_key": "artbook",
+      "path": "frontend-app/public/images/raredrop-worlds-of-wonder-art-book.png",
+      "prompt": "Use case: product-mockup.\nAsset type: one square catalogue product photograph for the RareDrop collectible auction website.\nInput images: all three supplied images are STYLE REFERENCES ONLY. Match their premium realistic collectible product photography, crisp material detail, soft diffuse studio lighting, gentle contact shadows, clean pastel seamless backdrop, youthful vivid product colours. Create the different product described below, not the reference subjects.\nComposition: single cohesive product or explicitly described set, centered at a slight three-quarter view, entire product visible with generous 10% margin all sides; 1:1 square, no collage, no UI.\nConstraints: original fictional demo collectible; no real brands, franchises, logos, watermarks, hands or people outside any printed cover/character art. No added captions. Avoid legible text unless specified.\nSubject: Exactly one premium physical hardcover art book with dust jacket, about 128 pages, upright at a three-quarter angle with spine and page edges visible. Cover art is an original richly detailed fantasy landscape of floating islands, a teal waterfall and a tiny celestial observatory under violet skies. Exact elegant restrained title: \"WORLDS OF WONDER\". Tiny corner wear on dust jacket. Pale warm peach seamless studio backdrop. Real photographed book, not a full-frame landscape illustration.",
+      "style_references": [
+        "frontend-app/public/images/raredrop-dragon-card.png",
+        "frontend-app/public/images/raredrop-astronaut-rabbit.png",
+        "frontend-app/public/images/raredrop-cyan-mecha.png"
+      ]
+    },
+    {
+      "item_name": "Cosmic Club · Enamel pin trio",
+      "image_key": "pins",
+      "path": "frontend-app/public/images/raredrop-cosmic-club-enamel-pins.png",
+      "prompt": "Use case: product-mockup.\nAsset type: one square catalogue product photograph for the RareDrop collectible auction website.\nInput images: all three supplied images are STYLE REFERENCES ONLY. Match their premium realistic collectible product photography, crisp material detail, soft diffuse studio lighting, gentle contact shadows, clean pastel seamless backdrop, youthful vivid product colours. Create the different product described below, not the reference subjects.\nComposition: single cohesive product or explicitly described set, centered at a slight three-quarter view, entire product visible with generous 10% margin all sides; 1:1 square, no collage, no UI.\nConstraints: original fictional demo collectible; no real brands, franchises, logos, watermarks, hands or people outside any printed cover/character art. No added captions. Avoid legible text unless specified.\nSubject: Exactly three original hard-enamel pins mounted on a single pale lavender rectangular backing card: one golden crescent moon filled with lavender enamel, one turquoise shooting star with pink trail, and one tiny orange-and-white rocket. Fine polished gold edges, glossy enamel, clear pin-like depth and attachment, each approximately 3 cm. Card upright at slight angle with all three pins clearly separated. Small printed abstract stars but no writing. Pale lavender studio backdrop.",
+      "style_references": [
+        "frontend-app/public/images/raredrop-dragon-card.png",
+        "frontend-app/public/images/raredrop-astronaut-rabbit.png",
+        "frontend-app/public/images/raredrop-cyan-mecha.png"
+      ]
+    },
+    {
+      "item_name": "Lucky Comet · Holographic charm",
+      "image_key": "charm",
+      "path": "frontend-app/public/images/raredrop-lucky-comet-charm.png",
+      "prompt": "Use case: product-mockup.\nAsset type: one square catalogue product photograph for the RareDrop collectible auction website.\nInput images: all three supplied images are STYLE REFERENCES ONLY. Match their premium realistic collectible product photography, crisp material detail, soft diffuse studio lighting, gentle contact shadows, clean pastel seamless backdrop, youthful vivid product colours. Create the different product described below, not the reference subjects.\nComposition: single cohesive product or explicitly described set, centered at a slight three-quarter view, entire product visible with generous 10% margin all sides; 1:1 square, no collage, no UI.\nConstraints: original fictional demo collectible; no real brands, franchises, logos, watermarks, hands or people outside any printed cover/character art. No added captions. Avoid legible text unless specified.\nSubject: Exactly one original 6 cm comet-shaped acrylic keychain charm, with an iridescent holographic finish, violet star head and teal/pink tail, linked by a short silver-tone chain and lobster clasp. The whole clasp, chain and charm are visible together lying gracefully on the seamless surface; a tiny soft cream storage pouch sits neatly behind as the included accessory. Clear thick acrylic edges and subtle removable protective film, pristine unused condition. Pale peach backdrop.",
+      "style_references": [
+        "frontend-app/public/images/raredrop-dragon-card.png",
+        "frontend-app/public/images/raredrop-astronaut-rabbit.png",
+        "frontend-app/public/images/raredrop-cyan-mecha.png"
+      ]
+    },
+    {
+      "item_name": "Starbound Cafe · Character stand",
+      "image_key": "stand",
+      "path": "frontend-app/public/images/raredrop-starbound-cafe-acrylic-stand.png",
+      "prompt": "Use case: product-mockup.\nAsset type: one square catalogue product photograph for the RareDrop collectible auction website.\nInput images: all three supplied images are STYLE REFERENCES ONLY. Match their premium realistic collectible product photography, crisp material detail, soft diffuse studio lighting, gentle contact shadows, clean pastel seamless backdrop, youthful vivid product colours. Create the different product described below, not the reference subjects.\nComposition: single cohesive product or explicitly described set, centered at a slight three-quarter view, entire product visible with generous 10% margin all sides; 1:1 square, no collage, no UI.\nConstraints: original fictional demo collectible; no real brands, franchises, logos, watermarks, hands or people outside any printed cover/character art. No added captions. Avoid legible text unless specified.\nSubject: Exactly one transparent die-cut acrylic character stand, 15 cm tall, with a crescent-shaped lavender base. Printed original cute anime-style adult space barista wearing a teal cafe apron over a white-and-orange space suit and holding a tiny steaming coffee cup; short violet hair, friendly expression. Distinct flat printed artwork inside glossy clear acrylic with a visible transparent border and slot in the crescent base; do not turn it into a 3D figurine. Pale blue seamless studio backdrop.",
+      "style_references": [
+        "frontend-app/public/images/raredrop-dragon-card.png",
+        "frontend-app/public/images/raredrop-astronaut-rabbit.png",
+        "frontend-app/public/images/raredrop-cyan-mecha.png"
+      ]
+    }
+  ]
+}

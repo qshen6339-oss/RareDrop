@@ -1,0 +1,13 @@
+**/node_modules/
+**/db.sqlite*
+**/dist/
+**/.vite/
+**/.vite-temp/
+**/.env
+**/.env.local
+.idea/
+verification/*-server.log
+verification/*.log
+.DS_Store
+Thumbs.db
+submission/
