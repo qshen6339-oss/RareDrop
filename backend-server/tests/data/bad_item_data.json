@@ -1,0 +1,51 @@
+[
+    {
+        "test_description": "Test blank name",
+        "name":"",
+        "description":"Unused office chair in good condition with adjustable arm rests.",
+        "starting_bid":220,
+        "end_date":"1800403200000"
+    },
+    {
+        "test_description": "Test blank description",
+        "name":"Wireless mouse with rechargeable battery.",
+        "description":"",
+        "starting_bid":60,
+        "end_date":"1802217600000"
+    },
+    {
+        "test_description": "Test blank starting bid",
+        "name":"Handmade wool blanket.",
+        "description":"Soft queen-size blanket with a neutral pattern for all-season use.",
+        "starting_bid":null,
+        "end_date":"1804204800000"
+    },
+    {
+        "test_description": "Test blank end_date",
+        "name":"Compact air purifier.",
+        "description":"Runs quietly in small rooms and includes one replacement filter.",
+        "starting_bid":180,
+        "end_date":""
+    },
+    {
+        "test_description": "Test negative starting_bid",
+        "name":"Gaming headset with noise-canceling microphone.",
+        "description":"Over-ear headset with clear voice capture and soft memory-foam pads.",
+        "starting_bid":-1,
+        "end_date":"1805932800000"
+    },
+    {
+        "test_description": "Test end date in the past",
+        "name":"Set of classic mystery novels.",
+        "description":"Seven paperback books with light shelf wear and clean pages.",
+        "starting_bid":75,
+        "end_date":"1700000000"
+    },
+    {
+        "test_description": "Test invalid start",
+        "name":"Collector edition board game.",
+        "description":"Complete set with all pieces, cards, and rulebook in original box.",
+        "starting_bid":300,
+        "end_date":"-1"
+    }
+]
